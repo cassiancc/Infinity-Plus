@@ -76,6 +76,6 @@
   },
   "biome_source": {
     "type": "fixed",
-    "biome": "infinity:checkerboard"
+    "biome": "ultimate:ant"
   }
 }
