@@ -1,0 +1,13 @@
+name = "Elytras+"
+filename = "ElytrasPlus4.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "789e1006cd34e21855443af89d4050a2a20687f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4515204
+project-id = 256220

@@ -1,0 +1,138 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = 
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505154%
+  orientation = mid-centered
+  x = 4
+  action = movebutton
+  y = -115
+}
+
+customization {
+  identifier = %id=345280%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=345154%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -115
+}
+
+customization {
+  identifier = %id=505280%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = 10
+}
+
+customization {
+  identifier = %id=400334%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 68
+}
+
+customization {
+  identifier = %id=345256%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = 34
+}
+
+customization {
+  identifier = %id=505256%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -14
+}
+
+customization {
+  identifier = %id=345232%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=505232%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=345208%
+  orientation = mid-centered
+  x = -155
+  action = movebutton
+  y = -61
+}
+
+customization {
+  identifier = %id=345304%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505208%
+  orientation = mid-centered
+  x = 5
+  action = movebutton
+  y = -62
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui;com.terraformersmc.modmenu.gui.ModsScreen%btnaction_splitter_fm%
+  x = -155
+  width = 150
+  action = addbutton
+  actionid = 41b38cde-2f67-4c89-a806-4e376ea073701688146744478
+  y = -14
+  label = Mods...
+  height = 20
+}
+
+customization {
+  identifier = %id=635154%
+  orientation = mid-centered
+  x = 138
+  action = movebutton
+  y = -115
+}
+
+customization {
+  identifier = %id=635154%
+  width = 18
+  action = resizebutton
+  height = 20
+}
+

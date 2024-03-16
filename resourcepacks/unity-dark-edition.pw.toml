@@ -1,0 +1,13 @@
+name = "Unity: Dark Edition"
+filename = "Unity-1.20.1-Dark-1.1.0.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6357a9a1f176ca642b23d7e420d37d2a9f7c4906"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4607694
+project-id = 350660

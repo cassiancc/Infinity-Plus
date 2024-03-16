@@ -1,0 +1,55 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/customsplashscreen/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 93
+  width = 240
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = f8c4c6c8-693a-46b1-95fa-9b68d860998d1683839155384
+  y = 90
+  height = 60
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = c38117bd-38d9-4af6-9bdf-ecb4ed8ca1da1683839155394
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 93
+  width = 240
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 328e9077-3996-43e6-a0fa-c560d3b784d31683839155394
+  y = 194
+  height = 10
+}
+

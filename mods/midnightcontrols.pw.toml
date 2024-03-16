@@ -1,0 +1,17 @@
+name = "MidnightControls"
+filename = "midnightcontrols-1.9.4+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/xHOdr9un/midnightcontrols-1.9.4%2B1.20.jar"
+hash-format = "sha1"
+hash = "9c88a6d8c043db3b1cbf7301432080636ef3ee9d"
+
+[update]
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "xHOdr9un"
+
+[option]
+optional = true
+description = "A Fabric Minecraft mod which adds controller support."
