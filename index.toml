@@ -635,10 +635,6 @@ hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]
-file = "resourcepacks/NoBushyLeaves.zip"
-hash = "c5aeb413cf402cbd2cbf2ff48b626c57543e49dd06189e553bc9f39dace932e1"
-
-[[files]]
 file = "resourcepacks/Rainbow_Selection.zip"
 hash = "84d11386b648c681e06a32516b3aeb5f27a30b1d2c2befbe5105e56031065c25"
 
@@ -657,12 +653,13 @@ hash = "9d976002ed03440ea112623b9d0c7400ce8311ff2c10f0ceb1e4e62a54038eba"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali's Potions v1.0.0.zip"
-hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
-
-[[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "af2cc0a35ba65e54a83ca7b340fe5be559145fbd9ce6ad711075862659ca292c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
 
 [[files]]
