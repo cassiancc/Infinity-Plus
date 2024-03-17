@@ -1,0 +1,13 @@
+name = "Sword Blocking Mechanics"
+filename = "SwordBlockingMechanics-v8.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4v5Na7b9/versions/zScUVKoM/SwordBlockingMechanics-v8.0.1-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "39f03fbd4749e04422e2574b078d9bf343a945c5"
+
+[update]
+[update.modrinth]
+mod-id = "4v5Na7b9"
+version = "zScUVKoM"
