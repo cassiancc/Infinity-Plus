@@ -620,6 +620,11 @@ file = "mods/ultimate-1.0-1.20-SNAPSHOT.jar"
 hash = "a580467dff9ff5fafcad727f4d2e836b46b1c3bb7134d4e28122a3a7e21ec088"
 
 [[files]]
+file = "mods/ultimate-content-mod.pw.toml"
+hash = "cc72583daaa17af68947d3c1f3e7d9cb04baac3ddcb9b1f68ae033ea3c980add"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5e0a45bf42bc911f15e06431df58dcfaeb21bbf07bd33d6800d39141c2bd71bb"
 metafile = true
