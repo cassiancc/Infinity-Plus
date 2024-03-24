@@ -428,8 +428,8 @@ hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
 
 [[files]]
-file = "mods/dynmapforge.pw.toml"
-hash = "4be14ee50532124366f99f7dcb6636ad78259d2af0c78441dcef94d4ff02e96c"
+file = "mods/dynmap.pw.toml"
+hash = "f29d31943ed2e7ea4ef9c9164ed12739345507621fbf540d3c0d9679b97220a8"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+hash = "e9a8b6c5ae96cce3df5016984031d1db1be723360b2d477574dba71774539746"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+hash = "79a081863d72b71a5df9eadb1aaaf7a1e001318b2a95b21bef3ba4ad71355fec"
 metafile = true
 
 [[files]]
