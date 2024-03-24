@@ -3,11 +3,11 @@ filename = "Unity-1.20.1-Dark-1.1.0.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/EkrInWCl/versions/6d03yUhb/Unity-1.20.1-Dark-1.1.0.zip"
 hash-format = "sha1"
 hash = "6357a9a1f176ca642b23d7e420d37d2a9f7c4906"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4607694
-project-id = 350660
+[update.modrinth]
+mod-id = "EkrInWCl"
+version = "6d03yUhb"

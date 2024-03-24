@@ -702,21 +702,12 @@ file = "resourcepacks/Bookshelves-Redesign.zip"
 hash = "26fb57e3da4e35f5f83b3c1acc4e208b8a2d0e0803671541ff2a5266b5df277e"
 
 [[files]]
-file = "resourcepacks/Rainbow_Selection.zip"
-hash = "84d11386b648c681e06a32516b3aeb5f27a30b1d2c2befbe5105e56031065c25"
-
-[[files]]
 file = "resourcepacks/Unity-1.20-Compatible.zip"
 hash = "9e8ee99719a4a57a5aeb6c5896c40125854edf1d96babfc4716aeb7f9ba3cfdc"
 
 [[files]]
-file = "resourcepacks/elytras.pw.toml"
-hash = "2d02099b232417821243005a608c232217de1e54144b9e6420818388ccf8ca61"
-metafile = true
-
-[[files]]
 file = "resourcepacks/unity-dark-edition.pw.toml"
-hash = "9d976002ed03440ea112623b9d0c7400ce8311ff2c10f0ceb1e4e62a54038eba"
+hash = "ceec7aace18ff21ae36cb0507bae76ce94906538a95e2e84ee04645878519be7"
 metafile = true
 
 [[files]]
