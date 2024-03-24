@@ -29,6 +29,22 @@ file = "config/bedrockify.json"
 hash = "5ccb5a45d42168272d8fe0e0f7c340ce09bc550c9f5daca890abde89056b0469"
 
 [[files]]
+file = "config/bedrockify/bedrockify-ExternalLoadingTips.json"
+hash = "070db915479c969425c248b201e833d01fde22c6c4f0b325a36aa9dbcbaa9a9c"
+
+[[files]]
+file = "config/bedrockify/bedrockifyClient.json"
+hash = "e91b85cfc8e762176868236f504558bf43754978bbf2bd92f1c7a39600d60afb"
+
+[[files]]
+file = "config/bedrockify/bedrockifyCommon.json"
+hash = "1d0c761352a8cda4cfe5679520d89c5649f36067db1bd8f6722cc34ba4438123"
+
+[[files]]
+file = "config/bedrockify/bedrockifyMixins.json"
+hash = "c8552ac55284532eab049c2a7bce4cbc345c74e2fee38e62b20a748743e3a25b"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "87522f737ef0e702a349c4ec28e58ed47fbd1d7875c1eabfd555b6992d6bbfcd"
 
@@ -182,10 +198,18 @@ hash = "d529282c2561c52ed00d370c153fbf7e1081e169d2c066ca2a596092efb661fb"
 
 [[files]]
 file = "config/infinity/util/easter/11.json"
-hash = "d62035801164661f95faa00a27ebf4b394ef05690068f3cfeb32014a63b0ce59"
+hash = "be4931e54e584c726e66b41532b2eddff5894d6b4b9b28361c7d4213d89338d0"
 
 [[files]]
 file = "config/infinity/util/easter/12.json"
+hash = "b0c26688e36982c69fc01f87d5a42684da3cb4d467bf4c0ff79a2188d3ae0cc1"
+
+[[files]]
+file = "config/infinity/util/easter/13.json"
+hash = "d62035801164661f95faa00a27ebf4b394ef05690068f3cfeb32014a63b0ce59"
+
+[[files]]
+file = "config/infinity/util/easter/14.json"
 hash = "8bf092f2dd18512bee86c8f323a709a40c5a33f817ffe3ddf4d74ce5df2606d2"
 
 [[files]]
@@ -206,7 +230,7 @@ hash = "bd288444e9231ae88279a03829d300cf8fa5417b16185f561e7b37dc43674c40"
 
 [[files]]
 file = "config/infinity/util/easter/6.json"
-hash = "df378a8973eb5484780a83e67c583a65150f7e07899577493d65f68bcb5c88e4"
+hash = "f86261738cf4bbbf00f8fa9a25b6eb261448a2cf8e708d3999306e62faefa1d3"
 
 [[files]]
 file = "config/infinity/util/easter/7.json"
@@ -226,7 +250,7 @@ hash = "1a091c6cf80d0ce74e48abd07973c730a3e7815c0c043a7c55aa93df5651fe75"
 
 [[files]]
 file = "config/infinity/util/easter/egg_map.json"
-hash = "0fb9d89ef7d2842a790322123d8585a5b814739583bc62141d22aa64e86e1a10"
+hash = "9d5d789c9a83aa896e22a27168e0828b2c232cc9cc95e04441e406e47598b436"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -668,6 +692,10 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Bookshelves-Redesign.zip"
+hash = "26fb57e3da4e35f5f83b3c1acc4e208b8a2d0e0803671541ff2a5266b5df277e"
 
 [[files]]
 file = "resourcepacks/Rainbow_Selection.zip"
