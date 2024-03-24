@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
-hash = "cc72583daaa17af68947d3c1f3e7d9cb04baac3ddcb9b1f68ae033ea3c980add"
+hash = "b765eb00bea3d15ff164bf42f70aee7cf95341126a47e74dcefaaa274de0df7a"
 metafile = true
 
 [[files]]
