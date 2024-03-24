@@ -265,6 +265,10 @@ file = "config/mousewheelie.hjson"
 hash = "20e34db264f82cc15544353976222b47de3db617e1577afcc4f60928afd3a90c"
 
 [[files]]
+file = "config/paxi/datapacks/Ultimate-Dimension-Pack-v1.zip"
+hash = "06579094bced3ea735797b80b0ed14ee895dbd0016f12f5a05f52634b77c5867"
+
+[[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
@@ -421,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "4be14ee50532124366f99f7dcb6636ad78259d2af0c78441dcef94d4ff02e96c"
 metafile = true
 
 [[files]]
