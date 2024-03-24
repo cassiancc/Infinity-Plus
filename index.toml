@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d6fbe65a2cb2caa61ba0990b5e105a88473c2ba2d9d81ef67cd0f5774464deca"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "2af6da57b84d25082989cb3c62328da216bc1c457b5676591346c62f64879cbe"
 
@@ -282,7 +286,7 @@ hash = "9a1723a3f1733848eabc727a00bffbc920cda1550dc45a903dbfea2eae0eb6ca"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
@@ -317,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5ec1499fde198ac315df007311135d8d63858adb14c6c95e9730760732d61032"
+hash = "546ad110838279308e92fa46583474e81484d4574ce924179d2c73744fa07ecf"
 metafile = true
 
 [[files]]
@@ -333,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "fb922454254e4b5e4de9041b343be17986c68b50b3d3fc5a8f183240277cc283"
 metafile = true
 
 [[files]]
@@ -392,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "216924d46f884bd7d4e545ed39f947336ef94fcdf75eccc293ce1fef24127242"
+hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
 metafile = true
 
 [[files]]
@@ -412,12 +421,17 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "a6524fda4d6d22317d911a6186b47700495119ea2504ac94785c28773af6ffdc"
+hash = "eba79a76fb725a167d32a31387378b66d1d517a3ecd23de18e267c30bc3bced0"
 metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -447,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "97df5d3cbcd705e6c6b986bbc49b61b6c28814181acffbdc369df43e19e8bb13"
+hash = "b9e35331cf17370166a0a15a4b80034bb1b884fd124718fb9981fecaa3c1e939"
 metafile = true
 
 [[files]]
@@ -478,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -522,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -537,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
 metafile = true
 
 [[files]]
@@ -572,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
+hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
@@ -616,8 +635,9 @@ hash = "6fd6d0026192e948a7b488c19a4953d72921b5db4008e190f05b5211648815ed"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-1.0-1.20-SNAPSHOT.jar"
-hash = "a580467dff9ff5fafcad727f4d2e836b46b1c3bb7134d4e28122a3a7e21ec088"
+file = "mods/tick-stasis.pw.toml"
+hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+metafile = true
 
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
@@ -626,12 +646,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5e0a45bf42bc911f15e06431df58dcfaeb21bbf07bd33d6800d39141c2bd71bb"
+hash = "48cf73caa7488380ff1435bd6953883e9da7d3f25a00819ade22543f9407b0fe"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "528685d69966f72bfc2eab53caf66f4fa95cdd7dd8f33445a3867af73824f705"
+hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
 metafile = true
 
 [[files]]

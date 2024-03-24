@@ -1,6 +1,6 @@
 name = "FancyMenu"
 filename = "fancymenu_fabric_3.1.2_MC_1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/r2jmO7md/fancymenu_fabric_3.1.2_MC_1.20.1.jar"
