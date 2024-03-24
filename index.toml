@@ -335,6 +335,11 @@ hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "a5251001f835f131fca620b8633f0309208bdcdeea22e2820f633ea02bb43cee"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true

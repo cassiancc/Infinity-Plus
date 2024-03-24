@@ -50,12 +50,12 @@
     "surface_rule": {
       "type": "minecraft:block",
       "result_state": {
-        "Name": "minecraft:air"
+        "Name": "minecraft:wooden_slab"
       }
     }
   },
   "biome_source": {
     "type": "fixed",
-    "biome": "infinity:content"
+    "biome": "ultimate:library"
   }
 }
