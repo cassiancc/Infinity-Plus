@@ -58,7 +58,7 @@ hash = "edc88686e8127f3308d2fbc62a94d4d44a2fb2b15cb5de84565770a4977c3faa"
 
 [[files]]
 file = "config/customsplashscreen/background.png"
-hash = "2b4f258a2b81c444832b68f438c2eeeefeb224e80a7e44dd56576afc89c564c3"
+hash = "1cdaae5564cf4b3a3b5bd351b5bcc42b035b80148e6791bec652f8507e8fef16"
 
 [[files]]
 file = "config/customsplashscreen/mojangstudios.png"
@@ -501,11 +501,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
-metafile = true
-
-[[files]]
-file = "mods/itemswapper.pw.toml"
-hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
 
 [[files]]
