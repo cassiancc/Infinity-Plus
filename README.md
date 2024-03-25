@@ -31,13 +31,13 @@ This pack would not be possible without the incredible work of [LeraRiemann](htt
 ### Mod Licenses
 Some mods and add-ons included in the pack are not available on Modrinth. The following is a list of these additions, as well as their licenses.
 
-<details><summary>Bookshelves Redesign</summary>This pack contains a custom resource pack containing new WIP textures for the Box of Infinite Books. It was developed by myself for use in this pack.</details>
-
 <details><summary>Litematica</summary>This pack includes <a target='_blank' href='https://www.curseforge.com/minecraft/mc-mods/litematica'>maruohon's Litematica</a>. <a target='_blank'  href='https://github.com/maruohon/litematica/blob/pre-rewrite/fabric/infinite/COPYING.txt'>This mod is available under the GPL from GitHub</a>.</details>
     
 <details><summary>MaLiLib</summary>This pack includes <a target='_blank' href='https://www.curseforge.com/minecraft/mc-mods/malilib'>maruohon's malilib</a>. <a target='_blank' href='https://github.com/maruohon/malilib?tab=LGPL-3.0-1-ov-file#readme'>This mod is available under the GPL from GitHub</a>.</details>
 
 <details><summary>Ultimate Dimension Pack</summary>This pack contains a custom datapack in order to register additional mod dimensions. It was developed by myself for use in this pack.</details>
+
+<details><summary>Ultimate Experiment Pack</summary>This pack contains a custom resource pack containing new WIP textures for the Box of Infinite Books and An Ant. It was developed by myself for use in this pack.</details>
 
 <details><summary>Unity</summary><a target='_blank' href='https://modrinth.com/resourcepack/unity'>
     Unity</a> by CyanideX is licensed under a <a
