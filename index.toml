@@ -265,8 +265,8 @@ file = "config/mousewheelie.hjson"
 hash = "20e34db264f82cc15544353976222b47de3db617e1577afcc4f60928afd3a90c"
 
 [[files]]
-file = "config/paxi/datapacks/Ultimate-Dimension-Pack-v1.zip"
-hash = "06579094bced3ea735797b80b0ed14ee895dbd0016f12f5a05f52634b77c5867"
+file = "config/paxi/datapacks/Ultimate Dimension Pack v1.zip"
+hash = "508d1387cd76488443a938fd2243b1c0a9f62ece2cfc3b453a79c27527c022c0"
 
 [[files]]
 file = "config/waila/blacklist.json"
