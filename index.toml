@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "152e6152446cb0583dbbdd7e1ea77162b35abb15a52083a2e886a789eca540be"
+hash = "b1e552d8637d88d03b95960a808c9538cccffb682929037085cd6a5530b2324f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Ultimate Experiment Pack.zip"
-hash = "133a6ac0f591f30d71585ee6099f2d9d11cc73e32f67b43657e5b9b49b611269"
+hash = "445c1e701f254ace5ab1ca4187a9a3345dde49ce65ea9d37c85503829b7ac55f"
 
 [[files]]
 file = "resourcepacks/Unity-1.20-Compatible.zip"
