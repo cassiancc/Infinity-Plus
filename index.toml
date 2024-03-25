@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "b1e552d8637d88d03b95960a808c9538cccffb682929037085cd6a5530b2324f"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "2af6da57b84d25082989cb3c62328da216bc1c457b5676591346c62f64879cbe"
 
@@ -19,10 +15,6 @@ hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
 [[files]]
 file = "config/NoChatReports/NCR-ServerWhitelist.json"
 hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "config/bedrockify.json"
