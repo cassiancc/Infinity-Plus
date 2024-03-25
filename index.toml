@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d6fbe65a2cb2caa61ba0990b5e105a88473c2ba2d9d81ef67cd0f5774464deca"
+hash = "152e6152446cb0583dbbdd7e1ea77162b35abb15a52083a2e886a789eca540be"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -698,8 +698,8 @@ hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Bookshelves-Redesign.zip"
-hash = "26fb57e3da4e35f5f83b3c1acc4e208b8a2d0e0803671541ff2a5266b5df277e"
+file = "resourcepacks/Ultimate Experiment Pack.zip"
+hash = "133a6ac0f591f30d71585ee6099f2d9d11cc73e32f67b43657e5b9b49b611269"
 
 [[files]]
 file = "resourcepacks/Unity-1.20-Compatible.zip"
