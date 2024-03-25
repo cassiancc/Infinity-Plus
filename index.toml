@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
-hash = "b765eb00bea3d15ff164bf42f70aee7cf95341126a47e74dcefaaa274de0df7a"
+hash = "cf395c9cc8244a267b51eabeb8ef21781e52a55d2c365dd651e43615441eedc4"
 metafile = true
 
 [[files]]

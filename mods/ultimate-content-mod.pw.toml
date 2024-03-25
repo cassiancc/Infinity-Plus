@@ -1,13 +1,13 @@
 name = "Ultimate Content Mod"
-filename = "ultimate-1.1-1.20.jar"
+filename = "ultimate-1.2-1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BZDpNDDc/versions/tzVL5ahm/ultimate-1.1-1.20.jar"
+url = "https://cdn.modrinth.com/data/BZDpNDDc/versions/MBCR1gxL/ultimate-1.2-1.20.jar"
 hash-format = "sha1"
-hash = "404adaec1e8d96d672dff16b5ab26ab46f741c1f"
+hash = "212516581d7b898d4868aa2ff3f5b4b181ded434"
 
 [update]
 [update.modrinth]
 mod-id = "BZDpNDDc"
-version = "tzVL5ahm"
+version = "MBCR1gxL"
