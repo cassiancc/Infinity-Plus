@@ -205,6 +205,10 @@ file = "config/infinity/util/easter/14.json"
 hash = "8bf092f2dd18512bee86c8f323a709a40c5a33f817ffe3ddf4d74ce5df2606d2"
 
 [[files]]
+file = "config/infinity/util/easter/15.json"
+hash = "11b4dacdfb701aaba19647af339e8518d18cd3b2240bc7bc7214574f39df4feb"
+
+[[files]]
 file = "config/infinity/util/easter/2.json"
 hash = "70d158c9c045b2adc4f40df96ab4ba6424765e40a4d6eebe8e6a69904d71a67a"
 
@@ -242,7 +246,7 @@ hash = "1a091c6cf80d0ce74e48abd07973c730a3e7815c0c043a7c55aa93df5651fe75"
 
 [[files]]
 file = "config/infinity/util/easter/egg_map.json"
-hash = "9d5d789c9a83aa896e22a27168e0828b2c232cc9cc95e04441e406e47598b436"
+hash = "7bc69b1d04a9126b061d6aa84b08b17de3621dfc9bb15675c956342585d32560"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -257,8 +261,8 @@ file = "config/mousewheelie.hjson"
 hash = "20e34db264f82cc15544353976222b47de3db617e1577afcc4f60928afd3a90c"
 
 [[files]]
-file = "config/paxi/datapacks/Ultimate Dimension Pack v1.zip"
-hash = "508d1387cd76488443a938fd2243b1c0a9f62ece2cfc3b453a79c27527c022c0"
+file = "config/paxi/datapacks/Ultimate Dimension Pack v2.zip"
+hash = "a0705ad7c5d1ffc89dd7faff5a30c565583c89dc34d641f43723a027ae727054"
 
 [[files]]
 file = "config/waila/blacklist.json"
