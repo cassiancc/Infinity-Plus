@@ -198,7 +198,11 @@ hash = "b0c26688e36982c69fc01f87d5a42684da3cb4d467bf4c0ff79a2188d3ae0cc1"
 
 [[files]]
 file = "config/infinity/util/easter/13.json"
-hash = "d62035801164661f95faa00a27ebf4b394ef05690068f3cfeb32014a63b0ce59"
+hash = "b7e2400c8e85d441799b06ee15a33bfe733c6a3b20f12a74e3ac92eeaf250975"
+
+[[files]]
+file = "config/infinity/util/easter/13_type.json"
+hash = "7c9ffb868633a48dcd8519886e6b97234f23e404938fa9326340c4a6750834c1"
 
 [[files]]
 file = "config/infinity/util/easter/14.json"
