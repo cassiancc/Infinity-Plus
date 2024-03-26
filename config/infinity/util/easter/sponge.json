@@ -57,5 +57,6 @@
   "biome_source": {
     "type": "fixed",
     "biome": "infinity:sponge"
-  }
+  },
+  "easter-type": "sponge"
 }

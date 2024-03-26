@@ -173,84 +173,80 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
-file = "config/infinity/util/easter/0.json"
-hash = "21c0d5d0dbe0f4c2755d9b76a7e7b354b7eab7049a258b2f7c28d356fe2fc1cd"
+file = "config/infinity/util/easter/ant.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/infinity/util/easter/0_type.json"
-hash = "a2fa8d1453b09accab17f7dcc039ede90675b6a40b4ab6a0de33ecc6a4d15528"
-
-[[files]]
-file = "config/infinity/util/easter/1.json"
-hash = "a0321e9c2b6f6bda94ebbadd0e4ccb34ecd1d048dd34a32bbb1e8e650ef8cc50"
-
-[[files]]
-file = "config/infinity/util/easter/10.json"
-hash = "d529282c2561c52ed00d370c153fbf7e1081e169d2c066ca2a596092efb661fb"
-
-[[files]]
-file = "config/infinity/util/easter/11.json"
-hash = "be4931e54e584c726e66b41532b2eddff5894d6b4b9b28361c7d4213d89338d0"
-
-[[files]]
-file = "config/infinity/util/easter/12.json"
-hash = "b0c26688e36982c69fc01f87d5a42684da3cb4d467bf4c0ff79a2188d3ae0cc1"
-
-[[files]]
-file = "config/infinity/util/easter/13.json"
-hash = "b7e2400c8e85d441799b06ee15a33bfe733c6a3b20f12a74e3ac92eeaf250975"
-
-[[files]]
-file = "config/infinity/util/easter/13_type.json"
-hash = "7c9ffb868633a48dcd8519886e6b97234f23e404938fa9326340c4a6750834c1"
-
-[[files]]
-file = "config/infinity/util/easter/14.json"
-hash = "8bf092f2dd18512bee86c8f323a709a40c5a33f817ffe3ddf4d74ce5df2606d2"
-
-[[files]]
-file = "config/infinity/util/easter/15.json"
-hash = "11b4dacdfb701aaba19647af339e8518d18cd3b2240bc7bc7214574f39df4feb"
-
-[[files]]
-file = "config/infinity/util/easter/2.json"
-hash = "70d158c9c045b2adc4f40df96ab4ba6424765e40a4d6eebe8e6a69904d71a67a"
-
-[[files]]
-file = "config/infinity/util/easter/3.json"
-hash = "2f0e83d03e6812fad5fc276ed7865e3616a348c9df00582f762171bdc05a86e7"
-
-[[files]]
-file = "config/infinity/util/easter/4.json"
-hash = "0c3e99eb2a6872aa9d773b0033c3df85347380a3947c62ae2a0fd7339ba313c0"
-
-[[files]]
-file = "config/infinity/util/easter/5.json"
-hash = "bd288444e9231ae88279a03829d300cf8fa5417b16185f561e7b37dc43674c40"
-
-[[files]]
-file = "config/infinity/util/easter/6.json"
-hash = "f86261738cf4bbbf00f8fa9a25b6eb261448a2cf8e708d3999306e62faefa1d3"
-
-[[files]]
-file = "config/infinity/util/easter/7.json"
+file = "config/infinity/util/easter/chaos.json"
 hash = "69866c333077fad65178363fae96466cc92a543e46525943a9a3b19f33905bdd"
 
 [[files]]
-file = "config/infinity/util/easter/8.json"
-hash = "9e6a897544293d236c39ac64e44df3cba6a65bea8f34007aacd952d729f55134"
+file = "config/infinity/util/easter/checkerboard.json"
+hash = "2f0e83d03e6812fad5fc276ed7865e3616a348c9df00582f762171bdc05a86e7"
 
 [[files]]
-file = "config/infinity/util/easter/8_type.json"
-hash = "95e57606dc5ed71388cd8012bd0b84cc6991cad08fc1f9145965847ef2e6fb5b"
+file = "config/infinity/util/easter/content.json"
+hash = "2c0a4188e6d90b926cda01782b8fb06e7d68f5ab85570c92760404c02329767d"
 
 [[files]]
-file = "config/infinity/util/easter/9.json"
+file = "config/infinity/util/easter/credits.json"
+hash = "f86261738cf4bbbf00f8fa9a25b6eb261448a2cf8e708d3999306e62faefa1d3"
+
+[[files]]
+file = "config/infinity/util/easter/debug.json"
+hash = "70d158c9c045b2adc4f40df96ab4ba6424765e40a4d6eebe8e6a69904d71a67a"
+
+[[files]]
+file = "config/infinity/util/easter/default_type.json"
+hash = "a2fa8d1453b09accab17f7dcc039ede90675b6a40b4ab6a0de33ecc6a4d15528"
+
+[[files]]
+file = "config/infinity/util/easter/elephants.json"
+hash = "bd288444e9231ae88279a03829d300cf8fa5417b16185f561e7b37dc43674c40"
+
+[[files]]
+file = "config/infinity/util/easter/hills.json"
+hash = "21c0d5d0dbe0f4c2755d9b76a7e7b354b7eab7049a258b2f7c28d356fe2fc1cd"
+
+[[files]]
+file = "config/infinity/util/easter/library.json"
+hash = "0f9e107e1916d0449cb4cc87a4f387ff0bfbe46c1b64867fd9cde8c85227dd41"
+
+[[files]]
+file = "config/infinity/util/easter/library_type.json"
+hash = "ef50bd681961cd9dd7b4c782a510bf810d3f7aecfe9fe7841dbb6626dfc65168"
+
+[[files]]
+file = "config/infinity/util/easter/missing.json"
+hash = "0a20588a9bda27d1863552f4c093a9b31ea8a6d6f78e7660b37738b0c0ec312b"
+
+[[files]]
+file = "config/infinity/util/easter/pride.json"
+hash = "0c3e99eb2a6872aa9d773b0033c3df85347380a3947c62ae2a0fd7339ba313c0"
+
+[[files]]
+file = "config/infinity/util/easter/random_forest.json"
+hash = "d529282c2561c52ed00d370c153fbf7e1081e169d2c066ca2a596092efb661fb"
+
+[[files]]
+file = "config/infinity/util/easter/skygrid.json"
 hash = "1a091c6cf80d0ce74e48abd07973c730a3e7815c0c043a7c55aa93df5651fe75"
 
 [[files]]
-file = "config/infinity/util/easter/egg_map.json"
-hash = "7bc69b1d04a9126b061d6aa84b08b17de3621dfc9bb15675c956342585d32560"
+file = "config/infinity/util/easter/slime.json"
+hash = "be4931e54e584c726e66b41532b2eddff5894d6b4b9b28361c7d4213d89338d0"
+
+[[files]]
+file = "config/infinity/util/easter/spiral.json"
+hash = "a0321e9c2b6f6bda94ebbadd0e4ccb34ecd1d048dd34a32bbb1e8e650ef8cc50"
+
+[[files]]
+file = "config/infinity/util/easter/sponge.json"
+hash = "f6b5eb4afd5acbeed16caf084343e38d909b8bbd404cf4cbabe1433f0dd9cce3"
+
+[[files]]
+file = "config/infinity/util/easter/sponge_type.json"
+hash = "95e57606dc5ed71388cd8012bd0b84cc6991cad08fc1f9145965847ef2e6fb5b"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -489,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "b9e35331cf17370166a0a15a4b80034bb1b884fd124718fb9981fecaa3c1e939"
+hash = "a07e67bbcbbdf29c454b550681d2fc6d2e5107d9d373325a333183a1ec55b760"
 metafile = true
 
 [[files]]
@@ -669,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "48cf73caa7488380ff1435bd6953883e9da7d3f25a00819ade22543f9407b0fe"
+hash = "e60b866379fdfec0c9b6eed19159fe591e5276127e45b0b3d2e555197cecd3f5"
 metafile = true
 
 [[files]]
