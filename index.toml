@@ -174,7 +174,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/infinity/util/easter/ant.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "206e79b54d3630534d2e206ca13f46f57e5a7c0db88992ac36bf01bcfb45c085"
 
 [[files]]
 file = "config/infinity/util/easter/chaos.json"
