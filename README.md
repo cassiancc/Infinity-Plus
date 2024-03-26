@@ -21,7 +21,7 @@ Infinity Plus takes the gameplay changes and new mechanics from 20w14infinite an
 <img width= 95% src="https://cdn.modrinth.com/data/GPvoxgcE/images/f8edcf026aa5a91715cdd0852742e675da32897f.png">
 
 - After downloading the pack, get started as normal. Once you have a base set up and enough supplies for a Nether Portal, you're ready to explore. To start, write whatever you want into a Book and Quill, and throw the book into the Portal. Then, **right click the portal**. Now, going into this portal will create a new dimension based off the seed written in the book.
-- Something to try: There's all new hard coded [Easter Egg dimensions](https://github.com/cassiancc/Infinity-Plus). Try using the names of these dimensions as your dimensional seed, a great one to get started with is the 'library' dimension.</li>
+- Something to try: There's all new hard coded [Easter Egg dimensions](https://github.com/cassiancc/Infinity-Plus/wiki/Easter-Egg-Dimensions). Try using the names of these dimensions as your dimensional seed, a great one to get started with is the 'library' dimension.</li>
 
 ## Acknowledgements
 <img width=95% src="https://copper.congodsted.com/resources/modrinth/infinityplus/credits.png">
