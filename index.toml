@@ -177,76 +177,8 @@ file = "config/infinity/util/easter/ant.json"
 hash = "206e79b54d3630534d2e206ca13f46f57e5a7c0db88992ac36bf01bcfb45c085"
 
 [[files]]
-file = "config/infinity/util/easter/chaos.json"
-hash = "69866c333077fad65178363fae96466cc92a543e46525943a9a3b19f33905bdd"
-
-[[files]]
-file = "config/infinity/util/easter/checkerboard.json"
-hash = "2f0e83d03e6812fad5fc276ed7865e3616a348c9df00582f762171bdc05a86e7"
-
-[[files]]
-file = "config/infinity/util/easter/content.json"
-hash = "2c0a4188e6d90b926cda01782b8fb06e7d68f5ab85570c92760404c02329767d"
-
-[[files]]
-file = "config/infinity/util/easter/credits.json"
-hash = "f86261738cf4bbbf00f8fa9a25b6eb261448a2cf8e708d3999306e62faefa1d3"
-
-[[files]]
-file = "config/infinity/util/easter/debug.json"
-hash = "70d158c9c045b2adc4f40df96ab4ba6424765e40a4d6eebe8e6a69904d71a67a"
-
-[[files]]
-file = "config/infinity/util/easter/default_type.json"
-hash = "a2fa8d1453b09accab17f7dcc039ede90675b6a40b4ab6a0de33ecc6a4d15528"
-
-[[files]]
-file = "config/infinity/util/easter/elephants.json"
-hash = "bd288444e9231ae88279a03829d300cf8fa5417b16185f561e7b37dc43674c40"
-
-[[files]]
-file = "config/infinity/util/easter/hills.json"
-hash = "21c0d5d0dbe0f4c2755d9b76a7e7b354b7eab7049a258b2f7c28d356fe2fc1cd"
-
-[[files]]
-file = "config/infinity/util/easter/library.json"
-hash = "0f9e107e1916d0449cb4cc87a4f387ff0bfbe46c1b64867fd9cde8c85227dd41"
-
-[[files]]
-file = "config/infinity/util/easter/library_type.json"
-hash = "ef50bd681961cd9dd7b4c782a510bf810d3f7aecfe9fe7841dbb6626dfc65168"
-
-[[files]]
 file = "config/infinity/util/easter/missing.json"
 hash = "0a20588a9bda27d1863552f4c093a9b31ea8a6d6f78e7660b37738b0c0ec312b"
-
-[[files]]
-file = "config/infinity/util/easter/pride.json"
-hash = "0c3e99eb2a6872aa9d773b0033c3df85347380a3947c62ae2a0fd7339ba313c0"
-
-[[files]]
-file = "config/infinity/util/easter/random_forest.json"
-hash = "d529282c2561c52ed00d370c153fbf7e1081e169d2c066ca2a596092efb661fb"
-
-[[files]]
-file = "config/infinity/util/easter/skygrid.json"
-hash = "1a091c6cf80d0ce74e48abd07973c730a3e7815c0c043a7c55aa93df5651fe75"
-
-[[files]]
-file = "config/infinity/util/easter/slime.json"
-hash = "be4931e54e584c726e66b41532b2eddff5894d6b4b9b28361c7d4213d89338d0"
-
-[[files]]
-file = "config/infinity/util/easter/spiral.json"
-hash = "a0321e9c2b6f6bda94ebbadd0e4ccb34ecd1d048dd34a32bbb1e8e650ef8cc50"
-
-[[files]]
-file = "config/infinity/util/easter/sponge.json"
-hash = "f6b5eb4afd5acbeed16caf084343e38d909b8bbd404cf4cbabe1433f0dd9cce3"
-
-[[files]]
-file = "config/infinity/util/easter/sponge_type.json"
-hash = "95e57606dc5ed71388cd8012bd0b84cc6991cad08fc1f9145965847ef2e6fb5b"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -475,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -485,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "a07e67bbcbbdf29c454b550681d2fc6d2e5107d9d373325a333183a1ec55b760"
+hash = "00008d3984d88da9613ec9ddc6f07e5fe65be7a28a20a19f22ff8bf99dcc98f3"
 metafile = true
 
 [[files]]
