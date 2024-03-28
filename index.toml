@@ -765,6 +765,10 @@ file = "config/infinity/util/easter/sponge.json"
 hash = "f6b5eb4afd5acbeed16caf084343e38d909b8bbd404cf4cbabe1433f0dd9cce3"
 
 [[files]]
+file = "config/infinity/util/easter/terminal.json"
+hash = "8ba4b71727ac14b0320ffd10a403760822525d9c53866cf71dd9ab208551eabd"
+
+[[files]]
 file = "config/infinity/util/noise.json"
 hash = "b7b4f66a218f5efa9c5e4629ff002e271a5d52985eda4e5a97cf7dd4e5c29809"
 
@@ -893,8 +897,8 @@ file = "config/mousewheelie.hjson"
 hash = "20e34db264f82cc15544353976222b47de3db617e1577afcc4f60928afd3a90c"
 
 [[files]]
-file = "config/paxi/datapacks/Ultimate Dimension Pack v2.zip"
-hash = "a0705ad7c5d1ffc89dd7faff5a30c565583c89dc34d641f43723a027ae727054"
+file = "config/paxi/datapacks/Ultimate Dimension Pack v3.zip"
+hash = "4a2f74d9bd556eea528fb5b5e16ab2e664ee3f32fa83a3b2237112fcd2553fdf"
 
 [[files]]
 file = "config/waila/blacklist.json"
