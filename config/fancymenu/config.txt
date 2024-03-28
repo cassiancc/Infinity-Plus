@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Minecraft 1.20.2';
+S:customwindowtitle = 'Infinity Plus';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

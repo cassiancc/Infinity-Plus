@@ -1,55 +1,99 @@
-type = menu
+type = fancymenu_layout
 
-customization-meta {
-  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
-  randomgroup = 1
-  renderorder = foreground
+layout-meta {
+  identifier = drippy_loading_overlay
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1710524560767
+  is_enabled = true
   randommode = false
+  randomgroup = 1
   randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:19fa116a-e561-4d56-884a-072c0567d82b-1710524560767] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/customsplashscreen/background.png
+  slide = false
+  repeat_texture = false
+  background_type = image
 }
 
 customization {
-  path = config/customsplashscreen/background.png
-  action = texturizebackground
-}
-
-customization {
-  keepaspectratio = true
   action = backgroundoptions
+  keepaspectratio = true
 }
 
-customization {
-  orientation = top-left
-  hidden = false
-  original_pos_size_calculation = true
-  x = 93
-  width = 240
-  action = deep_customization_element:drippy_overlay_logo
-  actionid = f8c4c6c8-693a-46b1-95fa-9b68d860998d1683839155384
-  y = 90
-  height = 60
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
 }
 
-customization {
-  orientation = top-left
-  hidden = false
-  x = -1000000
+vanilla_button {
+  button_element_executable_block_identifier = e6656163-b761-4a52-8ee6-99c05c2a80cd-1710524560767
+  [executable_block:e6656163-b761-4a52-8ee6-99c05c2a80cd-1710524560767][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
   width = 0
-  action = deep_customization_element:drippy_overlay_background
-  actionid = c38117bd-38d9-4af6-9bdf-ecb4ed8ca1da1683839155394
-  y = -1000000
   height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 544e80ce-2144-4ed4-9416-8a54212fd3e3-1710524560767
+  [loading_requirement_container_meta:544e80ce-2144-4ed4-9416-8a54212fd3e3-1710524560767] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
 }
 
-customization {
-  orientation = top-left
-  hidden = false
-  original_pos_size_calculation = true
-  x = 93
-  width = 240
-  action = deep_customization_element:drippy_overlay_progress_bar
-  actionid = 328e9077-3996-43e6-a0fa-c560d3b784d31683839155394
-  y = 194
-  height = 10
+vanilla_button {
+  button_element_executable_block_identifier = 0af7ff56-b9bb-468f-948e-ec28ee18cd82-1710524560767
+  [executable_block:0af7ff56-b9bb-468f-948e-ec28ee18cd82-1710524560767][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  element_type = vanilla_button
+  instance_identifier = progress_bar
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = vanilla
+  x = 0
+  y = 0
+  width = 0
+  height = 0
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 330d5356-2565-4839-897b-f30ab836272c-1710524560767
+  [loading_requirement_container_meta:330d5356-2565-4839-897b-f30ab836272c-1710524560767] = [groups:][instances:]
+  is_hidden = false
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
 }
 
