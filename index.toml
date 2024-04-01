@@ -394,7 +394,7 @@ hash = "bd1b0f77e52a4da9397fac679517b6e9d44449abb6fd271e3ae26b7ea715fcfa"
 
 [[files]]
 file = "config/infinity/infinity.json"
-hash = "f2bcf60d4d2220e38a616b2e88a77443a5599efcbbbeedaafb802f25aecf2df1"
+hash = "e65a7e09b7923762d25b0b7373650aa599f45c892e5385ec01fefcf788e16ae9"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/blocks.json"
@@ -711,6 +711,10 @@ hash = "6af1a672665bbcf1638f358d2959a34463367a4d3140f0fb707698d2462e00eb"
 [[files]]
 file = "config/infinity/util/easter/checkerboard.json"
 hash = "2f0e83d03e6812fad5fc276ed7865e3616a348c9df00582f762171bdc05a86e7"
+
+[[files]]
+file = "config/infinity/util/easter/classic.json"
+hash = "ad117df47ef1f0833d9ca586ae13e2eb4f23365fdd9aa7f526aec901b4e84475"
 
 [[files]]
 file = "config/infinity/util/easter/content.json"
