@@ -950,7 +950,7 @@ hash = "1d253724e7efbf94cf36bb0ad1964a24d6d85370e28510df930c4f44b86b1156"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9a1723a3f1733848eabc727a00bffbc920cda1550dc45a903dbfea2eae0eb6ca"
+hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
 file = "mods/adorn.pw.toml"
@@ -1324,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
-hash = "cf395c9cc8244a267b51eabeb8ef21781e52a55d2c365dd651e43615441eedc4"
+hash = "9f6dfc151245f815729226f101c51f4027d1f59db15c95729ba267a94f62c64b"
 metafile = true
 
 [[files]]
