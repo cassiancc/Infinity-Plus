@@ -1,12 +1,12 @@
 name = "Infinity Plus"
 author = "cassiancc"
-version = "1.7"
+version = "1.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4172a74bf8a72800838eb36857f888a2915206a7851e413eb871c999001fa8f8"
+hash = "ad568add57f22c2c8955d1d195d7c129ff633e17d94d410ed204dfc1e21dcbf5"
 
 [versions]
 fabric = "0.15.7"
