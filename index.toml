@@ -1313,6 +1313,11 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
+metafile = true
+
+[[files]]
 file = "mods/shulker+.pw.toml"
 hash = "8a1e66348893c330d7ec688aa478c68be08138b1c43a77653ef280a31c4ae24c"
 metafile = true
