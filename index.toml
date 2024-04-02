@@ -983,6 +983,11 @@ hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
+file = "mods/beans-backpacks.pw.toml"
+hash = "a76251be79484b026c8f496fbd6199500e0532e306584666e5217e3919eb7611"
+metafile = true
+
+[[files]]
 file = "mods/better-sodium-video-settings-button.pw.toml"
 hash = "368c03b1e67151e01d6f9aab17d0c3b91a3628a8bbde641482ac147b5cd486f4"
 metafile = true
@@ -1010,6 +1015,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
@@ -1055,6 +1065,11 @@ metafile = true
 [[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
 
 [[files]]
@@ -1113,6 +1128,11 @@ hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "03f0dc19f23f85b0886b504005972e754037b2f4879016cb11b855a1947b7cd1"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -1120,6 +1140,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
 
 [[files]]
