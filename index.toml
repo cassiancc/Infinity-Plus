@@ -902,7 +902,7 @@ hash = "e33f449c4ca8702c4df32553fe9bc5062f241c11162cd9ca1235823c99e69965"
 
 [[files]]
 file = "config/mousewheelie.hjson"
-hash = "20e34db264f82cc15544353976222b47de3db617e1577afcc4f60928afd3a90c"
+hash = "fe9b61a40379c4e94dc0c4005b2cce867e592d6275a2aa376a3b39c19aeca6c7"
 
 [[files]]
 file = "config/paxi/datapacks/Ultimate Dimension Pack v3.zip"
@@ -985,11 +985,6 @@ metafile = true
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "a76251be79484b026c8f496fbd6199500e0532e306584666e5217e3919eb7611"
-metafile = true
-
-[[files]]
-file = "mods/better-sodium-video-settings-button.pw.toml"
-hash = "368c03b1e67151e01d6f9aab17d0c3b91a3628a8bbde641482ac147b5cd486f4"
 metafile = true
 
 [[files]]
@@ -1259,7 +1254,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "b9eb5237b412cdae4005301af44f6b2298cb3b6f53cfd93456cf9c7833ad6a4b"
+hash = "10ae5f6f2b540523ed0c62eef7a06a332050a16735ccdd2e7f5b8488ade11559"
 metafile = true
 
 [[files]]
