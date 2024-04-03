@@ -761,6 +761,10 @@ file = "config/infinity/util/easter/slime.json"
 hash = "be4931e54e584c726e66b41532b2eddff5894d6b4b9b28361c7d4213d89338d0"
 
 [[files]]
+file = "config/infinity/util/easter/slimy.json"
+hash = "7d6594ad3426e9d5806b1916ed2756862048c2cea899a436029ca4fc4324743c"
+
+[[files]]
 file = "config/infinity/util/easter/spiral.json"
 hash = "a0321e9c2b6f6bda94ebbadd0e4ccb34ecd1d048dd34a32bbb1e8e650ef8cc50"
 
@@ -1355,6 +1359,11 @@ metafile = true
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
 hash = "9f6dfc151245f815729226f101c51f4027d1f59db15c95729ba267a94f62c64b"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "efeadc82215e30e5762eac8537e84cce94761f8cd1509a26bc9ebd64a67be8f1"
 metafile = true
 
 [[files]]
