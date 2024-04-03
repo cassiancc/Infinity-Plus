@@ -737,6 +737,10 @@ file = "config/infinity/util/easter/hills.json"
 hash = "21c0d5d0dbe0f4c2755d9b76a7e7b354b7eab7049a258b2f7c28d356fe2fc1cd"
 
 [[files]]
+file = "config/infinity/util/easter/isolation.json"
+hash = "957d610ba97e1f6bfa2d2dba067cb0120495be913cb30b6cc7e2feb3d67390a8"
+
+[[files]]
 file = "config/infinity/util/easter/library.json"
 hash = "5c4ec29526b31b156b15a9004e3232b641b3af83dcf5760df3186ac9ffc8a387"
 
@@ -909,8 +913,8 @@ file = "config/mousewheelie.hjson"
 hash = "fe9b61a40379c4e94dc0c4005b2cce867e592d6275a2aa376a3b39c19aeca6c7"
 
 [[files]]
-file = "config/paxi/datapacks/Ultimate Dimension Pack v3.zip"
-hash = "d09bfb794a05ce02bcce8ab1a63b2d61ffd7158401c93ef9a5b074d57e3df7ef"
+file = "config/paxi/datapacks/Ultimate Dimension Pack v4.zip"
+hash = "45617a28370e6f37b3d9232a185306ba1c59b4d4df86dbfe0988f0c4ae4984e4"
 
 [[files]]
 file = "config/waila/blacklist.json"
