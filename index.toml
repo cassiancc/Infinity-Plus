@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "fd0b983347938ccecb95ce80691b76d7016531e02c59733f1c47466821030189"
+hash = "a5f0a33894b389004bd615d8089011488b464c0d9d927499111f7b72e4e58f5d"
 metafile = true
 
 [[files]]
@@ -1000,12 +1000,12 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "a76251be79484b026c8f496fbd6199500e0532e306584666e5217e3919eb7611"
+hash = "7899a0030cce4a46b1671a83399ca18313a88b28f59fc94c1224ab4eb505d5f7"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5230f27b3be663d715ad85e8d44939b60ce65466362e6c4863052dfaa21eea55"
+hash = "47905703987fc920ebda3a22309910845e08f888ad959b2000b5fed657231eea"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "eba79a76fb725a167d32a31387378b66d1d517a3ecd23de18e267c30bc3bced0"
+hash = "e1d4ec94a9c457965fd58211855a778a025949f98eabfaec7c6a69b8bb87f4a9"
 metafile = true
 
 [[files]]

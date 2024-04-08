@@ -1,13 +1,13 @@
 name = "Beans Backpacks"
-filename = "BeansBackpacks-fabric-1.20.1-0.21-v2.jar"
+filename = "BeansBackpacks-fabric-1.20.1-0.23-v2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/Kfzz8Qb8/BeansBackpacks-fabric-1.20.1-0.21-v2.jar"
+url = "https://cdn.modrinth.com/data/kYt0MSgT/versions/s3Td8o7Y/BeansBackpacks-fabric-1.20.1-0.23-v2.jar"
 hash-format = "sha1"
-hash = "303d95b8c45632468c29005f6bdf6be0a47937bc"
+hash = "ea6b8f1d44bd8e1406f853811ea2a560df38290e"
 
 [update]
 [update.modrinth]
 mod-id = "kYt0MSgT"
-version = "Kfzz8Qb8"
+version = "s3Td8o7Y"
