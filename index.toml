@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a5f0a33894b389004bd615d8089011488b464c0d9d927499111f7b72e4e58f5d"
+hash = "16b71c79c26493d6aef70d89cb173baa342fd50e74ff4be31f6af52767e20695"
 metafile = true
 
 [[files]]
@@ -1000,12 +1000,12 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "7899a0030cce4a46b1671a83399ca18313a88b28f59fc94c1224ab4eb505d5f7"
+hash = "d00a8226a8d6cdce522f2b9dc67c3d7b123bd50756bab53ee712ac5175040a17"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "47905703987fc920ebda3a22309910845e08f888ad959b2000b5fed657231eea"
+hash = "c3c0934476bb1a8438b382b7ba9c32d1be0c97cb10b38d7494a60c518d99d0a7"
 metafile = true
 
 [[files]]
@@ -1074,6 +1074,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -1110,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -1255,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "8f0af1f5e27da3027d01516d0ebd8a0f86a528fe2f1ccd461f2a8e3b3ca847fa"
 metafile = true
 
 [[files]]
@@ -1265,7 +1270,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]
@@ -1319,6 +1324,11 @@ hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
+file = "mods/pyrite.pw.toml"
+hash = "ccce71a964331363466debbc9fe6b361fc436301f7b1de8aa12127bbbea88f81"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
@@ -1365,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/tick-stasis.pw.toml"
-hash = "5a6e4cb2f7907958cc00174a6fae3c8705581d3b0b9fa607d55001e6fcff060d"
+hash = "665e93af3d261e49b334bb21febfb2910758d746e5a6f293bead001fca5ed88a"
 metafile = true
 
 [[files]]
@@ -1380,12 +1390,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e60b866379fdfec0c9b6eed19159fe591e5276127e45b0b3d2e555197cecd3f5"
+hash = "a1a6470be9ee58c67e7815f5d066dab22dba2191d3c25996554655cc9ac1fa49"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7ea3c2a391ac210d51b66be41938be4a02ee2481c9f1e19d27a4c1212cf912b3"
+hash = "6ca173b39896794f2d2c120c3d9edab1cdcc45ca55c02daaf5b07bd6ff65fb3f"
 metafile = true
 
 [[files]]

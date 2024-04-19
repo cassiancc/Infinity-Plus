@@ -1,0 +1,13 @@
+name = "Pyrite"
+filename = "pyrite-0.8-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/CLWC6D1D/pyrite-0.8-1.20.1.jar"
+hash-format = "sha1"
+hash = "6662f8c9627d76804905328e6fc8ff0ac76a198c"
+
+[update]
+[update.modrinth]
+mod-id = "qO4ozPoe"
+version = "CLWC6D1D"
