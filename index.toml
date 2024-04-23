@@ -1134,6 +1134,11 @@ hash = "e1d4ec94a9c457965fd58211855a778a025949f98eabfaec7c6a69b8bb87f4a9"
 metafile = true
 
 [[files]]
+file = "mods/fast-minecart.pw.toml"
+hash = "e3d107ded7b925a01b132b8ee5fc41156235dec1a8c100eca6c0e064214209f5"
+metafile = true
+
+[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
 metafile = true
@@ -1325,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "ccce71a964331363466debbc9fe6b361fc436301f7b1de8aa12127bbbea88f81"
+hash = "e4c82c50241b5dfce6864c03de9fd1d81fd0de1c931b143a9b069ea97e88ab67"
 metafile = true
 
 [[files]]
