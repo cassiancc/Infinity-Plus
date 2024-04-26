@@ -1,0 +1,13 @@
+name = "Limited Life Armor"
+filename = "§6Limited§eArmor §7v1.2.0 §8[1.20-1.20.4].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZL71UjPM/versions/hyYH6WI6/%C2%A76Limited%C2%A7eArmor%20%C2%A77v1.2.0%20%C2%A78%5B1.20-1.20.4%5D.zip"
+hash-format = "sha1"
+hash = "7f6448ac4f786ebc4fd2f1a3a0be94dfa6329330"
+
+[update]
+[update.modrinth]
+mod-id = "ZL71UjPM"
+version = "hyYH6WI6"

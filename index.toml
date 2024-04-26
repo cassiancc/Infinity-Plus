@@ -1437,6 +1437,11 @@ file = "resourcepacks/Unity-1.20-Compatible.zip"
 hash = "9e8ee99719a4a57a5aeb6c5896c40125854edf1d96babfc4716aeb7f9ba3cfdc"
 
 [[files]]
+file = "resourcepacks/limitedlifearmor.pw.toml"
+hash = "4241ec7e43e5b5f51c9d723a6027bf7194216415d6f547510986099458107814"
+metafile = true
+
+[[files]]
 file = "resourcepacks/unity-dark-edition.pw.toml"
 hash = "ceec7aace18ff21ae36cb0507bae76ce94906538a95e2e84ee04645878519be7"
 metafile = true
