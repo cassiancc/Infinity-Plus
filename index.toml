@@ -1135,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e1d4ec94a9c457965fd58211855a778a025949f98eabfaec7c6a69b8bb87f4a9"
+hash = "231c70ba431abfeea7ee0878e5c943b9844bb9cfe6f22f8130841493d7d9662e"
 metafile = true
 
 [[files]]
@@ -1185,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
@@ -1210,7 +1210,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "169c556d113a560237df18bd07a7247ffb747cf0d5be105462dfa55f5a19c0e1"
+hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
 metafile = true
 
 [[files]]
