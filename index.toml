@@ -1384,11 +1384,6 @@ hash = "6fd6d0026192e948a7b488c19a4953d72921b5db4008e190f05b5211648815ed"
 metafile = true
 
 [[files]]
-file = "mods/tick-stasis.pw.toml"
-hash = "665e93af3d261e49b334bb21febfb2910758d746e5a6f293bead001fca5ed88a"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "d974525d8d9c00ec85ceb7bb1da54139d003178a4c3e96c363cd87cad36ac727"
 metafile = true
@@ -1433,7 +1428,7 @@ hash = "9e8ee99719a4a57a5aeb6c5896c40125854edf1d96babfc4716aeb7f9ba3cfdc"
 
 [[files]]
 file = "resourcepacks/limitedlifearmor.pw.toml"
-hash = "4241ec7e43e5b5f51c9d723a6027bf7194216415d6f547510986099458107814"
+hash = "4f7611610354ea67717e9fa35178f5a8b0f1be8050f73e146f597a0e789fd789"
 metafile = true
 
 [[files]]
