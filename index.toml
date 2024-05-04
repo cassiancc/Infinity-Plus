@@ -774,7 +774,7 @@ hash = "a5411dac3553eef9c6c4c9334acba3a22daa1fec3342aa7b86c5a95474e47b11"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/blocks.json"
-hash = "42f7d682b17b1f7bac1f3d614daefccebe01299556ca843890bdaee3f61f06c3"
+hash = "2d4f50ab5e89411bc6fab215ef2088baa50405165614d25075880cbcd479d703"
 
 [[files]]
 file = "config/infinity/modular/pyrite/extra/color_presets.json"
