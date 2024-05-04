@@ -925,6 +925,14 @@ file = "config/paxi/datapacks/Ultimate Dimension Pack v6.zip"
 hash = "f782ee5a738957d66d3fbab4fa10d89f30640901bbf0ae454a53fa5e7244320b"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "8df93f32e1e331a11a5119038d148ee4fd4e2b8bb748242815eb4203398fc2a1"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "1d4016c525611ca052f606e5416b84ae7f5cd387e9bc0ac5d795d612e72d9d6e"
+
+[[files]]
 file = "config/waila/blacklist.json"
 hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
@@ -1076,6 +1084,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "58dd43cb8e458f89e121ca6372c7982a22557e10eb3f63fde0b5741ddd7767c2"
 metafile = true
 
 [[files]]
@@ -1361,6 +1374,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "31f341abed1b0c64e53d561faf3035f797f6a33f4442f6a95e6cb2ab24e4fb0b"
 metafile = true
 
 [[files]]
