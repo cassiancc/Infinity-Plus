@@ -1,0 +1,68 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "fwaystones:abyss_watcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:blackstone_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:deepslate_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:desert_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:end_stone_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:local_void"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:nether_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:pocket_wormhole"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:red_desert_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:red_nether_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:scroll_of_infinite_knowledge"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:stone_brick_waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:void_totem"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:waystone"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:waystone_debugger"
+		},
+		{
+			"weight": 1.0,
+			"key": "fwaystones:waystone_scroll"
+		}
+	]
+}

@@ -1,0 +1,136 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:hammock_yellow"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:rope_and_nail"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_black"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_brown"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_cyan"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_green"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_light_blue"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_light_gray"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_lime"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_magenta"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_orange"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_pink"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_purple"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_red"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_white"
+		},
+		{
+			"weight": 1.0,
+			"key": "comforts:sleeping_bag_yellow"
+		}
+	]
+}

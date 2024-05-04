@@ -1,0 +1,5814 @@
+{
+	"elements": [
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:andesite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:basalt_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:blackstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:calcite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_andesite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_basalt",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_calcite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_dark_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_diorite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_end_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_granite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_purpur",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:chiseled_tuff",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_andesite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_andesite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_andesite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_andesite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_basalt",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_basalt_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_basalt_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_basalt_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_blackstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_blackstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_blackstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_blackstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_calcite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_calcite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_calcite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_calcite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_dark_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_dark_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_dark_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_dark_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_diorite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_diorite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_diorite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_diorite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_end_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_end_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_end_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_end_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_granite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_granite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_granite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_granite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_netherrack",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_netherrack_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_netherrack_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_netherrack_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_purpur",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_purpur_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_purpur_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_purpur_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_quartz_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_red_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_red_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_red_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_red_sandstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_sandstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_tuff",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_tuff_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_tuff_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cobbled_tuff_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_andesite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_andesite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_basalt_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_basalt_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_blackstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_calcite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_calcite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_dark_prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_dark_prismarine_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_diorite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_diorite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_end_stone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_end_stone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_granite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_granite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_netherrack_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_prismarine_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_purpur_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_purpur_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_quartz_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_quartz_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_red_sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_red_sandstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_sandstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_stone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_tuff_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:cracked_tuff_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:dark_prismarine_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:deepslate_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:diorite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:end_stone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:granite_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_andesite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_andesite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_andesite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_andesite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_basalt_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_basalt_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_basalt_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_basalt_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_blackstone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_blackstone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_blackstone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_blackstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_calcite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_calcite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_calcite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_calcite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_andesite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_andesite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_andesite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_andesite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_basalt",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_basalt_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_basalt_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_basalt_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_blackstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_blackstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_blackstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_blackstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_calcite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_calcite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_calcite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_calcite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_dark_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_dark_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_dark_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_dark_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_deepslate",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_deepslate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_deepslate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_deepslate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_diorite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_diorite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_diorite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_diorite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_end_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_end_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_end_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_end_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_granite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_granite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_granite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_granite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_netherrack",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_netherrack_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_netherrack_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_netherrack_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_purpur",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_purpur_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_purpur_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_purpur_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_quartz_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_red_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_red_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_red_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_red_sandstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_sandstone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_sandstone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_sandstone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_sandstone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_tuff",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_tuff_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_tuff_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_cobbled_tuff_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_dark_prismarine_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_dark_prismarine_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_dark_prismarine_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_dark_prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_deepslate_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_deepslate_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_deepslate_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_deepslate_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_diorite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_diorite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_diorite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_diorite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_end_stone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_end_stone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_end_stone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_end_stone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_granite_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_granite_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_granite_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_granite_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_netherrack_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_netherrack_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_netherrack_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_netherrack_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_prismarine_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_prismarine_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_prismarine_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_purpur_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_purpur_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_purpur_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_purpur_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_quartz_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_quartz_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_quartz_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_quartz_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_red_sandstone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_red_sandstone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_red_sandstone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_red_sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_sandstone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_sandstone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_sandstone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_tuff_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_tuff_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_tuff_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:mossy_tuff_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:nether_brick_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:netherrack_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:netherrack_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:netherrack_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:netherrack_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_calcite",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_calcite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_calcite_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_calcite_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_dark_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_dark_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_dark_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_dark_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_end_stone",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_end_stone_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_end_stone_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_end_stone_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_netherrack",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_netherrack_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_netherrack_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_netherrack_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_purpur",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_purpur_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_purpur_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_purpur_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_quartz",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_quartz_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_quartz_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_quartz_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_tuff",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_tuff_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_tuff_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:polished_tuff_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:prismarine_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:purpur_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:quartz_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_dark_prismarine",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_dark_prismarine_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_dark_prismarine_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_dark_prismarine_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_purpur",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_purpur_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_purpur_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:raw_purpur_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:red_sandstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:sandstone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:stone_tiles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_bricks",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_paver_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_paver_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_paver_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_pavers",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_pillar",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_plate_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_plate_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_plate_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_plates",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_shingle_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_shingle_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_shingle_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_shingles",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_tile_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_tile_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_tile_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.5,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "stoneworks:tuff_tiles",
+				"full": true
+			}
+		}
+	]
+}

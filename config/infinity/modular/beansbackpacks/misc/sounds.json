@@ -1,0 +1,88 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:break_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:break_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:break_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:close_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:close_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:close_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:equip_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:equip_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:equip_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:hit_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:hit_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:hit_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:insert_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:insert_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:open_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:open_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:open_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:place_leather"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:place_metal"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:place_upgraded"
+		},
+		{
+			"weight": 1.0,
+			"key": "beansbackpacks:take_metal"
+		}
+	]
+}

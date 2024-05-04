@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity:chaos_pawn"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dimensional_creeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dimensional_skeleton"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dimensional_slime"
+		}
+	]
+}

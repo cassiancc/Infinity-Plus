@@ -1,0 +1,1324 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:andesite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:andesite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:andesite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:apple_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:basalt_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:basalt_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:basalt_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:beetroot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:beetroot_seed_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blackstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blackstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blackstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brewer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:carrot_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:chain_link_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobbled_deepslate_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobbled_deepslate_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobbled_deepslate_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobblestone_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobblestone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobblestone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cobblestone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cocoa_bean_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_red_sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_red_sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_red_sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cut_sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_prismarine_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_prismarine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:dark_prismarine_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_tile_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_tile_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:deepslate_tile_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:diorite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:diorite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:diorite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:egg_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:end_stone_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:end_stone_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:end_stone_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:glow_berry_tea"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:granite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:granite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:granite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:guide_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:honeycomb_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:hot_chocolate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:iron_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lil_tater_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magmatic_prismarine_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:melon_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:melon_seed_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_cobblestone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_cobblestone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_cobblestone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_stone_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_stone_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mossy_stone_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:mug"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_wart_coffee"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:nether_wart_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:picket_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_andesite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_andesite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_andesite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_blackstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_deepslate_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_deepslate_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_deepslate_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_diorite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_diorite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_diorite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_granite_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_granite_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_granite_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:potato_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:prismarine_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pumpkin_seed_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purpur_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purpur_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purpur_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:quartz_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:quartz_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:quartz_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_nether_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_nether_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_nether_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_nether_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_red_sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_red_sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_red_sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_sandstone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_sandstone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_sandstone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_stone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_stone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:smooth_stone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:soulful_prismarine_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_brick_chimney"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:stone_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sugar_cane_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sweet_berry_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:sweet_berry_juice"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:traders_manual"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:trading_station"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:wheat_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:wheat_seed_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_table_lamp"
+		}
+	]
+}

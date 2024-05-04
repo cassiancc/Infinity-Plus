@@ -1,0 +1,24 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "adorn:block.adorn.chain_link_fence.break"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:block.adorn.chain_link_fence.fall"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:block.adorn.chain_link_fence.hit"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:block.adorn.chain_link_fence.place"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:block.adorn.chain_link_fence.step"
+		}
+	]
+}

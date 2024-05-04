@@ -1,0 +1,1588 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pyrite:andesite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blackstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:charred_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:charred_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:charred_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:charred_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobbled_deepslate_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cobblestone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_iron_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_iron_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:deepslate_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:deepslate_tile_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diorite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:end_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glowstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:grass_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_cobblestone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mud_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mycelium_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nether_brick_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nether_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:path_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:podzol_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:polished_blackstone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:polished_blackstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:polished_deepslate_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:prismarine_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_nether_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_sandstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_trapdoor"
+		}
+	]
+}

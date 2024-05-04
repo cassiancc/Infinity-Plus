@@ -1,0 +1,2328 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:andesite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:basalt_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:blackstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:calcite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_andesite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_andesite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_andesite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_basalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_basalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_basalt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_blackstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_calcite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_calcite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_calcite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_dark_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_dark_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_dark_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_diorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_diorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_diorite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_granite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_granite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_granite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_quartz_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_red_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_red_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cobbled_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_andesite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_basalt_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_blackstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_calcite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_calcite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_dark_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_dark_prismarine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_diorite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_end_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_granite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_netherrack_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_prismarine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_purpur_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_quartz_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_red_sandstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_sandstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:cracked_tuff_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:dark_prismarine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:deepslate_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:diorite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:end_stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:granite_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_andesite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_andesite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_andesite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_basalt_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_basalt_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_basalt_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_basalt_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_blackstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_blackstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_blackstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_blackstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_calcite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_calcite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_calcite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_calcite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_andesite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_andesite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_andesite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_andesite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_basalt"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_basalt_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_basalt_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_basalt_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_blackstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_blackstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_blackstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_blackstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_calcite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_calcite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_calcite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_dark_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_dark_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_dark_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_deepslate"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_deepslate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_deepslate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_deepslate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_diorite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_diorite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_diorite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_diorite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_granite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_granite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_granite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_granite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_quartz_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_red_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_red_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_red_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_red_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_sandstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_sandstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_sandstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_sandstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_cobbled_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_dark_prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_dark_prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_dark_prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_dark_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_deepslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_deepslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_deepslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_diorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_diorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_diorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_end_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_end_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_end_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_end_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_granite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_granite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_granite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_netherrack_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_netherrack_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_netherrack_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_netherrack_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_quartz_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_quartz_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_quartz_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_quartz_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_red_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_red_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_red_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:mossy_tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:nether_brick_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:netherrack_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:netherrack_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:netherrack_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:netherrack_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_calcite"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_calcite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_calcite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_calcite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_dark_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_dark_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_dark_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_end_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_end_stone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_end_stone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_end_stone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_netherrack_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_netherrack_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_netherrack_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_quartz_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:polished_tuff_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:prismarine_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:purpur_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:quartz_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_dark_prismarine"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_dark_prismarine_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_dark_prismarine_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_dark_prismarine_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_purpur"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_purpur_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_purpur_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:raw_purpur_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:red_sandstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:sandstone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:stone_tiles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_paver_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_paver_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_paver_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_pavers"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_plate_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_plate_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_plate_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_shingle_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_shingle_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_shingle_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_shingles"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_tile_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_tile_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_tile_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "stoneworks:tuff_tiles"
+		}
+	]
+}

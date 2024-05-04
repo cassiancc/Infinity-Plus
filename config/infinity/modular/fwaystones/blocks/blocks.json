@@ -1,0 +1,94 @@
+{
+	"elements": [
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:blackstone_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:deepslate_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:desert_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:end_stone_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:nether_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:red_desert_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:red_nether_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:stone_brick_waystone",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.1,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "fwaystones:waystone",
+				"full": false
+			}
+		}
+	]
+}

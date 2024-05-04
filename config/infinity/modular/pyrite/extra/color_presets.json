@@ -1,0 +1,693 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_brick_slab"
+				},
+				{
+					"Name": "pyrite:light_gray_brick_slab"
+				},
+				{
+					"Name": "pyrite:gray_brick_slab"
+				},
+				{
+					"Name": "pyrite:black_brick_slab"
+				},
+				{
+					"Name": "pyrite:brown_brick_slab"
+				},
+				{
+					"Name": "pyrite:red_brick_slab"
+				},
+				{
+					"Name": "pyrite:orange_brick_slab"
+				},
+				{
+					"Name": "pyrite:yellow_brick_slab"
+				},
+				{
+					"Name": "pyrite:lime_brick_slab"
+				},
+				{
+					"Name": "pyrite:green_brick_slab"
+				},
+				{
+					"Name": "pyrite:light_blue_brick_slab"
+				},
+				{
+					"Name": "pyrite:blue_brick_slab"
+				},
+				{
+					"Name": "pyrite:cyan_brick_slab"
+				},
+				{
+					"Name": "pyrite:purple_brick_slab"
+				},
+				{
+					"Name": "pyrite:magenta_brick_slab"
+				},
+				{
+					"Name": "pyrite:pink_brick_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_brick_stairs"
+				},
+				{
+					"Name": "pyrite:light_gray_brick_stairs"
+				},
+				{
+					"Name": "pyrite:gray_brick_stairs"
+				},
+				{
+					"Name": "pyrite:black_brick_stairs"
+				},
+				{
+					"Name": "pyrite:brown_brick_stairs"
+				},
+				{
+					"Name": "pyrite:red_brick_stairs"
+				},
+				{
+					"Name": "pyrite:orange_brick_stairs"
+				},
+				{
+					"Name": "pyrite:yellow_brick_stairs"
+				},
+				{
+					"Name": "pyrite:lime_brick_stairs"
+				},
+				{
+					"Name": "pyrite:green_brick_stairs"
+				},
+				{
+					"Name": "pyrite:light_blue_brick_stairs"
+				},
+				{
+					"Name": "pyrite:blue_brick_stairs"
+				},
+				{
+					"Name": "pyrite:cyan_brick_stairs"
+				},
+				{
+					"Name": "pyrite:purple_brick_stairs"
+				},
+				{
+					"Name": "pyrite:magenta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:pink_brick_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_brick_wall"
+				},
+				{
+					"Name": "pyrite:light_gray_brick_wall"
+				},
+				{
+					"Name": "pyrite:gray_brick_wall"
+				},
+				{
+					"Name": "pyrite:black_brick_wall"
+				},
+				{
+					"Name": "pyrite:brown_brick_wall"
+				},
+				{
+					"Name": "pyrite:red_brick_wall"
+				},
+				{
+					"Name": "pyrite:orange_brick_wall"
+				},
+				{
+					"Name": "pyrite:yellow_brick_wall"
+				},
+				{
+					"Name": "pyrite:lime_brick_wall"
+				},
+				{
+					"Name": "pyrite:green_brick_wall"
+				},
+				{
+					"Name": "pyrite:light_blue_brick_wall"
+				},
+				{
+					"Name": "pyrite:blue_brick_wall"
+				},
+				{
+					"Name": "pyrite:cyan_brick_wall"
+				},
+				{
+					"Name": "pyrite:purple_brick_wall"
+				},
+				{
+					"Name": "pyrite:magenta_brick_wall"
+				},
+				{
+					"Name": "pyrite:pink_brick_wall"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_bricks"
+				},
+				{
+					"Name": "pyrite:light_gray_bricks"
+				},
+				{
+					"Name": "pyrite:gray_bricks"
+				},
+				{
+					"Name": "pyrite:black_bricks"
+				},
+				{
+					"Name": "pyrite:brown_bricks"
+				},
+				{
+					"Name": "pyrite:red_bricks"
+				},
+				{
+					"Name": "pyrite:orange_bricks"
+				},
+				{
+					"Name": "pyrite:yellow_bricks"
+				},
+				{
+					"Name": "pyrite:lime_bricks"
+				},
+				{
+					"Name": "pyrite:green_bricks"
+				},
+				{
+					"Name": "pyrite:light_blue_bricks"
+				},
+				{
+					"Name": "pyrite:blue_bricks"
+				},
+				{
+					"Name": "pyrite:cyan_bricks"
+				},
+				{
+					"Name": "pyrite:purple_bricks"
+				},
+				{
+					"Name": "pyrite:magenta_bricks"
+				},
+				{
+					"Name": "pyrite:pink_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_lamp"
+				},
+				{
+					"Name": "pyrite:light_gray_lamp"
+				},
+				{
+					"Name": "pyrite:gray_lamp"
+				},
+				{
+					"Name": "pyrite:black_lamp"
+				},
+				{
+					"Name": "pyrite:brown_lamp"
+				},
+				{
+					"Name": "pyrite:red_lamp"
+				},
+				{
+					"Name": "pyrite:orange_lamp"
+				},
+				{
+					"Name": "pyrite:yellow_lamp"
+				},
+				{
+					"Name": "pyrite:lime_lamp"
+				},
+				{
+					"Name": "pyrite:green_lamp"
+				},
+				{
+					"Name": "pyrite:light_blue_lamp"
+				},
+				{
+					"Name": "pyrite:blue_lamp"
+				},
+				{
+					"Name": "pyrite:cyan_lamp"
+				},
+				{
+					"Name": "pyrite:purple_lamp"
+				},
+				{
+					"Name": "pyrite:magenta_lamp"
+				},
+				{
+					"Name": "pyrite:pink_lamp"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_door"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_door"
+				},
+				{
+					"Name": "pyrite:gray_stained_door"
+				},
+				{
+					"Name": "pyrite:black_stained_door"
+				},
+				{
+					"Name": "pyrite:brown_stained_door"
+				},
+				{
+					"Name": "pyrite:red_stained_door"
+				},
+				{
+					"Name": "pyrite:orange_stained_door"
+				},
+				{
+					"Name": "pyrite:yellow_stained_door"
+				},
+				{
+					"Name": "pyrite:lime_stained_door"
+				},
+				{
+					"Name": "pyrite:green_stained_door"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_door"
+				},
+				{
+					"Name": "pyrite:blue_stained_door"
+				},
+				{
+					"Name": "pyrite:cyan_stained_door"
+				},
+				{
+					"Name": "pyrite:purple_stained_door"
+				},
+				{
+					"Name": "pyrite:magenta_stained_door"
+				},
+				{
+					"Name": "pyrite:pink_stained_door"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_fence"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_fence"
+				},
+				{
+					"Name": "pyrite:gray_stained_fence"
+				},
+				{
+					"Name": "pyrite:black_stained_fence"
+				},
+				{
+					"Name": "pyrite:brown_stained_fence"
+				},
+				{
+					"Name": "pyrite:red_stained_fence"
+				},
+				{
+					"Name": "pyrite:orange_stained_fence"
+				},
+				{
+					"Name": "pyrite:yellow_stained_fence"
+				},
+				{
+					"Name": "pyrite:lime_stained_fence"
+				},
+				{
+					"Name": "pyrite:green_stained_fence"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_fence"
+				},
+				{
+					"Name": "pyrite:blue_stained_fence"
+				},
+				{
+					"Name": "pyrite:cyan_stained_fence"
+				},
+				{
+					"Name": "pyrite:purple_stained_fence"
+				},
+				{
+					"Name": "pyrite:magenta_stained_fence"
+				},
+				{
+					"Name": "pyrite:pink_stained_fence"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:gray_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:black_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:brown_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:red_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:orange_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:yellow_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:lime_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:green_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:blue_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:cyan_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:purple_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:magenta_stained_fence_gate"
+				},
+				{
+					"Name": "pyrite:pink_stained_fence_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_planks"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_planks"
+				},
+				{
+					"Name": "pyrite:gray_stained_planks"
+				},
+				{
+					"Name": "pyrite:black_stained_planks"
+				},
+				{
+					"Name": "pyrite:brown_stained_planks"
+				},
+				{
+					"Name": "pyrite:red_stained_planks"
+				},
+				{
+					"Name": "pyrite:orange_stained_planks"
+				},
+				{
+					"Name": "pyrite:yellow_stained_planks"
+				},
+				{
+					"Name": "pyrite:lime_stained_planks"
+				},
+				{
+					"Name": "pyrite:green_stained_planks"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_planks"
+				},
+				{
+					"Name": "pyrite:blue_stained_planks"
+				},
+				{
+					"Name": "pyrite:cyan_stained_planks"
+				},
+				{
+					"Name": "pyrite:purple_stained_planks"
+				},
+				{
+					"Name": "pyrite:magenta_stained_planks"
+				},
+				{
+					"Name": "pyrite:pink_stained_planks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:gray_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:black_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:brown_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:red_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:orange_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:yellow_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:lime_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:green_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:blue_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:cyan_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:purple_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:magenta_stained_pressure_plate"
+				},
+				{
+					"Name": "pyrite:pink_stained_pressure_plate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_slab"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_slab"
+				},
+				{
+					"Name": "pyrite:gray_stained_slab"
+				},
+				{
+					"Name": "pyrite:black_stained_slab"
+				},
+				{
+					"Name": "pyrite:brown_stained_slab"
+				},
+				{
+					"Name": "pyrite:red_stained_slab"
+				},
+				{
+					"Name": "pyrite:orange_stained_slab"
+				},
+				{
+					"Name": "pyrite:yellow_stained_slab"
+				},
+				{
+					"Name": "pyrite:lime_stained_slab"
+				},
+				{
+					"Name": "pyrite:green_stained_slab"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_slab"
+				},
+				{
+					"Name": "pyrite:blue_stained_slab"
+				},
+				{
+					"Name": "pyrite:cyan_stained_slab"
+				},
+				{
+					"Name": "pyrite:purple_stained_slab"
+				},
+				{
+					"Name": "pyrite:magenta_stained_slab"
+				},
+				{
+					"Name": "pyrite:pink_stained_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_stairs"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_stairs"
+				},
+				{
+					"Name": "pyrite:gray_stained_stairs"
+				},
+				{
+					"Name": "pyrite:black_stained_stairs"
+				},
+				{
+					"Name": "pyrite:brown_stained_stairs"
+				},
+				{
+					"Name": "pyrite:red_stained_stairs"
+				},
+				{
+					"Name": "pyrite:orange_stained_stairs"
+				},
+				{
+					"Name": "pyrite:yellow_stained_stairs"
+				},
+				{
+					"Name": "pyrite:lime_stained_stairs"
+				},
+				{
+					"Name": "pyrite:green_stained_stairs"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_stairs"
+				},
+				{
+					"Name": "pyrite:blue_stained_stairs"
+				},
+				{
+					"Name": "pyrite:cyan_stained_stairs"
+				},
+				{
+					"Name": "pyrite:purple_stained_stairs"
+				},
+				{
+					"Name": "pyrite:magenta_stained_stairs"
+				},
+				{
+					"Name": "pyrite:pink_stained_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:light_gray_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:gray_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:black_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:brown_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:red_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:orange_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:yellow_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:lime_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:green_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:light_blue_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:blue_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:cyan_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:purple_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:magenta_stained_trapdoor"
+				},
+				{
+					"Name": "pyrite:pink_stained_trapdoor"
+				}
+			]
+		}
+	]
+}

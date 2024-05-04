@@ -1,0 +1,163 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:light_gray_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:gray_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:black_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:brown_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:red_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:orange_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:yellow_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:lime_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:green_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:light_blue_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:blue_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:cyan_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:purple_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:magenta_candlelit_lantern"
+				},
+				{
+					"Name": "adorn:pink_candlelit_lantern"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_sofa"
+				},
+				{
+					"Name": "adorn:light_gray_sofa"
+				},
+				{
+					"Name": "adorn:gray_sofa"
+				},
+				{
+					"Name": "adorn:black_sofa"
+				},
+				{
+					"Name": "adorn:brown_sofa"
+				},
+				{
+					"Name": "adorn:red_sofa"
+				},
+				{
+					"Name": "adorn:orange_sofa"
+				},
+				{
+					"Name": "adorn:yellow_sofa"
+				},
+				{
+					"Name": "adorn:lime_sofa"
+				},
+				{
+					"Name": "adorn:green_sofa"
+				},
+				{
+					"Name": "adorn:light_blue_sofa"
+				},
+				{
+					"Name": "adorn:blue_sofa"
+				},
+				{
+					"Name": "adorn:cyan_sofa"
+				},
+				{
+					"Name": "adorn:purple_sofa"
+				},
+				{
+					"Name": "adorn:magenta_sofa"
+				},
+				{
+					"Name": "adorn:pink_sofa"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_table_lamp"
+				},
+				{
+					"Name": "adorn:light_gray_table_lamp"
+				},
+				{
+					"Name": "adorn:gray_table_lamp"
+				},
+				{
+					"Name": "adorn:black_table_lamp"
+				},
+				{
+					"Name": "adorn:brown_table_lamp"
+				},
+				{
+					"Name": "adorn:red_table_lamp"
+				},
+				{
+					"Name": "adorn:orange_table_lamp"
+				},
+				{
+					"Name": "adorn:yellow_table_lamp"
+				},
+				{
+					"Name": "adorn:lime_table_lamp"
+				},
+				{
+					"Name": "adorn:green_table_lamp"
+				},
+				{
+					"Name": "adorn:light_blue_table_lamp"
+				},
+				{
+					"Name": "adorn:blue_table_lamp"
+				},
+				{
+					"Name": "adorn:cyan_table_lamp"
+				},
+				{
+					"Name": "adorn:purple_table_lamp"
+				},
+				{
+					"Name": "adorn:magenta_table_lamp"
+				},
+				{
+					"Name": "adorn:pink_table_lamp"
+				}
+			]
+		}
+	]
+}

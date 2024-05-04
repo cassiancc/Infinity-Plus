@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "ultimate:ant"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:book_box"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:cursor"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:fine_item"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:footprint"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:netherite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "ultimate:netherite_stairs"
+		}
+	]
+}
