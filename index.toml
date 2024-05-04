@@ -397,6 +397,78 @@ file = "config/infinity/infinity.json"
 hash = "e65a7e09b7923762d25b0b7373650aa599f45c892e5385ec01fefcf788e16ae9"
 
 [[files]]
+file = "config/infinity/modular/adorn/blocks/blocks.json"
+hash = "5cc2352ed368bcb63d047496b39513295f626e8ab394d18e9e816993a9159a67"
+
+[[files]]
+file = "config/infinity/modular/adorn/extra/color_presets.json"
+hash = "f207d93ee55036b6476d1a388e890761991f9ccf8bbd6e84d6424876af24e88e"
+
+[[files]]
+file = "config/infinity/modular/adorn/misc/items.json"
+hash = "89611ac27c18f8065d4d8683ac6a5952d1b7c731482b5e6634d90203001a52e0"
+
+[[files]]
+file = "config/infinity/modular/adorn/misc/sounds.json"
+hash = "c2625bad37d7f9336b64200c466307e48ae0f990ce0855d5d26ba69954beb276"
+
+[[files]]
+file = "config/infinity/modular/amendments/blocks/blocks.json"
+hash = "0a649c6ee5eea2be7b1675a9bc2ddf6ceb4669d692671d1c92a96fb305006042"
+
+[[files]]
+file = "config/infinity/modular/amendments/misc/items.json"
+hash = "4c72dbdafb5396467916c6753bd20187b71364bd76cc71d9abf33fbc2dc3b0c3"
+
+[[files]]
+file = "config/infinity/modular/amendments/misc/particles.json"
+hash = "93de3fb280c9c2903bdedfd4a24645162cc22501d65a33fa806d6e88d5845f1b"
+
+[[files]]
+file = "config/infinity/modular/beansbackpacks/misc/items.json"
+hash = "ec3681b81d9b2fbda2fdb15e70799b6ab1d728f3b115118408553feb0e54aaeb"
+
+[[files]]
+file = "config/infinity/modular/beansbackpacks/misc/sounds.json"
+hash = "e26cf04265d7e54594327a193b2772cf9b96023fe8a37a415787cb03bdf40776"
+
+[[files]]
+file = "config/infinity/modular/comforts/blocks/blocks.json"
+hash = "c1937a9e3706c6702555997477a18359033fd5bc61e4ae63fff086d11591bd97"
+
+[[files]]
+file = "config/infinity/modular/comforts/misc/items.json"
+hash = "f7d4225ec537c0cb20e167eb177b90e99a75c713add6d678dc45d6624b938c04"
+
+[[files]]
+file = "config/infinity/modular/fwaystones/blocks/blocks.json"
+hash = "ddded388d25ddd11e57334772ec39cc30a64b97aa99855c8fe69690eef55304c"
+
+[[files]]
+file = "config/infinity/modular/fwaystones/misc/items.json"
+hash = "53c6c7093784926531242e4e6d7568e939be64de70efc62a8c639679a4f12384"
+
+[[files]]
+file = "config/infinity/modular/infinity/blocks/blocks.json"
+hash = "60338df98ba7fa87def5afd856d1f24ea65420fd4d1517748225e647f891a79a"
+
+[[files]]
+file = "config/infinity/modular/infinity/misc/items.json"
+hash = "556a207311ad61619342b841a28f5f8dded458e232140653ec1a9fa73eb49ecc"
+
+[[files]]
+file = "config/infinity/modular/infinity/misc/music.json"
+hash = "b9c884383cc9080ed363c7cd2c35287c648dda205427e26bf8dcbcbda5c28636"
+
+[[files]]
+file = "config/infinity/modular/infinity/mobs/mobs.json"
+hash = "af01ba0adf0b0292255eb66a4939bcf6a408da2c800d5d9eb7c4f47d6009b53c"
+
+[[files]]
+file = "config/infinity/modular/infinity/mobs/monster.json"
+hash = "af01ba0adf0b0292255eb66a4939bcf6a408da2c800d5d9eb7c4f47d6009b53c"
+
+[[files]]
 file = "config/infinity/modular/minecraft/blocks/blocks.json"
 hash = "3c7c8b6909aafbfcc2e2b50dfac602cbe72999f1c03976e347bec7ae9ed010c4"
 
@@ -695,6 +767,46 @@ hash = "a995041f5532a9ba2d015bb8e76bc05e7199b6f788093e237409ccb417c8d422"
 [[files]]
 file = "config/infinity/modular/minecraft/vegetation/vegetation_part3.json"
 hash = "207204e08485518c4cd8e8af004770e77ebfeeb84595fe91f893def525fd0ac3"
+
+[[files]]
+file = "config/infinity/modular/moonlight/misc/items.json"
+hash = "a5411dac3553eef9c6c4c9334acba3a22daa1fec3342aa7b86c5a95474e47b11"
+
+[[files]]
+file = "config/infinity/modular/pyrite/blocks/blocks.json"
+hash = "42f7d682b17b1f7bac1f3d614daefccebe01299556ca843890bdaee3f61f06c3"
+
+[[files]]
+file = "config/infinity/modular/pyrite/extra/color_presets.json"
+hash = "15ca08e73bf4f447b813e109595a61d88eb56e2dfc8f56c243efc9c9ea4e1716"
+
+[[files]]
+file = "config/infinity/modular/pyrite/misc/items.json"
+hash = "2db6c81090c0e8c6ff304daf394267522d5f42e800f0610eab693416749c3060"
+
+[[files]]
+file = "config/infinity/modular/stoneworks/blocks/blocks.json"
+hash = "0f4dc078d9630aab58492e705245229c4275bbd01a47aee655ff3d945b6729bb"
+
+[[files]]
+file = "config/infinity/modular/stoneworks/misc/items.json"
+hash = "38c0f8aa286b32f291bfabe115881a84045cc3ba62701c2b0a058db9eb733208"
+
+[[files]]
+file = "config/infinity/modular/swordblockingmechanics/misc/sounds.json"
+hash = "a8acf8a2abc26bab22c464e7dddc8045115b2207b9fe050c6f37566e2d435778"
+
+[[files]]
+file = "config/infinity/modular/ultimate/blocks/blocks.json"
+hash = "01edd185a01e7ec471f14726415cd6280c9004fc6eced64b2b93bb10ea962dba"
+
+[[files]]
+file = "config/infinity/modular/ultimate/misc/items.json"
+hash = "7ebab04c45a8aec391b0fa04436ec4b1b547564a748d16ff48b353b40c089886"
+
+[[files]]
+file = "config/infinity/modular/wildfire_gender/misc/sounds.json"
+hash = "4c117666a145add2fac53aba68d04d9ade4eab59110c07e00741d43555f1b685"
 
 [[files]]
 file = "config/infinity/util/all_trees.json"
