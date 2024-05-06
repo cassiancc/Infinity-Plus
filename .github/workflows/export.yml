@@ -17,9 +17,9 @@ jobs:
       - name: List files
         run: ls ${{ github.workspace }}
       - name: Refresh Packwiz
-        run: $HOME/.local/actions-go/bin/packwiz refresh
+        run: $HOME/go/bin/packwiz refresh
       - name: Export to Modrinth
-        run: $HOME/.local/actions-go/bin/packwiz mr export
+        run: $HOME/go/bin/packwiz mr export
       - name: Upload Build
         uses: actions/upload-artifact@v4
         with:
