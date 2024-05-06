@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: go install github.com/packwiz/packwiz@latest
       - name: List files
-      - run: ls ${{ github.workspace }}
+        run: ls ${{ github.workspace }}
       - name: Refresh Packwiz
         run: ./go/bin/packwiz refresh
       - name: Export to Modrinth
