@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -51,7 +51,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -194,7 +194,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -204,12 +204,52 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
 				"Name": "pyrite:blue_lamp",
+				"full": true
+			}
+		},
+		{
+			"weight": 0.6,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "pyrite:blue_nether_brick_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.6,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "pyrite:blue_nether_brick_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 0.6,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "pyrite:blue_nether_brick_wall",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "pyrite:blue_nether_bricks",
 				"full": true
 			}
 		},
@@ -347,7 +387,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -357,7 +397,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -753,7 +793,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -763,7 +803,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -946,7 +986,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1119,7 +1159,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1139,7 +1179,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1242,7 +1282,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1262,7 +1302,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1322,7 +1362,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1332,7 +1372,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1465,7 +1505,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1475,7 +1515,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1608,7 +1648,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1628,7 +1668,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1771,7 +1811,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1781,7 +1821,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1914,7 +1954,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1924,7 +1964,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2057,7 +2097,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2067,7 +2107,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2210,7 +2250,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2453,7 +2493,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2473,7 +2513,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2616,7 +2656,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2626,7 +2666,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2769,7 +2809,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2779,7 +2819,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2962,7 +3002,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2972,7 +3012,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3105,7 +3145,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3115,7 +3155,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3391,7 +3431,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3544,7 +3584,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3564,7 +3604,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3717,7 +3757,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3727,7 +3767,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3860,7 +3900,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3870,7 +3910,7 @@
 			}
 		},
 		{
-			"weight": 0.6,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
