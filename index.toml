@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "16b71c79c26493d6aef70d89cb173baa342fd50e74ff4be31f6af52767e20695"
+hash = "727919c308bdbc648137172e0177eda80d1142b19a664d1880fae0187cfa9a6a"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "7f265ba92d121d67bf1ab145404566eee9a0467b9917a5968bf6ccff9cc30ac5"
+hash = "c24b8e43ec7181df7a0155eea7383620484c150d9ebadd9a515f2a8e43b0df14"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "fb922454254e4b5e4de9041b343be17986c68b50b3d3fc5a8f183240277cc283"
+hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
 metafile = true
 
 [[files]]
@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "89556771a29b247e12fc58be469262f67ab1b736854381ae6cc4a7a1158ecebd"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "231c70ba431abfeea7ee0878e5c943b9844bb9cfe6f22f8130841493d7d9662e"
+hash = "f7a50aa8629a4647c54755ac16e0ea2697c90f222cff8bdd9f550cb36e167896"
 metafile = true
 
 [[files]]
@@ -1310,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -1405,7 +1405,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
+hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
 metafile = true
 
 [[files]]
@@ -1430,7 +1430,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
+hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
@@ -1460,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "e4c82c50241b5dfce6864c03de9fd1d81fd0de1c931b143a9b069ea97e88ab67"
+hash = "2098cab992397d795ff7491efb48bea84559d03d7a9da42b595084018f4e7442"
 metafile = true
 
 [[files]]
