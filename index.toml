@@ -774,7 +774,7 @@ hash = "a5411dac3553eef9c6c4c9334acba3a22daa1fec3342aa7b86c5a95474e47b11"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/blocks.json"
-hash = "2d4f50ab5e89411bc6fab215ef2088baa50405165614d25075880cbcd479d703"
+hash = "2f34f6594c67362736a5befcf6b7e510da99ce04c93f27ed7db54df9c8da1828"
 
 [[files]]
 file = "config/infinity/modular/pyrite/extra/color_presets.json"
@@ -1089,6 +1089,10 @@ file = "config/yosbr/options.txt"
 hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
+file = "grep"
+hash = "6fef074574bd3c1817c02cf868029411f31e68e8659ec800237a7c51d4fb5441"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
@@ -1271,11 +1275,6 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "27058ff24b894fe8d1157017c13db4bb5f4953d9a89a76b7ba0ad9d1723f4d19"
 metafile = true
 
 [[files]]
