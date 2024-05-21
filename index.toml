@@ -1089,22 +1089,18 @@ file = "config/yosbr/options.txt"
 hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
-file = "grep"
-hash = "6fef074574bd3c1817c02cf868029411f31e68e8659ec800237a7c51d4fb5441"
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "727919c308bdbc648137172e0177eda80d1142b19a664d1880fae0187cfa9a6a"
+hash = "5d9aa1fe0d9a0e7e1b2cf9dfdc26521d4a30eabe66e06d13dab33b3883bf7291"
 metafile = true
 
 [[files]]
@@ -1124,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/beans-backpacks.pw.toml"
-hash = "c24b8e43ec7181df7a0155eea7383620484c150d9ebadd9a515f2a8e43b0df14"
+hash = "4c78355b895d80cc8cae7e1e628dffd3953b5c9ecd6c3d102f0a731796e926f3"
 metafile = true
 
 [[files]]
@@ -1199,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
@@ -1254,7 +1250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -1264,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f7a50aa8629a4647c54755ac16e0ea2697c90f222cff8bdd9f550cb36e167896"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
@@ -1309,7 +1305,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -1334,7 +1330,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
 
 [[files]]
@@ -1404,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+hash = "ef68c90017bfeae65a461efc1fe85179669dc03b8c1154bb55617ca5a7ea6dbf"
 metafile = true
 
 [[files]]
@@ -1454,12 +1450,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
 metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "2098cab992397d795ff7491efb48bea84559d03d7a9da42b595084018f4e7442"
+hash = "77230cb3c76ac6c1a2206d441ff83da4260b3fda9fc5116bff398aef9e95d7fb"
 metafile = true
 
 [[files]]
@@ -1544,7 +1540,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
