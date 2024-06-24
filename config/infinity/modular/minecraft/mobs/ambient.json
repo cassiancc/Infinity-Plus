@@ -1,8 +1,8 @@
 {
-  "elements": [
-    {
-      "key": "minecraft:bat",
-      "weight": 1.0
-    }
-  ]
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "minecraft:bat"
+		}
+	]
 }

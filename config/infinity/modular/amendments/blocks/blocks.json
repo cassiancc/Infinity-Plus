@@ -185,7 +185,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"float": true,
+				"float": false,
 				"Name": "amendments:directional_cake",
 				"full": false
 			}
@@ -195,7 +195,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"float": true,
+				"float": false,
 				"Name": "amendments:double_cake",
 				"full": false
 			}

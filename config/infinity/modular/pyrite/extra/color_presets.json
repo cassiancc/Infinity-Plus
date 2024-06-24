@@ -163,6 +163,59 @@
 			"weight": 1.0,
 			"key": [
 				{
+					"Name": "pyrite:white_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:light_gray_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:gray_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:black_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:brown_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:red_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:orange_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:yellow_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:lime_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:green_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:light_blue_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:blue_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:cyan_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:purple_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:magenta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:pink_brick_wall_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
 					"Name": "pyrite:white_bricks"
 				},
 				{
@@ -209,6 +262,112 @@
 				},
 				{
 					"Name": "pyrite:pink_bricks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_framed_glass"
+				},
+				{
+					"Name": "pyrite:light_gray_framed_glass"
+				},
+				{
+					"Name": "pyrite:gray_framed_glass"
+				},
+				{
+					"Name": "pyrite:black_framed_glass"
+				},
+				{
+					"Name": "pyrite:brown_framed_glass"
+				},
+				{
+					"Name": "pyrite:red_framed_glass"
+				},
+				{
+					"Name": "pyrite:orange_framed_glass"
+				},
+				{
+					"Name": "pyrite:yellow_framed_glass"
+				},
+				{
+					"Name": "pyrite:lime_framed_glass"
+				},
+				{
+					"Name": "pyrite:green_framed_glass"
+				},
+				{
+					"Name": "pyrite:light_blue_framed_glass"
+				},
+				{
+					"Name": "pyrite:blue_framed_glass"
+				},
+				{
+					"Name": "pyrite:cyan_framed_glass"
+				},
+				{
+					"Name": "pyrite:purple_framed_glass"
+				},
+				{
+					"Name": "pyrite:magenta_framed_glass"
+				},
+				{
+					"Name": "pyrite:pink_framed_glass"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:light_gray_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:gray_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:black_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:brown_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:red_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:orange_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:yellow_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:lime_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:green_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:light_blue_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:blue_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:cyan_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:purple_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:magenta_framed_glass_pane"
+				},
+				{
+					"Name": "pyrite:pink_framed_glass_pane"
 				}
 			]
 		},
@@ -269,52 +428,52 @@
 			"weight": 1.0,
 			"key": [
 				{
-					"Name": "pyrite:white_stained_door"
+					"Name": "pyrite:white_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:light_gray_stained_door"
+					"Name": "pyrite:light_gray_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:gray_stained_door"
+					"Name": "pyrite:gray_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:black_stained_door"
+					"Name": "pyrite:black_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:brown_stained_door"
+					"Name": "pyrite:brown_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:red_stained_door"
+					"Name": "pyrite:red_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:orange_stained_door"
+					"Name": "pyrite:orange_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:yellow_stained_door"
+					"Name": "pyrite:yellow_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:lime_stained_door"
+					"Name": "pyrite:lime_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:green_stained_door"
+					"Name": "pyrite:green_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:light_blue_stained_door"
+					"Name": "pyrite:light_blue_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:blue_stained_door"
+					"Name": "pyrite:blue_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:cyan_stained_door"
+					"Name": "pyrite:cyan_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:purple_stained_door"
+					"Name": "pyrite:purple_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:magenta_stained_door"
+					"Name": "pyrite:magenta_stained_crafting_table"
 				},
 				{
-					"Name": "pyrite:pink_stained_door"
+					"Name": "pyrite:pink_stained_crafting_table"
 				}
 			]
 		},
@@ -481,59 +640,6 @@
 			"weight": 1.0,
 			"key": [
 				{
-					"Name": "pyrite:white_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:light_gray_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:gray_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:black_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:brown_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:red_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:orange_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:yellow_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:lime_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:green_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:light_blue_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:blue_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:cyan_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:purple_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:magenta_stained_pressure_plate"
-				},
-				{
-					"Name": "pyrite:pink_stained_pressure_plate"
-				}
-			]
-		},
-		{
-			"weight": 1.0,
-			"key": [
-				{
 					"Name": "pyrite:white_stained_slab"
 				},
 				{
@@ -686,6 +792,271 @@
 				},
 				{
 					"Name": "pyrite:pink_stained_trapdoor"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:light_gray_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:gray_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:black_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:brown_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:red_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:orange_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:yellow_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:lime_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:green_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:light_blue_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:blue_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:cyan_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:purple_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:magenta_terracotta_brick_slab"
+				},
+				{
+					"Name": "pyrite:pink_terracotta_brick_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:light_gray_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:gray_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:black_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:brown_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:red_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:orange_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:yellow_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:lime_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:green_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:light_blue_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:blue_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:cyan_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:purple_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:magenta_terracotta_brick_stairs"
+				},
+				{
+					"Name": "pyrite:pink_terracotta_brick_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:light_gray_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:gray_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:black_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:brown_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:red_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:orange_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:yellow_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:lime_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:green_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:light_blue_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:blue_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:cyan_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:purple_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:magenta_terracotta_brick_wall"
+				},
+				{
+					"Name": "pyrite:pink_terracotta_brick_wall"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:light_gray_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:gray_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:black_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:brown_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:red_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:orange_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:yellow_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:lime_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:green_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:light_blue_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:blue_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:cyan_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:purple_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:magenta_terracotta_brick_wall_gate"
+				},
+				{
+					"Name": "pyrite:pink_terracotta_brick_wall_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:light_gray_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:gray_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:black_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:brown_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:red_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:orange_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:yellow_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:lime_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:green_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:light_blue_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:blue_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:cyan_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:purple_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:magenta_terracotta_bricks"
+				},
+				{
+					"Name": "pyrite:pink_terracotta_bricks"
 				}
 			]
 		}

@@ -1,8 +1,8 @@
 {
-  "elements": [
-    {
-      "key": "minecraft:glow_squid",
-      "weight": 1.0
-    }
-  ]
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "minecraft:glow_squid"
+		}
+	]
 }

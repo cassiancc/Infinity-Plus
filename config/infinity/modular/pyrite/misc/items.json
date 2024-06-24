@@ -2,7 +2,47 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "pyrite:acacia_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:amethyst_trapdoor"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:andesite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:bamboo_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:birch_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -18,7 +58,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:black_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:black_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -27,6 +79,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:black_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -39,6 +95,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:black_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -62,6 +122,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:black_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:blackstone_wall_gate"
 		},
 		{
@@ -78,7 +166,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:blue_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -86,7 +186,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:blue_nether_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_nether_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_nether_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_nether_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_rose"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:blue_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -99,6 +227,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:blue_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -122,6 +254,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:blue_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brick_wall_gate"
 		},
 		{
@@ -138,7 +298,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brown_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -147,6 +319,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:brown_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -159,6 +335,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:brown_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -190,6 +370,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_stained_crafting_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brown_stained_door"
 		},
 		{
@@ -199,6 +383,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:brown_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -222,6 +410,38 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:buttercup"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:charred_nether_brick_slab"
 		},
 		{
@@ -234,7 +454,63 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:charred_nether_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:charred_nether_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cherry_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_amethyst_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_diamond_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_exposed_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_iron_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_netherite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_oxidized_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_redstone_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:chiseled_weathered_copper_block"
 		},
 		{
 			"weight": 1.0,
@@ -266,6 +542,134 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:copper_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:crimson_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_amethyst_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_amethyst_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_amethyst_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_amethyst_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_diamond_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_diamond_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_diamond_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_diamond_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_emerald_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_emerald_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_emerald_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_emerald_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_exposed_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_exposed_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_gold_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_gold_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_gold_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_gold_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:cut_iron"
 		},
 		{
@@ -286,6 +690,102 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:cut_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_lapis_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_lapis_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_lapis_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_lapis_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_netherite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_netherite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_netherite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_netherite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_oxidized_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_oxidized_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_quartz_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_quartz_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_quartz_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_quartz_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_redstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_redstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_redstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_redstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_weathered_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cut_weathered_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:cyan_brick_slab"
 		},
 		{
@@ -298,7 +798,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:cyan_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:cyan_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -307,6 +819,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:cyan_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -319,6 +835,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:cyan_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -342,11 +862,71 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:cyan_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dark_oak_crafting_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:deepslate_brick_wall_gate"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:deepslate_tile_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diamond_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -366,6 +946,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:dragon_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:dragon_bricks"
 		},
 		{
@@ -378,11 +962,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:dragon_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:dragon_lamp"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:dragon_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -395,6 +991,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:dragon_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -418,11 +1018,99 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:dragon_wool"
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:emerald_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:emerald_trapdoor"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:end_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:exposed_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -446,6 +1134,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:glow_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:glow_bricks"
 		},
 		{
@@ -458,11 +1150,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:glow_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:glow_lamp"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:glow_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -475,6 +1179,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:glow_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -498,6 +1206,38 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:glow_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:glow_wool"
 		},
 		{
@@ -510,11 +1250,47 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:gold_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gold_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gold_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gold_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gold_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gold_trapdoor"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:granite_wall_gate"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:grass_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:grass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:grass_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:grass_turf"
 		},
 		{
 			"weight": 1.0,
@@ -530,7 +1306,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:gray_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:gray_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -539,6 +1327,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:gray_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -551,6 +1343,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:gray_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -574,6 +1370,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:gray_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:green_brick_slab"
 		},
 		{
@@ -586,7 +1410,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:green_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:green_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -595,6 +1431,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:green_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -607,6 +1447,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:green_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -630,6 +1474,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:green_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_brick_slab"
 		},
 		{
@@ -639,6 +1511,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:honey_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_brick_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -654,11 +1530,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:honey_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_lamp"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:honey_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -671,6 +1559,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:honey_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -694,7 +1586,83 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:honey_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:iron_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:iron_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:iron_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:jungle_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lapis_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -710,7 +1678,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_blue_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_blue_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -719,6 +1699,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_blue_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -731,6 +1715,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_blue_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -754,6 +1742,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_blue_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_gray_brick_slab"
 		},
 		{
@@ -766,7 +1782,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_gray_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_gray_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -775,6 +1803,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_gray_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -787,6 +1819,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_gray_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -810,6 +1846,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_gray_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:lime_brick_slab"
 		},
 		{
@@ -822,7 +1886,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:lime_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:lime_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -831,6 +1907,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:lime_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -843,6 +1923,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:lime_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -866,6 +1950,42 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:lime_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lit_redstone_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:locked_chest"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:magenta_brick_slab"
 		},
 		{
@@ -878,7 +1998,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:magenta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:magenta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -887,6 +2019,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:magenta_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -899,6 +2035,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:magenta_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -919,6 +2059,38 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:magenta_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mangrove_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -958,11 +2130,55 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:mycelium_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mycelium_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mycelium_turf"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nether_brick_fence_gate"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:nether_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:netherite_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_amethyst_block"
 		},
 		{
 			"weight": 1.0,
@@ -978,6 +2194,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_bricks"
 		},
 		{
@@ -986,7 +2206,71 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_diamond_block"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_emerald_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_exposed_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_glowing_obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_gold_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_grass_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_grass_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_grass_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_grass_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_grass_turf"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_gravel"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_iron_block"
 		},
 		{
 			"weight": 1.0,
@@ -994,7 +2278,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_lapis_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_mossy_cobblestone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_netherite_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_netherrack"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_oxidized_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_quartz_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_redstone_block"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1007,6 +2323,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:nostalgia_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1030,6 +2350,42 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_weathered_copper_block"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_wool"
 		},
 		{
@@ -1046,7 +2402,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:orange_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:orange_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1054,7 +2422,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:orange_rose"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:orange_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1067,6 +2443,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:orange_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1090,7 +2470,79 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:orange_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:oxidized_copper_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:paeonia"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:path_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:path_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:path_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:path_turf"
 		},
 		{
 			"weight": 1.0,
@@ -1106,7 +2558,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:pink_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:pink_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1114,7 +2582,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:pink_rose"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:pink_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1127,6 +2603,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:pink_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1150,7 +2630,167 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:pink_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:podzol_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:podzol_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:podzol_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:podzol_turf"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_dye"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_wool"
 		},
 		{
 			"weight": 1.0,
@@ -1182,7 +2822,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:purple_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:purple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1191,6 +2843,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:purple_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1203,6 +2859,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:purple_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1226,6 +2886,54 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:purple_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:quartz_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:quartz_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:quartz_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:quartz_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:quartz_trapdoor"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_brick_slab"
 		},
 		{
@@ -1238,7 +2946,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1247,6 +2967,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:red_mushroom_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1259,6 +2983,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:red_mushroom_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1298,6 +3026,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_stained_crafting_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_stained_door"
 		},
 		{
@@ -1307,6 +3039,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:red_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1330,6 +3066,70 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:redstone_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:rose_brick_slab"
 		},
 		{
@@ -1339,6 +3139,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:rose_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_brick_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -1354,11 +3158,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:rose_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:rose_lamp"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:rose_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1371,6 +3187,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:rose_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1394,11 +3214,319 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:rose_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:rose_wool"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:sandstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_amethyst_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_amethyst_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_amethyst_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_amethyst_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_diamond_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_diamond_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_diamond_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_diamond_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_emerald_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_emerald_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_emerald_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_emerald_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_exposed_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_exposed_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_exposed_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_exposed_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_exposed_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_gold_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_gold_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_gold_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_gold_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_iron_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_iron_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_iron_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_iron_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_lapis_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_lapis_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_lapis_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_lapis_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_netherite_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_netherite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_netherite_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_netherite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_oxidized_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_oxidized_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_oxidized_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_oxidized_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_oxidized_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_quartz_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_quartz_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_redstone_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_redstone_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_redstone_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_redstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_weathered_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_weathered_copper_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_weathered_copper_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_weathered_copper_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:smooth_weathered_copper_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:soul_torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:spruce_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1414,6 +3542,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:star_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:star_bricks"
 		},
 		{
@@ -1426,11 +3558,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:star_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_framed_glass_pane"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:star_lamp"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:star_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1443,6 +3587,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:star_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1466,11 +3614,79 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:star_terracotta"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:star_wool"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:warped_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -1486,7 +3702,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:white_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:white_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1494,7 +3722,15 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:white_rose"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:white_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1507,6 +3743,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:white_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1530,6 +3770,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:white_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_torch_lever"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:yellow_brick_slab"
 		},
 		{
@@ -1542,7 +3810,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:yellow_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:yellow_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_framed_glass_pane"
 		},
 		{
 			"weight": 1.0,
@@ -1551,6 +3831,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:yellow_stained_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_crafting_table"
 		},
 		{
 			"weight": 1.0,
@@ -1563,6 +3847,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:yellow_stained_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_ladder"
 		},
 		{
 			"weight": 1.0,
@@ -1583,6 +3871,34 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:yellow_stained_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_terracotta_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_terracotta_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_terracotta_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_terracotta_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_torch"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_torch_lever"
 		}
 	]
 }
