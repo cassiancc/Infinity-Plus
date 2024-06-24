@@ -1116,7 +1116,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "0206ddc8779f5ad788bd0cd968491f68a68d6f5a70cadc3f632777a01fd11706"
+hash = "988f36c04a6c2003d4db74401a402f4cdf30a2e4d236d2df7747f963eb832cc6"
 metafile = true
 
 [[files]]
@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
+hash = "6a4e4b9450aa618bd27346ec81d88231594ac487175c610e2106a6ccfdbce2d7"
 metafile = true
 
 [[files]]
@@ -1331,7 +1331,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "6f1c36f88355f464ff98c8f8dc8b6c58f69905d69abfde06402bb236e4c76d7e"
+hash = "0ee9cc92b5250cf92632e41e2c4d567fbf9ddaca6a4e382183af5686e25b1df8"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Infinite Dimensions"
-filename = "infinity-1.10.5-1.20.1.jar"
+filename = "infinity-1.10.7-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/nkcVV4Kk/infinity-1.10.5-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/23Pomcpz/infinity-1.10.7-1.20.1.jar"
 hash-format = "sha1"
-hash = "41cc375f39cf9828a73576981ba5eb87dd589f37"
+hash = "e83c26f5a85b5d1a72e17007d84b9f92e8065ee9"
 
 [update]
 [update.modrinth]
 mod-id = "KgKqTqPj"
-version = "nkcVV4Kk"
+version = "23Pomcpz"
