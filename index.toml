@@ -873,6 +873,10 @@ file = "config/infinity/util/easter/elephants.json"
 hash = "bd288444e9231ae88279a03829d300cf8fa5417b16185f561e7b37dc43674c40"
 
 [[files]]
+file = "config/infinity/util/easter/empty.json"
+hash = "633e81f163470340edab65b94b966526126ec021f5fdff3e5815d1a7cf878e09"
+
+[[files]]
 file = "config/infinity/util/easter/green.json"
 hash = "1fb38ccae926b229145a913e9597a10bc9d3cc73a619c807f02924a2314ac985"
 
