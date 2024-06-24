@@ -1,7 +1,7 @@
 {
 	"elements": [
 		{
-			"weight": 1.0,
+			"weight": 0.2,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.1,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"weight": 1.0,
+			"weight": 0.1,
 			"key": {
 				"top": true,
 				"laggy": false,
