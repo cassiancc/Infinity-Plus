@@ -1185,11 +1185,6 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
 metafile = true
