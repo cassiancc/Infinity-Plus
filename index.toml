@@ -369,6 +369,22 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/infinity/evicted/modular/minecraft/surface_rule/beaches.json"
+hash = "59e08b63e347b26aca12adc58942a876d043816445a2696a39320ed53c53ac1c"
+
+[[files]]
+file = "config/infinity/evicted/modular/minecraft/surface_rule/frozen_oceans.json"
+hash = "2543a4ff7fe7ed408a0bd9bb1e31eab81c5c6fb4ebb3b5fc27a3b6b8cfa5d735"
+
+[[files]]
+file = "config/infinity/evicted/modular/minecraft/surface_rule/lukewarm_oceans.json"
+hash = "e1d2f5eb1f33bd430e60d3a55d2f207989b06d2588d9dfad2c74f8452f0e6d35"
+
+[[files]]
+file = "config/infinity/evicted/modular/minecraft/surface_rule/old_taigas.json"
+hash = "9ae743220af4a69e2046daee5aae725d1bf921e42cd7ebdafad26071cca22b3f"
+
+[[files]]
 file = "config/infinity/hardcoded/biome_source_types.json"
 hash = "201d93051f5dfd0ea9fa9457a8acc0a1b64a75013575c9ed86a31f2216117cfc"
 
@@ -410,7 +426,7 @@ hash = "bd1b0f77e52a4da9397fac679517b6e9d44449abb6fd271e3ae26b7ea715fcfa"
 
 [[files]]
 file = "config/infinity/infinity.json"
-hash = "e65a7e09b7923762d25b0b7373650aa599f45c892e5385ec01fefcf788e16ae9"
+hash = "6510724b9a732949f604dfe3f999d132526a194f57017013a1ef5a6a4a4668c2"
 
 [[files]]
 file = "config/infinity/modular/adorn/blocks/blocks.json"
@@ -466,7 +482,7 @@ hash = "53c6c7093784926531242e4e6d7568e939be64de70efc62a8c639679a4f12384"
 
 [[files]]
 file = "config/infinity/modular/infinity/blocks/blocks.json"
-hash = "60338df98ba7fa87def5afd856d1f24ea65420fd4d1517748225e647f891a79a"
+hash = "7cbc92cb373e23c136743bd5ea19ab777d9716a2c4ec59dbe7bc77aae6960c9f"
 
 [[files]]
 file = "config/infinity/modular/infinity/misc/items.json"
@@ -646,11 +662,15 @@ hash = "b84d0c7401647399cd50f3196e298dd376554c3e2e6ded753e1b7e4ea622ac40"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/badlands.json"
-hash = "93d9c44b2e11504e244a70b7f25c80646e9dad52217e4e2f452d9a036aaa19df"
+hash = "12712e02bd9d31936c5d2a99013f5afbfe2b8ba3cf3c2eefa1d0299592413b4c"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/basalt_deltas.json"
-hash = "ea60f2331be41afe9ac98c71833218b8fcc50a32c36e0e22e599302b93b9ac4c"
+hash = "bef3ba8a5ef676b9ca6c24aed387e32d5a62e67c253705e08c9836a4bf34492d"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/beach.json"
+hash = "5eeb623dad40829df34ae7cbd37d83af4c8f2924438aad06fc7639091648d112"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/beaches.json"
@@ -658,7 +678,19 @@ hash = "59e08b63e347b26aca12adc58942a876d043816445a2696a39320ed53c53ac1c"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/crimson_forest.json"
-hash = "3aaf4f92c12ae83e87b9fa76d1f3b83330fbb9698e23baf5301fd1afd25fb0ce"
+hash = "66ba16471f0fe83b8c470c74b5cfebd31c30b7b9a5698415479e0872685f06b6"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/deep_frozen_ocean.json"
+hash = "6d1abab07ff57afcd85efecc903307418a06d59dead8e119c809978713e383e0"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/deep_lukewarm_ocean.json"
+hash = "706b2c2ff22b1a1c36f6c1db350f46fc7eafdad3d6bbaf880ffaf21e616ffda0"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/default.json"
+hash = "9ea33eea83cb4fb0436a443037d0582dd9ff7af94e43d21e896448444859011b"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/default_overworld.json"
@@ -666,15 +698,23 @@ hash = "b3c762c38290380f1fff2ea6c4afd22f365d77008d055867da59daafdadf59e2"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/desert.json"
-hash = "651202586d7f9a8433a17b1cc054e768a193b86a4e173a2c125cfc9d46654ea4"
+hash = "0059867515439025142f0d54f3fc6702f20f5c483f4257c6e03dffdc95fed78c"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/dripstone_caves.json"
-hash = "a582cdd689d0f84eb10e0fba41fd3b1fcc282cc44ce4647be27923e702c9b435"
+hash = "f7398cf7cda74f0140c980a7d8923edd9c17ab8b0eb34aca1cbe2c43ddd23c64"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/end.json"
 hash = "b618e86271057ef9c7a0103b61dce99d6a778fc4b7d786f30c7fa0ad27cba63d"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/eroded_badlands.json"
+hash = "cea64fe7a70b56a3da53fc27fddadc3435dc15d78968593642164f5c0af9710f"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/frozen_ocean.json"
+hash = "c6ae2f6a7ba5961e54bf4c231329db1634017568fcf7d4b24df784dc87080e33"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/frozen_oceans.json"
@@ -682,19 +722,23 @@ hash = "2543a4ff7fe7ed408a0bd9bb1e31eab81c5c6fb4ebb3b5fc27a3b6b8cfa5d735"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/frozen_peaks.json"
-hash = "554c1cfb7970ec18e2dbb6ba4b290ad2c70e62ca1b328ea9343c86a7ab4490a7"
+hash = "f740e139873912d94cbe3f5a97b1bdaa82182a12ebcba00f19b17519328134d9"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/grove.json"
-hash = "4393eecfb54e6dc1385c7c18ce8befd808bf98c25a00fc24035b47aac7b89750"
+hash = "68bce9bccd82b865a566c0ec86c3c310ef11a83703fc6d88abd1abbce6cb5587"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/ice_spikes.json"
-hash = "af34d9bb8b2abf0328015cbb338e9d739c08a765f8090d439b43cb4e34b282a3"
+hash = "27e584d82bb3a8116e9315c6b0fbb9b88731b82e073a8d7dd749b33e6ff8f770"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/jagged_peaks.json"
-hash = "b1e3e98d7cd63e929a5e3f1360c72968e783aef696ddf7b623e668dde2cf65f4"
+hash = "d46ef8c9af6a6513de44e82378efa2185c191fc0afe388f99704f0426ccb7abd"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/lukewarm_ocean.json"
+hash = "327556008b9e17dad0c45ee8247830c4ac793ce6dea5db23972e085e7b2caa4a"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/lukewarm_oceans.json"
@@ -702,59 +746,75 @@ hash = "e1d2f5eb1f33bd430e60d3a55d2f207989b06d2588d9dfad2c74f8452f0e6d35"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/mangrove_swamp.json"
-hash = "e78d990da2d0fcb73dd42a3efde6dc5a7ab79a3edf2c926a84fc131b62c407be"
+hash = "bef16b181166f27289d7620afdeac26ef763e9d24e0e9d28949b1b3921bfeb41"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/mushroom_fields.json"
-hash = "00bd116b042f91476c2a45c2085a1d770e765b40e660ab22a5c64a60bd4fdc04"
+hash = "a0edf0c6ff3c95a8ae0db138e673c306010b38d4a89bbd37db1512c83ce6093f"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/nether_wastes.json"
-hash = "c3759b7a117d2d5a6cbdc66a331c2d4e1931c7189a4cc81fe9bddd374c5b3df7"
+hash = "c36477137fbfa035e12ce4adb2d1787a0208987851a0db06184f6ab669ece3e3"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/old_growth_pine_taiga.json"
+hash = "6cc10713555753d84fdcd8a8887e8a88bbe8930b82778db34385abe2b69bbf87"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/old_growth_spruce_taiga.json"
+hash = "0f2203c68a0fd65d6a50f2312f64e3513e7c29807ebfb035f6bc14586b592096"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/old_taigas.json"
 hash = "9ae743220af4a69e2046daee5aae725d1bf921e42cd7ebdafad26071cca22b3f"
 
 [[files]]
+file = "config/infinity/modular/minecraft/surface_rule/snowy_beach.json"
+hash = "622da31610b25b329754692bb4105f8b77d9d68ab1b25731078edb9dc79c7f0d"
+
+[[files]]
 file = "config/infinity/modular/minecraft/surface_rule/snowy_slopes.json"
-hash = "7afc3743a037fb979fdc1da24df8f0593f81598d15d113f573f847ccdbbe5231"
+hash = "fca1e22b4dee6b353fc0a7177769945ac60df82fd098fd3e4c84d67e2cba390a"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/soul_sand_valley.json"
-hash = "ed1a79a5c9f4c45a2fdee10bc5b6e6aa0ec7dd89bd2250d0492879f933e1217c"
+hash = "1201684d4c3beb890c87b6f3330cb50b9e551ae96e4d924ec147fa5823587791"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/stony_peaks.json"
-hash = "96722444670cf017bafa90a9236d2b49a779d6bd701c46e7f2b1313d6e5d6a55"
+hash = "0f3062d0b1faf0932d044554b9857b0a4dbbfed1b9fe24279523f31e211c69a5"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/stony_shore.json"
-hash = "4954bfb0255943edaf2ecf946ec63eddc2a0bafee89eea0adfe8f063a26b0605"
+hash = "54360074d06d42a2d12c414733284279da87172737a0667c8f210b40a8a2efb7"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/swamp.json"
-hash = "6ab42327e966dbfd6622e99f6e6f840221d65f4d4fff3c6537cbf9821c7a0f89"
+hash = "ec9ac5c416988fed63093bf03d63801a2760c731f2dd267d334f39b67c941bba"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/warm_ocean.json"
-hash = "9113482104ac7137a570288a71fe2855e284bdf5f63576e4ff42ab4eab35c73d"
+hash = "6ddb6039908133d38eb99a84b12042189302312eb972042d94bf756c07d56351"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/warped_forest.json"
-hash = "1fe79527c2440d526c432e44dbf379c84aeba6fc54aef65c4cd9e9dade8be0dd"
+hash = "e9ef726dc31a02e07f42b091adbe82b71513754a3689eda5128882b4dfd49539"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_gravelly_hills.json"
-hash = "be2dc47b57a86e9b7c0bf8f1d94eb2808a64bf047d55946c9c2367baac70d9de"
+hash = "c176355f73e059aeb0a7ea5ad6d6c8382673a4106c47b0d59c77338c04789736"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_hills.json"
-hash = "30eec90057f3f771a538caad03e2daebd9db4407dc806ea5e91628750723b983"
+hash = "c1ea0078f525f0c36fae8c567aec49800bf807a0a42b640d4560965b465d5a0f"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_savanna.json"
-hash = "585d8bff0450a28a93c443a561617776e5c04e2bcf8b73bfd9176dc2619c14a9"
+hash = "8ce2fd6d35e5e93e74060601c5dac92c4f80956b7cc0548c3f0638982dd809b3"
+
+[[files]]
+file = "config/infinity/modular/minecraft/surface_rule/wooded_badlands.json"
+hash = "1a8b10339a25387ee8cb326e8ef6d4751842938f12b4401e5bffe3240f38ce15"
 
 [[files]]
 file = "config/infinity/modular/minecraft/vegetation/flowers_legacy.json"
@@ -935,6 +995,10 @@ hash = "f6b5eb4afd5acbeed16caf084343e38d909b8bbd404cf4cbabe1433f0dd9cce3"
 [[files]]
 file = "config/infinity/util/easter/terminal.json"
 hash = "8ba4b71727ac14b0320ffd10a403760822525d9c53866cf71dd9ab208551eabd"
+
+[[files]]
+file = "config/infinity/util/evicted_files.json"
+hash = "358332779c1a7cfac0a5a45fea1f5d6e900bbc06c195a65e11555ef89abaaa8f"
 
 [[files]]
 file = "config/infinity/util/noise.json"
