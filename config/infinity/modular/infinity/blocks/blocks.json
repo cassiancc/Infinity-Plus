@@ -16,6 +16,16 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Name": "infinity:altar_cosmic",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
 				"Name": "infinity:altar_lit",
 				"full": false
 			}

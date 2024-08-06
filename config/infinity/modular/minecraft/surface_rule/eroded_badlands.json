@@ -1,6 +1,6 @@
 {
 	"biomes": [
-		"minecraft:badlands"
+		"minecraft:eroded_badlands"
 	],
 	"rule": {
 		"sequence": [
