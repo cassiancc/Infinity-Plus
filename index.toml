@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "25e4e9b1ba7aecc68f498dafc66267c17efefbc604a24fac84d9ddab329920f9"
+hash = "799e7d021483cc525c21ddbeb04622e60e7ee9dbd2f9f9f5cc3b28c51b348f3a"
 metafile = true
 
 [[files]]
@@ -1345,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+hash = "9bace0ec532b1cb9e4584fe3ee63ec52c2aa93da1eee26c3ca6a339f8f4536ad"
 metafile = true
 
 [[files]]
@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "68fb3b8ef9ec4dcc3efccd52efd1cffd675345718b019f19b367e39efabd4a9c"
+hash = "46669fb48a84983d400b5adb4c52a4731fb0a18de2e8b17a3ebf3c875c6fa2d9"
 metafile = true
 
 [[files]]
@@ -1600,7 +1600,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "87aade4361d32b078dee51eeb4a4885dee824720a1d49c4cd9306cb8fe73a50f"
+hash = "5d65fa670b2fadc06bea93bc6406cda0b8fd73954d49f1c90ecc427c990f0213"
 metafile = true
 
 [[files]]
