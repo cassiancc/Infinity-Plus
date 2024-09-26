@@ -4,7 +4,7 @@
 </p>
 <hr>
 
-Infinity Plus is a Fabric 1.20 modpack inspired by 20w14infinite, the April Fools snapshot for the never-released [Ultimate Content Update](https://www.minecraft.net/en-us/article/every-update-imaginable-coming-minecraft).
+Infinity Plus is a Fabric 1.21 modpack inspired by 20w14infinite, the April Fools snapshot for the never-released [Ultimate Content Update](https://www.minecraft.net/en-us/article/every-update-imaginable-coming-minecraft).
 
 Infinity Plus is powered by the [Infinite Dimensions mod](https://modrinth.com/mod/infinite-dimensions) and [Ultimate Content Mod](https://modrinth.com/mod/ultimate-content-mod/).
 
@@ -24,20 +24,18 @@ Infinity Plus takes the gameplay changes and new mechanics from 20w14infinite an
 - Something to try: There's all new hard coded [Easter Egg dimensions](https://github.com/cassiancc/Infinity-Plus/wiki/Easter-Egg-Dimensions). Try using the names of these dimensions as your dimensional seed, a great one to get started with is the 'library' dimension.</li>
 
 ## Acknowledgements
-<img width=95% src="https://copper.congodsted.com/resources/modrinth/infinityplus/credits.png">
+<img width=95% src="https://resources.godsted.com/modrinth/infinityplus/credits.png">
 
 This pack would not be possible without the incredible work of [LeraRiemann](https://modrinth.com/user/LeraRiemann) on the [Infinite Dimensions](https://modrinth.com/mod/infinite-dimensions) mod. This pack would not be possible without it.
 
 ### Mod Licenses
 Some mods and add-ons included in the pack are not available on Modrinth. The following is a list of these additions, as well as their licenses.
 
+<details><summary>Adorn</summary>The 1.21 version of the pack contains a compiled version of Juuxel's Adorn, in compliance with its <a href="https://github.com/Juuxel/Adorn?tab=MIT-1-ov-file#readme">MIT License on GitHub.</a></details>
+
 <details><summary>Litematica</summary>This pack includes <a target='_blank' href='https://www.curseforge.com/minecraft/mc-mods/litematica'>maruohon's Litematica</a>. <a target='_blank'  href='https://github.com/maruohon/litematica/blob/pre-rewrite/fabric/infinite/COPYING.txt'>This mod is available under the GPL from GitHub</a>.</details>
     
 <details><summary>MaLiLib</summary>This pack includes <a target='_blank' href='https://www.curseforge.com/minecraft/mc-mods/malilib'>maruohon's malilib</a>. <a target='_blank' href='https://github.com/maruohon/malilib?tab=LGPL-3.0-1-ov-file#readme'>This mod is available under the GPL from GitHub</a>.</details>
-
-<details><summary>Ultimate Dimension Pack</summary>This pack contains a custom datapack in order to register additional mod dimensions. It was developed by myself for use in this pack.</details>
-
-<details><summary>Ultimate Experiment Pack</summary>This pack contains a custom resource pack containing new WIP textures for the Box of Infinite Books and An Ant. It was developed by myself for use in this pack.</details>
 
 <details><summary>Unity</summary><a target='_blank' href='https://modrinth.com/resourcepack/unity'>
     Unity</a> by CyanideX is licensed under a <a

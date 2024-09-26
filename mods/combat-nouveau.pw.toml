@@ -1,13 +1,13 @@
 name = "Combat Nouveau"
-filename = "CombatNouveau-v8.0.5-1.20.1-Fabric.jar"
+filename = "CombatNouveau-v21.1.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Iv3kcKZn/versions/vZ3OuAQk/CombatNouveau-v8.0.5-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/Iv3kcKZn/versions/i9tRQ8bf/CombatNouveau-v21.1.1-1.21.1-Fabric.jar"
 hash-format = "sha1"
-hash = "f0f52cfb8713a632956f80a007d2ecf2c1c4d432"
+hash = "c2f8291a9f686202d2648afbb9e4ca51126f0ca0"
 
 [update]
 [update.modrinth]
 mod-id = "Iv3kcKZn"
-version = "vZ3OuAQk"
+version = "i9tRQ8bf"

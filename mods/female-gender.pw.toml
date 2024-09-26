@@ -1,13 +1,13 @@
 name = "Wildfire's Female Gender Mod"
-filename = "Female-Gender-Mod-fabric-1.20-3.0.1.jar"
+filename = "Female-Gender-Mod-fabric-3.2.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/nYZ0oktX/Female-Gender-Mod-fabric-1.20-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/kJmjQvAS/Female-Gender-Mod-fabric-3.2.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "0dcb15cc3a05f6c2f006ec33420d6f4df17643b2"
+hash = "f16a343bfd3314a0153188a3a8a3c9d452ed7a28"
 
 [update]
 [update.modrinth]
 mod-id = "bcOsQHnC"
-version = "nYZ0oktX"
+version = "kJmjQvAS"

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "wildfire_gender": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "dynmap": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+  }
+}

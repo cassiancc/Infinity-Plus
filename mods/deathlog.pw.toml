@@ -1,13 +1,13 @@
 name = "DeathLog"
-filename = "deathlog-0.3.2+1.20.jar"
+filename = "deathlog-0.4.1+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/V0Hz3q2W/deathlog-0.3.2%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/lGjkPimB/deathlog-0.4.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "a637205931bac5fd455341d82cc32bb181d617f7"
+hash = "dd786c37abd3ae4cafa6292539df63bd648e9d9d"
 
 [update]
 [update.modrinth]
 mod-id = "TPAYeAOc"
-version = "V0Hz3q2W"
+version = "lGjkPimB"
