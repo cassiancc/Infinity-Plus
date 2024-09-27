@@ -373,10 +373,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "159de407964a39584946e371a0952a8ec9be6e0de223ac3cb9cec928a9d7b168"
-
-[[files]]
 file = "config/infinity/evicted/modular/minecraft/surface_rule/beaches.json"
 hash = "59e08b63e347b26aca12adc58942a876d043816445a2696a39320ed53c53ac1c"
 
