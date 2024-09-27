@@ -31,7 +31,9 @@ This pack would not be possible without the incredible work of [LeraRiemann](htt
 ### Mod Licenses
 Some mods and add-ons included in the pack are not available on Modrinth. The following is a list of these additions, as well as their licenses.
 
-<details><summary>Adorn</summary>The 1.21 version of the pack contains a compiled version of Juuxel's Adorn, in compliance with its <a href="https://github.com/Juuxel/Adorn?tab=MIT-1-ov-file#readme">MIT License on GitHub.</a></details>
+<details><summary>Adorn</summary>The 1.21 version of the pack contains a compiled version of <a target='_blank' href='https://www.modrinth.com/mod/adorn'>Juuxel's Adorn</a>, in compliance with its <a href="https://github.com/Juuxel/Adorn?tab=MIT-1-ov-file#readme">MIT License on GitHub.</a></details>
+
+<details><summary>Diggus Maximus</summary>The 1.21 version of the pack contains a custom port of <a target='_blank' href='https://www.modrinth.com/mod/diggus-maximus'>kryptonaught's Diggus Maximus</a>, in compliance with its <a href="https://github.com/kyrptonaught/DiggusMaximus/blob/1.19/LICENSE">MIT License on GitHub.</a></details>
 
 <details><summary>Litematica</summary>This pack includes <a target='_blank' href='https://www.curseforge.com/minecraft/mc-mods/litematica'>maruohon's Litematica</a>. <a target='_blank'  href='https://github.com/maruohon/litematica/blob/pre-rewrite/fabric/infinite/COPYING.txt'>This mod is available under the GPL from GitHub</a>.</details>
     

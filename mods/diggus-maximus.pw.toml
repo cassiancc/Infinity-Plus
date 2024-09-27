@@ -1,0 +1,7 @@
+name = "Diggus Maximus"
+filename = "diggusmaximus-1.5.9+1.21.jar"
+
+[download]
+url = "https://github.com/cassiancc/DiggusMaximus/releases/download/v1.5.9/diggusmaximus-1.5.9+1.21.jar"
+hash-format = "sha256"
+hash = "b9377e2127ae92fb587059bdcf47da3c03f5f63fa0eb0b470fc256cee932ecb6"

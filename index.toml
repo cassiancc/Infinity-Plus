@@ -1303,6 +1303,11 @@ hash = "14655828cce3703b33029b18229fe0d4e1b04adb464028b81108ee626fe47c46"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "511152c99052ce02809530d3115d36cf7685939414311300ad32e22ad7662cb8"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "53643da21fa7bb9501db576690a439a5fd7c7c510be32128a81a8618df8fd9c8"
 metafile = true
@@ -1394,7 +1399,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "0e5d3a17c7505c3f8430689083dc7c27e5e45ba534669c179d09e8c74377ed40"
+hash = "15f7ae603ec5ec3ef700d2434cf43bf4ee5b75b73b4362f23f40824dc9c0e222"
 metafile = true
 
 [[files]]
@@ -1538,11 +1543,6 @@ hash = "aca4ca6aeb68ca0e811a2738c3c8af51c992448364d0fa0da4341177d906b033"
 metafile = true
 
 [[files]]
-file = "mods/sgtveinminer.pw.toml"
-hash = "ce395ff73ce924f012e7632dec79fc65e7370074fdb2f895725dc3a256cb4e78"
-metafile = true
-
-[[files]]
 file = "mods/shulker+.pw.toml"
 hash = "39229a29962bcc6378b8986192aaa142d12d9a5da8420daf6345a88052f846d9"
 metafile = true
@@ -1584,7 +1584,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-content-mod.pw.toml"
-hash = "edea1faf39693170452e7d35a1557644f4689a0b5cbdd9e2fe5bf917b10f6de0"
+hash = "f52a973a9cd795acfb12d2a2e4db986a34caa4df76abc1392cc77bf4549605cc"
 metafile = true
 
 [[files]]
