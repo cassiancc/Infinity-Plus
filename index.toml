@@ -373,6 +373,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "159de407964a39584946e371a0952a8ec9be6e0de223ac3cb9cec928a9d7b168"
+
+[[files]]
 file = "config/infinity/evicted/modular/minecraft/surface_rule/beaches.json"
 hash = "59e08b63e347b26aca12adc58942a876d043816445a2696a39320ed53c53ac1c"
 
@@ -1190,7 +1194,7 @@ hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
 file = "mods/Adorn-5.3.0+1.21.1-fabric.jar"
-hash = "34ada75e01820d5d3d2b7cf65ebb714ee23211b87b734bf44aad18c6d0537030"
+hash = "818077854717641ccbcebee12159ce89bded35c50824d70d705a1f396892602f"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -1235,6 +1239,11 @@ metafile = true
 [[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "fd658d71efa6e971ccc1cd6d75258b3846aa92339a457cd9bef70e86d21f80ce"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
 metafile = true
 
 [[files]]
