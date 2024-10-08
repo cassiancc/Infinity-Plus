@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "59f61e04d13614321de3c309af55532b36c40faa7b2440459babd1a9fae985fb"
+hash = "2a786c003e6f5553e2e79c52e3dbf31d077b6b395c5b3d83cca299a1ad9c928e"
 metafile = true
 
 [[files]]
@@ -1234,12 +1234,12 @@ metafile = true
 
 [[files]]
 file = "mods/bridging-mod.pw.toml"
-hash = "fd658d71efa6e971ccc1cd6d75258b3846aa92339a457cd9bef70e86d21f80ce"
+hash = "106a9341c1d6cdcacdeff5109ad28aecf2b75f1413d098e15be1398982a5faa6"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3c2696f296a9b195b68c4873fbe3ba07e049dcd5ccd459cc43ab5b86d1da4541"
+hash = "e20ee018464c32627cb3167dac6adf5649c096c943e5ce8aa13cd379135661db"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "53643da21fa7bb9501db576690a439a5fd7c7c510be32128a81a8618df8fd9c8"
+hash = "d5c146b70872b3f597dddec58c59fc491096ddc5dacf8c91d4734a3ec3ae7551"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e23e5a2a536d5d3d5c878efbf649966f97058c031a48a3b6ce4e57d4a20cd42f"
+hash = "3b357601392f348f0d600826da447089c3d12f16bfcf650e355a64b50bdf6d6d"
 metafile = true
 
 [[files]]
@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "2a1a9cc37324bc86db0944fe070878dbff660340232c20f84365070fd0cf6307"
+hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
 metafile = true
 
 [[files]]
@@ -1404,7 +1404,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "15f7ae603ec5ec3ef700d2434cf43bf4ee5b75b73b4362f23f40824dc9c0e222"
+hash = "5da60343fdd1d088b523ceb5f9775e0813d2bdc831e8297a449b3fe8834ab465"
 metafile = true
 
 [[files]]
@@ -1413,8 +1413,13 @@ hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "26a17372b4377796c2bf849a2091b9b5bab13886cbb6b88b05a6f074bb360a66"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "596009ec5701f7063fc8b4dcf145da1fd557e96d1abd1908948b6bf9481b444b"
+hash = "715fd75311a3b112aa6261123603b0e45f0c73cf8fb99c85a4dedd4288366f0f"
 metafile = true
 
 [[files]]
@@ -1479,7 +1484,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "cc112c52d14d6c5fee5bcc67ec9b4bd928c03f28a13e9881fe439918c0b53cb5"
+hash = "cbd0998cd612c6ce87cdb2142af6387a3fe30f74fb4993d36d4dd28b919bf7a8"
 metafile = true
 
 [[files]]
@@ -1509,7 +1514,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "705b12953afb39daf0def61796eb3e59e562c3781d0b6283db0e5ffd85464036"
+hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
 metafile = true
 
 [[files]]
@@ -1519,7 +1524,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "46cdfbb611e2f0eec6a3c5420a88dc5b516c8a544597408c9b3d668ebf10f932"
+hash = "138929792a63cb1ab3794f91703149555a9ca94bb64011b8f0db62f8b55d9bea"
 metafile = true
 
 [[files]]
@@ -1599,12 +1604,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7d72a86e9b91634fe0c8d6a7b04f9e8ec652e3b924dd3512a2260138ab8631c8"
+hash = "49438c74733ef670a78b4ac9300a52ec40b2dad7db05bee1cf6c66f0d1d3ab69"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "55e69d0628ce791c677bc82e664f5df7ffa4cebc4f0860a5ce665a1d47cd9d7e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
 metafile = true
 
 [[files]]
