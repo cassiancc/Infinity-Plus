@@ -1370,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "2250b48970ad684f439bf82e0275be0a2b3dbeab43dca0d2dd884601975d286a"
+hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
 
 [[files]]
@@ -1400,7 +1400,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "81beb09e7967d86fa09808dbc6437ac0d427b4e25e45d7692b947d3afbf9f061"
+hash = "40f649247c013223c74b6fe78e5e92f100a6f4d92e51e8e091ba5621f6c2fa87"
 metafile = true
 
 [[files]]
@@ -1480,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "48401ff6d9c2b29cda554008b3c869c9380a903fd42caa627b1dbbc3ef09da0c"
+hash = "a7f47ca766063f5653ffb48dd5fe6d62685747adab4526f2f666f7c6d9fc0577"
 metafile = true
 
 [[files]]
@@ -1495,7 +1495,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+hash = "70f393d5dd9f701c8333972e47dda5c1ee1c4a6753f8768dbc6dc99c97ab1795"
 metafile = true
 
 [[files]]
@@ -1530,7 +1530,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "767c49eea11db58bacf042ea5d2011929f515985dff004d13cc1ab28de107c51"
+hash = "67e1a82cde28291c05fa4027113a15a0fe502f892a672de3e9e475602faf2dd6"
 metafile = true
 
 [[files]]
@@ -1565,7 +1565,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
+hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
 metafile = true
 
 [[files]]
