@@ -1205,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "c8671e5cdac3c56974c1bd4d9e42e1ffc53137a5730ee2bdfd471245ed950fbe"
+hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "941bf61ed32600eefffb76356799bbb7cd1a3d1775a6f478cb69657fc8bcccc5"
+hash = "5218c5a5c0fce210780f20406252a168dedab7617147b34344cb44ff79e3602b"
 metafile = true
 
 [[files]]
@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "358b25e9535068f93289078426fd42446d4071ddf5cd9fd40ac8ad9c4387c9fa"
+hash = "1c2e8832d700504346754746e30cbc3eb3719f9ca8d067e9424f02cba5a0e7c9"
 metafile = true
 
 [[files]]
@@ -1330,12 +1330,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3b357601392f348f0d600826da447089c3d12f16bfcf650e355a64b50bdf6d6d"
+hash = "80e30a0b492709023a7f1b7449532b9cbacdf2b07b3b60524dd936be28996980"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+hash = "01e471af0769f08cb24a53df4971f01a05370f19a8221d62bd2b1aee0f1ccab1"
 metafile = true
 
 [[files]]
@@ -1355,12 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-minecart.pw.toml"
-hash = "45d058d6e81d3d9d32e817ec1fd0d39fc32baf54830100d0a755cbfa3e5a9551"
-metafile = true
-
-[[files]]
-file = "mods/fastanim.pw.toml"
-hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+hash = "53ccc9d7c59705abc3e5848c6b7edae88e23d72897519f69b49b77168abebdbb"
 metafile = true
 
 [[files]]
@@ -1395,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835b42848b40cd6f0568cb95fa655833e0caeb488a74cfd05df97a5644fd052b"
+hash = "18f74c79c9e7278a30de44021997df48ce2f4f292181f5ad7712e4fb4fd6f8bc"
 metafile = true
 
 [[files]]
@@ -1480,7 +1475,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a7f47ca766063f5653ffb48dd5fe6d62685747adab4526f2f666f7c6d9fc0577"
+hash = "32c48c1b22bdbdb40ed3f8b52d03f64f81ee1723e3e547663002fab4272c5e4b"
 metafile = true
 
 [[files]]
@@ -1555,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "27f31e3c878723e5502bc5860c84e5a0d92016e77a7bd0b654251627f8387beb"
+hash = "db9095666928bd63bd74ae18de74245be38ab5d3f35a0fc7c57f23c70eff7901"
 metafile = true
 
 [[files]]
@@ -1580,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
+hash = "106c8bb5533a1ddaf4d6d443b196bcbc673a67fe0d84cfe32b05072a88119374"
 metafile = true
 
 [[files]]
@@ -1600,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "49438c74733ef670a78b4ac9300a52ec40b2dad7db05bee1cf6c66f0d1d3ab69"
+hash = "72c57bfc98a43865d187378265affc9a59e022494e404baafbb06bd85dd3f772"
 metafile = true
 
 [[files]]
