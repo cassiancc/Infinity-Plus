@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-fabric-1.21.1-0.2.2-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTnHoofC/versions/Iil3Jdqy/liteminer-fabric-1.21.1-0.2.2-beta.1.jar"
+hash-format = "sha1"
+hash = "5622eaa66a2555286a68f8a20d276f9a64ed12ad"
+
+[update]
+[update.modrinth]
+mod-id = "VTnHoofC"
+version = "Iil3Jdqy"
