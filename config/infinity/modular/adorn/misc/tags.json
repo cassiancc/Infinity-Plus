@@ -1,0 +1,204 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#adorn:benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:candlelit_lanterns"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:chairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:chimneys"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:coffee_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:copper_pipes"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:copper_pipes_connect_to"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:crates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:drawers"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:dyed_candlelit_lanterns"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:filled_crates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:kitchen_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:kitchen_counters"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:kitchen_cupboards"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:kitchen_sinks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_chairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_coffee_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_drawers"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_kitchen_counters"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_kitchen_cupboards"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_kitchen_sinks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_buttons"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_fence_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_platforms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_posts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_pressure_plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_shelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:painted_wood_steps"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:platforms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:posts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:prismarine_chimneys"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:regular_chimneys"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:shelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:sofas"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:steps"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:stone_platforms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:stone_posts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:stone_steps"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:table_lamps"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:wooden_platforms"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:wooden_posts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:wooden_shelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "#adorn:wooden_steps"
+		}
+	]
+}

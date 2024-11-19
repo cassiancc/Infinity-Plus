@@ -66,6 +66,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:black_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:black_framed_glass"
 		},
 		{
@@ -98,6 +106,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:black_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:black_stained_ladder"
 		},
 		{
@@ -107,6 +119,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:black_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:black_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -174,6 +190,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:blue_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:blue_framed_glass"
 		},
 		{
@@ -230,6 +254,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:blue_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:blue_stained_ladder"
 		},
 		{
@@ -239,6 +267,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:blue_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -306,6 +338,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brown_framed_glass"
 		},
 		{
@@ -338,6 +378,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brown_mushroom_ladder"
 		},
 		{
@@ -347,6 +391,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:brown_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_mushroom_sign"
 		},
 		{
 			"weight": 1.0,
@@ -386,6 +434,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:brown_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:brown_stained_ladder"
 		},
 		{
@@ -395,6 +447,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:brown_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:brown_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -470,19 +526,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:chiseled_copper_block"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:chiseled_diamond_block"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:chiseled_emerald_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:chiseled_exposed_copper_block"
 		},
 		{
 			"weight": 1.0,
@@ -502,15 +550,7 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:chiseled_oxidized_copper_block"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:chiseled_redstone_block"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:chiseled_weathered_copper_block"
 		},
 		{
 			"weight": 1.0,
@@ -554,19 +594,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:copper_door"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:copper_pillar"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:copper_pressure_plate"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -806,6 +838,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:cyan_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:cyan_framed_glass"
 		},
 		{
@@ -838,6 +878,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:cyan_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:cyan_stained_ladder"
 		},
 		{
@@ -847,6 +891,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:cyan_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:cyan_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -958,6 +1006,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:dragon_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:dragon_dye"
 		},
 		{
@@ -994,6 +1058,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:dragon_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:dragon_stained_ladder"
 		},
 		{
@@ -1003,6 +1071,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:dragon_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:dragon_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1098,19 +1170,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:exposed_copper_door"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:exposed_copper_pillar"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:exposed_copper_pressure_plate"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:exposed_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -1143,6 +1207,22 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:glow_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_concrete_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -1182,6 +1262,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:glow_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:glow_stained_ladder"
 		},
 		{
@@ -1191,6 +1275,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:glow_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:glow_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1314,6 +1402,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:gray_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:gray_framed_glass"
 		},
 		{
@@ -1346,6 +1442,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:gray_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:gray_stained_ladder"
 		},
 		{
@@ -1355,6 +1455,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:gray_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:gray_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1418,6 +1522,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:green_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:green_framed_glass"
 		},
 		{
@@ -1450,6 +1562,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:green_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:green_stained_ladder"
 		},
 		{
@@ -1459,6 +1575,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:green_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:green_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1526,6 +1646,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:honey_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_dye"
 		},
 		{
@@ -1562,6 +1698,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:honey_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_stained_ladder"
 		},
 		{
@@ -1571,6 +1711,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:honey_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:honey_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1686,6 +1830,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_blue_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_blue_framed_glass"
 		},
 		{
@@ -1718,6 +1870,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_blue_stained_ladder"
 		},
 		{
@@ -1727,6 +1883,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_blue_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_blue_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1790,6 +1950,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_gray_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_gray_framed_glass"
 		},
 		{
@@ -1822,6 +1990,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:light_gray_stained_ladder"
 		},
 		{
@@ -1831,6 +2003,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:light_gray_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:light_gray_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -1894,6 +2070,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:lime_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:lime_framed_glass"
 		},
 		{
@@ -1926,6 +2110,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:lime_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:lime_stained_ladder"
 		},
 		{
@@ -1935,6 +2123,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:lime_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:lime_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2006,6 +2198,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:magenta_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:magenta_framed_glass"
 		},
 		{
@@ -2038,6 +2238,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:magenta_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:magenta_stained_ladder"
 		},
 		{
@@ -2047,6 +2251,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:magenta_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:magenta_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2210,6 +2418,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_copper_block"
 		},
 		{
@@ -2326,6 +2550,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:nostalgia_stained_ladder"
 		},
 		{
@@ -2335,6 +2563,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:nostalgia_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:nostalgia_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2410,6 +2642,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:orange_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:orange_framed_glass"
 		},
 		{
@@ -2446,6 +2686,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:orange_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:orange_stained_ladder"
 		},
 		{
@@ -2455,6 +2699,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:orange_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2510,19 +2758,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:oxidized_copper_door"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:oxidized_copper_pillar"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:oxidized_copper_pressure_plate"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:oxidized_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -2566,6 +2806,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:pink_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:pink_daisy"
 		},
 		{
@@ -2606,6 +2854,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:pink_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:pink_stained_ladder"
 		},
 		{
@@ -2615,6 +2867,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:pink_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2698,6 +2954,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:poisonous_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:poisonous_dye"
 		},
 		{
@@ -2734,6 +3006,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:poisonous_stained_ladder"
 		},
 		{
@@ -2743,6 +3019,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:poisonous_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:poisonous_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2806,6 +3086,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:polished_tuff_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:prismarine_wall_gate"
 		},
 		{
@@ -2827,6 +3111,14 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:purple_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_concrete_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -2862,6 +3154,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:purple_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:purple_stained_ladder"
 		},
 		{
@@ -2871,6 +3167,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:purple_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:purple_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -2954,6 +3254,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_framed_glass"
 		},
 		{
@@ -2986,6 +3294,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_mushroom_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_mushroom_ladder"
 		},
 		{
@@ -2995,6 +3307,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:red_mushroom_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_mushroom_sign"
 		},
 		{
 			"weight": 1.0,
@@ -3042,6 +3358,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:red_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:red_stained_ladder"
 		},
 		{
@@ -3051,6 +3371,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:red_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:red_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -3154,6 +3478,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:rose_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:rose_dye"
 		},
 		{
@@ -3190,6 +3530,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:rose_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:rose_stained_ladder"
 		},
 		{
@@ -3199,6 +3543,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:rose_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -3554,6 +3902,22 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:star_concrete"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_concrete_powder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:star_dye"
 		},
 		{
@@ -3590,6 +3954,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:star_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:star_stained_ladder"
 		},
 		{
@@ -3599,6 +3967,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:star_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:star_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -3654,7 +4026,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:switchable_glass"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:torch_lever"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:tuff_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:tuff_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -3674,19 +4058,11 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "pyrite:weathered_copper_door"
-		},
-		{
-			"weight": 1.0,
 			"key": "pyrite:weathered_copper_pillar"
 		},
 		{
 			"weight": 1.0,
 			"key": "pyrite:weathered_copper_pressure_plate"
-		},
-		{
-			"weight": 1.0,
-			"key": "pyrite:weathered_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -3707,6 +4083,14 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:white_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_concrete_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -3746,6 +4130,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:white_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:white_stained_ladder"
 		},
 		{
@@ -3755,6 +4143,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:white_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_stained_sign"
 		},
 		{
 			"weight": 1.0,
@@ -3818,6 +4210,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:yellow_concrete_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_concrete_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:yellow_framed_glass"
 		},
 		{
@@ -3850,6 +4250,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:yellow_stained_hanging_sign"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:yellow_stained_ladder"
 		},
 		{
@@ -3859,6 +4263,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:yellow_stained_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:yellow_stained_sign"
 		},
 		{
 			"weight": 1.0,

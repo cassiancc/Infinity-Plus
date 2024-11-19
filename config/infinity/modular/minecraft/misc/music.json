@@ -150,6 +150,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:music_disc.creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:music_disc.creator_music_box"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:music_disc.far"
 		},
 		{
@@ -167,6 +175,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:music_disc.pigstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:music_disc.precipice"
 		},
 		{
 			"weight": 1.0,

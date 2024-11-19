@@ -1,0 +1,92 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "toms_storage:adv_wireless_terminal"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:basic_inventory_hopper"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:crafting_terminal"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:filing_cabinet"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_cable"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_cable_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_cable_connector_framed"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_cable_framed"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_configurator"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_connector"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_interface"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:inventory_proxy"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:item_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:level_emitter"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:open_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:paint_kit"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:painted_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:polymorphic_item_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:storage_terminal"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:tag_item_filter"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "toms_storage:wireless_terminal"
+		}
+	]
+}

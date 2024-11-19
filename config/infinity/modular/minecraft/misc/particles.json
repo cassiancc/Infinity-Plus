@@ -2,10 +2,6 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "minecraft:ambient_entity_effect"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:angry_villager"
 		},
 		{
@@ -110,6 +106,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:dust_pillar"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:dust_plume"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:effect"
 		},
 		{
@@ -210,6 +214,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:gust"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:gust_emitter_large"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:gust_emitter_small"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:happy_villager"
 		},
 		{
@@ -218,11 +234,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:infested"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:instant_effect"
 		},
 		{
 			"weight": 1.0,
 			"key": "minecraft:item"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:item_cobweb"
 		},
 		{
 			"weight": 1.0,
@@ -266,11 +290,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:ominous_spawning"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:poof"
 		},
 		{
 			"weight": 1.0,
 			"key": "minecraft:portal"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:raid_omen"
 		},
 		{
 			"weight": 1.0,
@@ -303,6 +335,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:small_flame"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:small_gust"
 		},
 		{
 			"weight": 1.0,
@@ -354,7 +390,23 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:trial_omen"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:trial_spawner_detection"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:trial_spawner_detection_ominous"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:underwater"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:vault_connection"
 		},
 		{
 			"weight": 1.0,
@@ -375,6 +427,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:white_ash"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:white_smoke"
 		},
 		{
 			"weight": 1.0,

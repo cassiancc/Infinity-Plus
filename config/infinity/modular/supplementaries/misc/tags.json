@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#supplementaries:beams"
+		},
+		{
+			"weight": 1.0,
+			"key": "#supplementaries:palisades"
+		},
+		{
+			"weight": 1.0,
+			"key": "#supplementaries:posts"
+		},
+		{
+			"weight": 1.0,
+			"key": "#supplementaries:walls"
+		}
+	]
+}

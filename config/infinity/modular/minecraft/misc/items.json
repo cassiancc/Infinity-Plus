@@ -134,6 +134,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:armadillo_scute"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:armadillo_spawn_egg"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:armor_stand"
 		},
 		{
@@ -518,6 +526,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:bogged_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:bolt_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:bone"
 		},
 		{
@@ -559,6 +575,14 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:breeze_rod"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:breeze_spawn_egg"
 		},
 		{
 			"weight": 1.0,
@@ -858,6 +882,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:chiseled_deepslate"
 		},
 		{
@@ -883,6 +911,14 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:chiseled_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:chiseled_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:chiseled_tuff_bricks"
 		},
 		{
 			"weight": 1.0,
@@ -1042,11 +1078,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:copper_grate"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:copper_ingot"
 		},
 		{
 			"weight": 1.0,
 			"key": "minecraft:copper_ore"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -1075,6 +1127,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:cracked_stone_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:crafter"
 		},
 		{
 			"weight": 1.0,
@@ -1722,7 +1778,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:exposed_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:exposed_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:exposed_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:exposed_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:exposed_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -1799,6 +1875,18 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:flint_and_steel"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:flow_armor_trim_smithing_template"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:flow_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:flow_pottery_sherd"
 		},
 		{
 			"weight": 1.0,
@@ -1990,10 +2078,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:grass"
-		},
-		{
-			"weight": 1.0,
 			"key": "minecraft:grass_block"
 		},
 		{
@@ -2118,6 +2202,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:guster_banner_pattern"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:guster_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:hanging_roots"
 		},
 		{
@@ -2135,6 +2227,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:heartbreak_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:heavy_core"
 		},
 		{
 			"weight": 1.0,
@@ -2662,6 +2758,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:mace"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:magenta_banner"
 		},
 		{
@@ -2942,6 +3042,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:music_disc_creator"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:music_disc_creator_music_box"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:music_disc_far"
 		},
 		{
@@ -2959,6 +3067,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:music_disc_pigstep"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:music_disc_precipice"
 		},
 		{
 			"weight": 1.0,
@@ -3190,6 +3302,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:ominous_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:ominous_trial_key"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:orange_banner"
 		},
 		{
@@ -3250,7 +3370,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:oxidized_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:oxidized_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:oxidized_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:oxidized_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:oxidized_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -3523,6 +3663,22 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:polished_granite_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:polished_tuff"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:polished_tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:polished_tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:polished_tuff_wall"
 		},
 		{
 			"weight": 1.0,
@@ -3962,6 +4118,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:scrape_pottery_sherd"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:sculk"
 		},
 		{
@@ -3979,10 +4139,6 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:sculk_vein"
-		},
-		{
-			"weight": 1.0,
-			"key": "minecraft:scute"
 		},
 		{
 			"weight": 1.0,
@@ -4023,6 +4179,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:shield"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:short_grass"
 		},
 		{
 			"weight": 1.0,
@@ -4570,6 +4730,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:trial_key"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:trial_spawner"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:trident"
 		},
 		{
@@ -4606,6 +4774,34 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:tuff_wall"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:turtle_egg"
 		},
 		{
@@ -4614,11 +4810,19 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:turtle_scute"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:turtle_spawn_egg"
 		},
 		{
 			"weight": 1.0,
 			"key": "minecraft:twisting_vines"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:vault"
 		},
 		{
 			"weight": 1.0,
@@ -4734,7 +4938,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:waxed_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:waxed_copper_block"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -4750,7 +4974,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:waxed_exposed_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_exposed_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -4766,7 +5010,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:waxed_oxidized_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_oxidized_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -4782,7 +5046,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:waxed_weathered_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:waxed_weathered_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -4802,7 +5086,27 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:weathered_chiseled_copper"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:weathered_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weathered_copper_bulb"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weathered_copper_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weathered_copper_grate"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:weathered_copper_trapdoor"
 		},
 		{
 			"weight": 1.0,
@@ -4894,6 +5198,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "minecraft:wind_charge"
+		},
+		{
+			"weight": 1.0,
 			"key": "minecraft:witch_spawn_egg"
 		},
 		{
@@ -4911,6 +5219,10 @@
 		{
 			"weight": 1.0,
 			"key": "minecraft:wither_spawn_egg"
+		},
+		{
+			"weight": 1.0,
+			"key": "minecraft:wolf_armor"
 		},
 		{
 			"weight": 1.0,

@@ -36,7 +36,27 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "infinity:ant",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
 				"Name": "infinity:book_box",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:cursor",
 				"full": true
 			}
 		},
@@ -47,6 +67,26 @@
 				"laggy": true,
 				"float": true,
 				"Name": "infinity:neither_portal",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:netherite_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:netherite_stairs",
 				"full": false
 			}
 		},

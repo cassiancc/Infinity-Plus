@@ -354,10 +354,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stoneworks:chiseled_tuff"
-		},
-		{
-			"weight": 1.0,
 			"key": "stoneworks:cobbled_andesite"
 		},
 		{
@@ -1762,22 +1758,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "stoneworks:polished_tuff"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:polished_tuff_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:polished_tuff_stairs"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:polished_tuff_wall"
-		},
-		{
-			"weight": 1.0,
 			"key": "stoneworks:prismarine_brick_slab"
 		},
 		{
@@ -2239,22 +2219,6 @@
 		{
 			"weight": 1.0,
 			"key": "stoneworks:stone_tiles"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:tuff_brick_slab"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:tuff_brick_stairs"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:tuff_brick_wall"
-		},
-		{
-			"weight": 1.0,
-			"key": "stoneworks:tuff_bricks"
 		},
 		{
 			"weight": 1.0,

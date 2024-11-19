@@ -1,0 +1,36 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "pyrite:blue_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:buttercup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:orange_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:paeonia"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_daisy"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:pink_rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:rose"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:white_rose"
+		}
+	]
+}

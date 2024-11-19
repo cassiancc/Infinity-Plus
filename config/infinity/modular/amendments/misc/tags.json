@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#amendments:cauldron_heat_source"
+		},
+		{
+			"weight": 1.0,
+			"key": "#amendments:ceiling_banners"
+		},
+		{
+			"weight": 1.0,
+			"key": "#amendments:skull_candles"
+		},
+		{
+			"weight": 1.0,
+			"key": "#amendments:stairs_carpets"
+		}
+	]
+}

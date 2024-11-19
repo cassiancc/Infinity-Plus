@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#comforts:hammocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#comforts:sleeping_bags"
+		}
+	]
+}

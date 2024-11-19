@@ -269,6 +269,112 @@
 			"weight": 1.0,
 			"key": [
 				{
+					"Name": "pyrite:white_concrete_slab"
+				},
+				{
+					"Name": "pyrite:light_gray_concrete_slab"
+				},
+				{
+					"Name": "pyrite:gray_concrete_slab"
+				},
+				{
+					"Name": "pyrite:black_concrete_slab"
+				},
+				{
+					"Name": "pyrite:brown_concrete_slab"
+				},
+				{
+					"Name": "pyrite:red_concrete_slab"
+				},
+				{
+					"Name": "pyrite:orange_concrete_slab"
+				},
+				{
+					"Name": "pyrite:yellow_concrete_slab"
+				},
+				{
+					"Name": "pyrite:lime_concrete_slab"
+				},
+				{
+					"Name": "pyrite:green_concrete_slab"
+				},
+				{
+					"Name": "pyrite:light_blue_concrete_slab"
+				},
+				{
+					"Name": "pyrite:blue_concrete_slab"
+				},
+				{
+					"Name": "pyrite:cyan_concrete_slab"
+				},
+				{
+					"Name": "pyrite:purple_concrete_slab"
+				},
+				{
+					"Name": "pyrite:magenta_concrete_slab"
+				},
+				{
+					"Name": "pyrite:pink_concrete_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "pyrite:white_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:light_gray_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:gray_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:black_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:brown_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:red_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:orange_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:yellow_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:lime_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:green_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:light_blue_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:blue_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:cyan_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:purple_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:magenta_concrete_stairs"
+				},
+				{
+					"Name": "pyrite:pink_concrete_stairs"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
 					"Name": "pyrite:white_framed_glass"
 				},
 				{

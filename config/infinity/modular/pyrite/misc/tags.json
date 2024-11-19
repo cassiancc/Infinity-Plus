@@ -1,0 +1,156 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#pyrite:amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:brick_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:brick_walls"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:concrete_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:concrete_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:crafting_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:cut_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:diamond"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:dyed_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:emerald"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:exposed_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:fences"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:gold"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:iron"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:ladders"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:lamps"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:lapis"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:metal_bars"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:metal_buttons"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:metal_trapdoors"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:mushroom_stem"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:netherite"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:obsidian"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:oxidized_copper"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:quartz"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:redstone"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:smooth_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:stained_framed_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:terracotta_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:turf_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:turf_slabs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:turf_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:wall_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "#pyrite:weathered_copper"
+		}
+	]
+}

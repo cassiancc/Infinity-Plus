@@ -4,6 +4,377 @@
 			"weight": 1.0,
 			"key": [
 				{
+					"Name": "adorn:white_bench"
+				},
+				{
+					"Name": "adorn:light_gray_bench"
+				},
+				{
+					"Name": "adorn:gray_bench"
+				},
+				{
+					"Name": "adorn:black_bench"
+				},
+				{
+					"Name": "adorn:brown_bench"
+				},
+				{
+					"Name": "adorn:red_bench"
+				},
+				{
+					"Name": "adorn:orange_bench"
+				},
+				{
+					"Name": "adorn:yellow_bench"
+				},
+				{
+					"Name": "adorn:lime_bench"
+				},
+				{
+					"Name": "adorn:green_bench"
+				},
+				{
+					"Name": "adorn:light_blue_bench"
+				},
+				{
+					"Name": "adorn:blue_bench"
+				},
+				{
+					"Name": "adorn:cyan_bench"
+				},
+				{
+					"Name": "adorn:purple_bench"
+				},
+				{
+					"Name": "adorn:magenta_bench"
+				},
+				{
+					"Name": "adorn:pink_bench"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_chair"
+				},
+				{
+					"Name": "adorn:light_gray_chair"
+				},
+				{
+					"Name": "adorn:gray_chair"
+				},
+				{
+					"Name": "adorn:black_chair"
+				},
+				{
+					"Name": "adorn:brown_chair"
+				},
+				{
+					"Name": "adorn:red_chair"
+				},
+				{
+					"Name": "adorn:orange_chair"
+				},
+				{
+					"Name": "adorn:yellow_chair"
+				},
+				{
+					"Name": "adorn:lime_chair"
+				},
+				{
+					"Name": "adorn:green_chair"
+				},
+				{
+					"Name": "adorn:light_blue_chair"
+				},
+				{
+					"Name": "adorn:blue_chair"
+				},
+				{
+					"Name": "adorn:cyan_chair"
+				},
+				{
+					"Name": "adorn:purple_chair"
+				},
+				{
+					"Name": "adorn:magenta_chair"
+				},
+				{
+					"Name": "adorn:pink_chair"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_coffee_table"
+				},
+				{
+					"Name": "adorn:light_gray_coffee_table"
+				},
+				{
+					"Name": "adorn:gray_coffee_table"
+				},
+				{
+					"Name": "adorn:black_coffee_table"
+				},
+				{
+					"Name": "adorn:brown_coffee_table"
+				},
+				{
+					"Name": "adorn:red_coffee_table"
+				},
+				{
+					"Name": "adorn:orange_coffee_table"
+				},
+				{
+					"Name": "adorn:yellow_coffee_table"
+				},
+				{
+					"Name": "adorn:lime_coffee_table"
+				},
+				{
+					"Name": "adorn:green_coffee_table"
+				},
+				{
+					"Name": "adorn:light_blue_coffee_table"
+				},
+				{
+					"Name": "adorn:blue_coffee_table"
+				},
+				{
+					"Name": "adorn:cyan_coffee_table"
+				},
+				{
+					"Name": "adorn:purple_coffee_table"
+				},
+				{
+					"Name": "adorn:magenta_coffee_table"
+				},
+				{
+					"Name": "adorn:pink_coffee_table"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_kitchen_counter"
+				},
+				{
+					"Name": "adorn:light_gray_kitchen_counter"
+				},
+				{
+					"Name": "adorn:gray_kitchen_counter"
+				},
+				{
+					"Name": "adorn:black_kitchen_counter"
+				},
+				{
+					"Name": "adorn:brown_kitchen_counter"
+				},
+				{
+					"Name": "adorn:red_kitchen_counter"
+				},
+				{
+					"Name": "adorn:orange_kitchen_counter"
+				},
+				{
+					"Name": "adorn:yellow_kitchen_counter"
+				},
+				{
+					"Name": "adorn:lime_kitchen_counter"
+				},
+				{
+					"Name": "adorn:green_kitchen_counter"
+				},
+				{
+					"Name": "adorn:light_blue_kitchen_counter"
+				},
+				{
+					"Name": "adorn:blue_kitchen_counter"
+				},
+				{
+					"Name": "adorn:cyan_kitchen_counter"
+				},
+				{
+					"Name": "adorn:purple_kitchen_counter"
+				},
+				{
+					"Name": "adorn:magenta_kitchen_counter"
+				},
+				{
+					"Name": "adorn:pink_kitchen_counter"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_planks"
+				},
+				{
+					"Name": "adorn:light_gray_planks"
+				},
+				{
+					"Name": "adorn:gray_planks"
+				},
+				{
+					"Name": "adorn:black_planks"
+				},
+				{
+					"Name": "adorn:brown_planks"
+				},
+				{
+					"Name": "adorn:red_planks"
+				},
+				{
+					"Name": "adorn:orange_planks"
+				},
+				{
+					"Name": "adorn:yellow_planks"
+				},
+				{
+					"Name": "adorn:lime_planks"
+				},
+				{
+					"Name": "adorn:green_planks"
+				},
+				{
+					"Name": "adorn:light_blue_planks"
+				},
+				{
+					"Name": "adorn:blue_planks"
+				},
+				{
+					"Name": "adorn:cyan_planks"
+				},
+				{
+					"Name": "adorn:purple_planks"
+				},
+				{
+					"Name": "adorn:magenta_planks"
+				},
+				{
+					"Name": "adorn:pink_planks"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_platform"
+				},
+				{
+					"Name": "adorn:light_gray_platform"
+				},
+				{
+					"Name": "adorn:gray_platform"
+				},
+				{
+					"Name": "adorn:black_platform"
+				},
+				{
+					"Name": "adorn:brown_platform"
+				},
+				{
+					"Name": "adorn:red_platform"
+				},
+				{
+					"Name": "adorn:orange_platform"
+				},
+				{
+					"Name": "adorn:yellow_platform"
+				},
+				{
+					"Name": "adorn:lime_platform"
+				},
+				{
+					"Name": "adorn:green_platform"
+				},
+				{
+					"Name": "adorn:light_blue_platform"
+				},
+				{
+					"Name": "adorn:blue_platform"
+				},
+				{
+					"Name": "adorn:cyan_platform"
+				},
+				{
+					"Name": "adorn:purple_platform"
+				},
+				{
+					"Name": "adorn:magenta_platform"
+				},
+				{
+					"Name": "adorn:pink_platform"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_post"
+				},
+				{
+					"Name": "adorn:light_gray_post"
+				},
+				{
+					"Name": "adorn:gray_post"
+				},
+				{
+					"Name": "adorn:black_post"
+				},
+				{
+					"Name": "adorn:brown_post"
+				},
+				{
+					"Name": "adorn:red_post"
+				},
+				{
+					"Name": "adorn:orange_post"
+				},
+				{
+					"Name": "adorn:yellow_post"
+				},
+				{
+					"Name": "adorn:lime_post"
+				},
+				{
+					"Name": "adorn:green_post"
+				},
+				{
+					"Name": "adorn:light_blue_post"
+				},
+				{
+					"Name": "adorn:blue_post"
+				},
+				{
+					"Name": "adorn:cyan_post"
+				},
+				{
+					"Name": "adorn:purple_post"
+				},
+				{
+					"Name": "adorn:magenta_post"
+				},
+				{
+					"Name": "adorn:pink_post"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
 					"Name": "adorn:white_sofa"
 				},
 				{
@@ -57,6 +428,112 @@
 			"weight": 1.0,
 			"key": [
 				{
+					"Name": "adorn:white_step"
+				},
+				{
+					"Name": "adorn:light_gray_step"
+				},
+				{
+					"Name": "adorn:gray_step"
+				},
+				{
+					"Name": "adorn:black_step"
+				},
+				{
+					"Name": "adorn:brown_step"
+				},
+				{
+					"Name": "adorn:red_step"
+				},
+				{
+					"Name": "adorn:orange_step"
+				},
+				{
+					"Name": "adorn:yellow_step"
+				},
+				{
+					"Name": "adorn:lime_step"
+				},
+				{
+					"Name": "adorn:green_step"
+				},
+				{
+					"Name": "adorn:light_blue_step"
+				},
+				{
+					"Name": "adorn:blue_step"
+				},
+				{
+					"Name": "adorn:cyan_step"
+				},
+				{
+					"Name": "adorn:purple_step"
+				},
+				{
+					"Name": "adorn:magenta_step"
+				},
+				{
+					"Name": "adorn:pink_step"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_table"
+				},
+				{
+					"Name": "adorn:light_gray_table"
+				},
+				{
+					"Name": "adorn:gray_table"
+				},
+				{
+					"Name": "adorn:black_table"
+				},
+				{
+					"Name": "adorn:brown_table"
+				},
+				{
+					"Name": "adorn:red_table"
+				},
+				{
+					"Name": "adorn:orange_table"
+				},
+				{
+					"Name": "adorn:yellow_table"
+				},
+				{
+					"Name": "adorn:lime_table"
+				},
+				{
+					"Name": "adorn:green_table"
+				},
+				{
+					"Name": "adorn:light_blue_table"
+				},
+				{
+					"Name": "adorn:blue_table"
+				},
+				{
+					"Name": "adorn:cyan_table"
+				},
+				{
+					"Name": "adorn:purple_table"
+				},
+				{
+					"Name": "adorn:magenta_table"
+				},
+				{
+					"Name": "adorn:pink_table"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
 					"Name": "adorn:white_table_lamp"
 				},
 				{
@@ -103,6 +580,218 @@
 				},
 				{
 					"Name": "adorn:pink_table_lamp"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_wood_fence"
+				},
+				{
+					"Name": "adorn:light_gray_wood_fence"
+				},
+				{
+					"Name": "adorn:gray_wood_fence"
+				},
+				{
+					"Name": "adorn:black_wood_fence"
+				},
+				{
+					"Name": "adorn:brown_wood_fence"
+				},
+				{
+					"Name": "adorn:red_wood_fence"
+				},
+				{
+					"Name": "adorn:orange_wood_fence"
+				},
+				{
+					"Name": "adorn:yellow_wood_fence"
+				},
+				{
+					"Name": "adorn:lime_wood_fence"
+				},
+				{
+					"Name": "adorn:green_wood_fence"
+				},
+				{
+					"Name": "adorn:light_blue_wood_fence"
+				},
+				{
+					"Name": "adorn:blue_wood_fence"
+				},
+				{
+					"Name": "adorn:cyan_wood_fence"
+				},
+				{
+					"Name": "adorn:purple_wood_fence"
+				},
+				{
+					"Name": "adorn:magenta_wood_fence"
+				},
+				{
+					"Name": "adorn:pink_wood_fence"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:light_gray_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:gray_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:black_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:brown_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:red_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:orange_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:yellow_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:lime_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:green_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:light_blue_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:blue_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:cyan_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:purple_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:magenta_wood_fence_gate"
+				},
+				{
+					"Name": "adorn:pink_wood_fence_gate"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_wood_slab"
+				},
+				{
+					"Name": "adorn:light_gray_wood_slab"
+				},
+				{
+					"Name": "adorn:gray_wood_slab"
+				},
+				{
+					"Name": "adorn:black_wood_slab"
+				},
+				{
+					"Name": "adorn:brown_wood_slab"
+				},
+				{
+					"Name": "adorn:red_wood_slab"
+				},
+				{
+					"Name": "adorn:orange_wood_slab"
+				},
+				{
+					"Name": "adorn:yellow_wood_slab"
+				},
+				{
+					"Name": "adorn:lime_wood_slab"
+				},
+				{
+					"Name": "adorn:green_wood_slab"
+				},
+				{
+					"Name": "adorn:light_blue_wood_slab"
+				},
+				{
+					"Name": "adorn:blue_wood_slab"
+				},
+				{
+					"Name": "adorn:cyan_wood_slab"
+				},
+				{
+					"Name": "adorn:purple_wood_slab"
+				},
+				{
+					"Name": "adorn:magenta_wood_slab"
+				},
+				{
+					"Name": "adorn:pink_wood_slab"
+				}
+			]
+		},
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "adorn:white_wood_stairs"
+				},
+				{
+					"Name": "adorn:light_gray_wood_stairs"
+				},
+				{
+					"Name": "adorn:gray_wood_stairs"
+				},
+				{
+					"Name": "adorn:black_wood_stairs"
+				},
+				{
+					"Name": "adorn:brown_wood_stairs"
+				},
+				{
+					"Name": "adorn:red_wood_stairs"
+				},
+				{
+					"Name": "adorn:orange_wood_stairs"
+				},
+				{
+					"Name": "adorn:yellow_wood_stairs"
+				},
+				{
+					"Name": "adorn:lime_wood_stairs"
+				},
+				{
+					"Name": "adorn:green_wood_stairs"
+				},
+				{
+					"Name": "adorn:light_blue_wood_stairs"
+				},
+				{
+					"Name": "adorn:blue_wood_stairs"
+				},
+				{
+					"Name": "adorn:cyan_wood_stairs"
+				},
+				{
+					"Name": "adorn:purple_wood_stairs"
+				},
+				{
+					"Name": "adorn:magenta_wood_stairs"
+				},
+				{
+					"Name": "adorn:pink_wood_stairs"
 				}
 			]
 		}

@@ -1,7 +1,7 @@
 {
 	"elements": [
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -51,7 +51,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -81,7 +81,7 @@
 			}
 		},
 		{
-			"weight": 0.1,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,

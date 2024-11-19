@@ -182,7 +182,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:black_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:black_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -190,7 +234,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:black_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:black_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:black_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -206,7 +282,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:blue_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:blue_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -214,7 +334,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:blue_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:blue_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:blue_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -238,7 +390,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:brown_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:brown_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -246,7 +442,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:brown_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:brown_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:brown_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -342,6 +570,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:copper_nugget"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:copper_pipe"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:crate"
 		},
 		{
@@ -418,7 +654,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:cyan_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:cyan_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -426,7 +706,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:cyan_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:cyan_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:cyan_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -554,6 +866,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:exposed_copper_pipe"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:glow_berry_tea"
 		},
 		{
@@ -570,7 +886,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:gray_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:gray_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -578,7 +938,43 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:gray_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:gray_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:gray_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_bench"
 		},
 		{
 			"weight": 1.0,
@@ -586,11 +982,83 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:green_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_shelf"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:green_sofa"
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:green_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:green_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:green_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -658,7 +1126,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:light_blue_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:light_blue_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -666,7 +1178,43 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:light_blue_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:light_blue_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_blue_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_bench"
 		},
 		{
 			"weight": 1.0,
@@ -674,7 +1222,55 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:light_gray_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_shelf"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:light_gray_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_table"
 		},
 		{
 			"weight": 1.0,
@@ -682,7 +1278,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:light_gray_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:light_gray_wood_stairs"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:lil_tater_crate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_bench"
 		},
 		{
 			"weight": 1.0,
@@ -690,7 +1314,55 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:lime_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_shelf"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:lime_sofa"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_table"
 		},
 		{
 			"weight": 1.0,
@@ -698,7 +1370,75 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:lime_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:lime_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:magenta_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -706,7 +1446,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:magenta_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:magenta_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:magenta_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -870,7 +1642,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:orange_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:orange_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -878,7 +1694,43 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:orange_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:orange_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:orange_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:oxidized_copper_pipe"
 		},
 		{
 			"weight": 1.0,
@@ -886,7 +1738,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:pink_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:pink_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -894,7 +1790,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:pink_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:pink_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:pink_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -970,6 +1898,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:polished_tuff_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_tuff_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:polished_tuff_step"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:potato_crate"
 		},
 		{
@@ -1006,7 +1946,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:purple_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:purple_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -1014,7 +1998,39 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:purple_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:purple_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:purple_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -1042,7 +2058,35 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:red_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:red_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_kitchen_sink"
 		},
 		{
 			"weight": 1.0,
@@ -1062,6 +2106,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:red_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_post"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:red_sandstone_platform"
 		},
 		{
@@ -1074,11 +2130,47 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:red_shelf"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:red_sofa"
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:red_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:red_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:red_wood_stairs"
 		},
 		{
 			"weight": 1.0,
@@ -1242,6 +2334,30 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:tuff_brick_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:tuff_brick_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:tuff_brick_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:tuff_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:tuff_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:tuff_step"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:warped_bench"
 		},
 		{
@@ -1290,6 +2406,30 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:watering_can"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:waxed_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:waxed_exposed_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:waxed_oxidized_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:waxed_weathered_copper_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:weathered_copper_pipe"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:wheat_crate"
 		},
 		{
@@ -1298,7 +2438,51 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:white_bench"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:white_candlelit_lantern"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_shelf"
 		},
 		{
 			"weight": 1.0,
@@ -1306,7 +2490,43 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:white_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:white_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:white_wood_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_bench"
 		},
 		{
 			"weight": 1.0,
@@ -1314,11 +2534,83 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:yellow_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_coffee_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_kitchen_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_kitchen_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_kitchen_sink"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_platform"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_post"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_shelf"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:yellow_sofa"
 		},
 		{
 			"weight": 1.0,
+			"key": "adorn:yellow_step"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_table"
+		},
+		{
+			"weight": 1.0,
 			"key": "adorn:yellow_table_lamp"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "adorn:yellow_wood_stairs"
 		}
 	]
 }

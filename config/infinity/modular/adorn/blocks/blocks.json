@@ -1,7 +1,7 @@
 {
 	"elements": [
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -11,7 +11,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -21,7 +21,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -31,7 +31,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -51,7 +51,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -61,7 +61,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -71,7 +71,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -81,7 +81,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -91,7 +91,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -101,7 +101,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -111,7 +111,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -121,7 +121,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -131,7 +131,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -141,7 +141,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -151,7 +151,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -161,7 +161,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -171,7 +171,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -181,7 +181,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -191,7 +191,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -201,7 +201,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -211,7 +211,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -221,7 +221,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -231,7 +231,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -241,7 +241,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -251,7 +251,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -261,7 +261,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -271,7 +271,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -281,7 +281,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -291,7 +291,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -301,7 +301,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -311,7 +311,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -321,7 +321,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -331,7 +331,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -341,7 +341,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -351,7 +351,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -361,7 +361,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -371,7 +371,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -381,7 +381,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -391,7 +391,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -401,7 +401,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -411,7 +411,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -421,7 +421,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -431,7 +431,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -441,7 +441,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -451,17 +451,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:black_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:black_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:black_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:black_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:black_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:black_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -471,7 +581,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -481,7 +611,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:black_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:black_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:black_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -491,7 +684,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -501,7 +694,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -511,17 +704,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:blue_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:blue_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:blue_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:blue_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:blue_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:blue_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -531,7 +834,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -541,7 +864,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:blue_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:blue_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:blue_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -551,7 +937,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -561,7 +947,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -571,7 +957,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -581,7 +967,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -591,17 +977,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:brown_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:brown_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:brown_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:brown_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:brown_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:brown_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -611,7 +1107,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -621,17 +1137,80 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:brown_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:brown_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:brown_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:brown_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -641,7 +1220,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -651,7 +1230,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -661,7 +1240,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -671,7 +1250,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -681,7 +1260,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -691,7 +1270,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -701,7 +1280,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -711,7 +1290,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -721,7 +1300,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -731,7 +1310,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -741,7 +1320,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -751,7 +1330,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -761,7 +1340,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -771,7 +1350,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -781,7 +1360,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -791,7 +1370,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -801,7 +1380,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -811,7 +1390,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -821,7 +1400,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -831,7 +1410,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -841,7 +1420,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -851,7 +1430,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -861,7 +1440,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -871,7 +1450,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -881,7 +1460,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -891,7 +1470,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -901,7 +1480,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -911,7 +1490,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -921,7 +1500,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -931,7 +1510,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -941,7 +1520,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -951,7 +1530,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -961,7 +1540,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -971,7 +1550,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -981,7 +1560,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -991,7 +1570,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1001,7 +1580,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1011,7 +1590,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1021,7 +1600,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1031,7 +1610,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1041,17 +1620,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:cyan_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:cyan_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:cyan_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:cyan_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:cyan_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:cyan_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1061,7 +1750,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1071,7 +1780,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:cyan_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:cyan_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:cyan_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1081,7 +1853,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1091,7 +1863,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1101,7 +1873,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1111,7 +1883,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1121,7 +1893,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1131,7 +1903,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1141,7 +1913,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1151,7 +1923,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1161,7 +1933,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -1171,7 +1943,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1181,7 +1953,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1191,7 +1963,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1201,7 +1973,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1211,7 +1983,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1221,7 +1993,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1231,7 +2003,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1241,7 +2013,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1251,7 +2023,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1261,7 +2033,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1271,7 +2043,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1281,7 +2053,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1291,7 +2063,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1301,7 +2073,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1311,7 +2083,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1321,7 +2093,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1331,7 +2103,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1341,7 +2113,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1351,7 +2123,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1361,7 +2133,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1371,7 +2143,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1381,7 +2153,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1391,7 +2163,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1401,7 +2173,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1411,17 +2183,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:gray_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:gray_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:gray_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:gray_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:gray_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:gray_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1431,7 +2313,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1441,17 +2343,190 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:gray_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:gray_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:gray_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:gray_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:green_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:green_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:green_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:green_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:green_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1461,7 +2536,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1471,7 +2566,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:green_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:green_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:green_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1481,7 +2639,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -1491,7 +2649,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1501,7 +2659,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1511,7 +2669,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1521,7 +2679,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1531,7 +2689,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1541,7 +2699,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1551,7 +2709,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1561,7 +2719,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1571,7 +2729,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1581,7 +2739,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -1591,7 +2749,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1601,7 +2759,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1611,17 +2769,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:light_blue_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:light_blue_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_blue_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_blue_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_blue_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:light_blue_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1631,7 +2899,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1641,17 +2929,190 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:light_blue_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:light_blue_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:light_blue_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_blue_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:light_gray_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_gray_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_gray_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:light_gray_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:light_gray_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1661,7 +3122,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1671,7 +3152,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:light_gray_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:light_gray_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:light_gray_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1681,17 +3225,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:lime_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:lime_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:lime_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:lime_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:lime_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:lime_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1701,7 +3355,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1711,17 +3385,190 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:lime_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:lime_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:lime_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:lime_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:magenta_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:magenta_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:magenta_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:magenta_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:magenta_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1731,7 +3578,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1741,7 +3608,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:magenta_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:magenta_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:magenta_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1751,7 +3681,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1761,7 +3691,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1771,7 +3701,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1781,7 +3711,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1791,7 +3721,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1801,7 +3731,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1811,7 +3741,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -1821,7 +3751,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1831,7 +3761,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1841,7 +3771,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -1851,7 +3781,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1861,7 +3791,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1871,7 +3801,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1881,7 +3811,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1891,7 +3821,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1901,7 +3831,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1911,7 +3841,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1921,7 +3851,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1931,7 +3861,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1941,7 +3871,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1951,7 +3881,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1961,7 +3891,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1971,7 +3901,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1981,7 +3911,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -1991,7 +3921,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2001,7 +3931,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2011,7 +3941,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2021,7 +3951,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2031,7 +3961,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2041,7 +3971,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2051,7 +3981,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2061,7 +3991,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2071,7 +4001,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2081,7 +4011,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2091,7 +4021,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -2101,7 +4031,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2111,7 +4041,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2121,17 +4051,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:orange_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:orange_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:orange_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:orange_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:orange_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:orange_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2141,7 +4181,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2151,27 +4211,190 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
-				"float": true,
-				"Name": "adorn:picket_fence",
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:orange_wood_button",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:orange_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:orange_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:orange_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:pink_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:pink_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:pink_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:pink_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:pink_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2181,7 +4404,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2191,7 +4434,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:pink_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:pink_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:pink_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2201,7 +4507,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2211,7 +4517,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2221,7 +4527,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2231,7 +4537,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2241,7 +4547,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2251,7 +4557,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2261,7 +4567,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2271,7 +4577,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2281,7 +4587,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2291,7 +4597,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2301,7 +4607,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2311,7 +4617,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2321,7 +4627,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2331,7 +4637,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2341,7 +4647,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2351,7 +4657,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2361,7 +4667,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2371,7 +4677,37 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:polished_tuff_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:polished_tuff_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:polished_tuff_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2381,7 +4717,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2391,7 +4727,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2401,7 +4737,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2411,7 +4747,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2421,7 +4757,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2431,7 +4767,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2441,7 +4777,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2451,7 +4787,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2461,17 +4797,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:purple_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:purple_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:purple_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:purple_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:purple_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:purple_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2481,7 +4927,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2491,7 +4957,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:purple_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:purple_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:purple_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2501,7 +5030,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2511,7 +5040,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2521,7 +5050,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2531,7 +5060,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2541,7 +5070,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2551,17 +5080,87 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:red_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:red_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:red_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:red_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:red_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2571,7 +5170,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2581,7 +5180,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2591,7 +5190,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2601,7 +5200,37 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2611,7 +5240,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2621,7 +5250,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2631,7 +5260,17 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:red_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2641,7 +5280,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2651,7 +5310,70 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:red_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:red_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:red_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2661,7 +5383,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2671,7 +5393,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2681,7 +5403,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2691,7 +5413,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2701,7 +5423,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2711,7 +5433,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2721,7 +5443,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2731,7 +5453,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2741,7 +5463,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2751,7 +5473,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2761,7 +5483,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2771,7 +5493,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2781,7 +5503,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2791,7 +5513,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2801,7 +5523,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2811,7 +5533,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2821,7 +5543,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2831,7 +5553,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2841,7 +5563,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -2851,7 +5573,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2861,7 +5583,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2871,7 +5593,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -2881,7 +5603,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2891,7 +5613,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2901,7 +5623,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2911,7 +5633,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2921,7 +5643,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2931,7 +5653,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2941,7 +5663,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": false,
@@ -2951,7 +5673,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2961,7 +5683,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2971,7 +5693,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -2981,17 +5703,17 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
-				"float": true,
+				"float": false,
 				"Name": "adorn:stone_torch",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3001,7 +5723,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3011,7 +5733,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -3021,7 +5743,67 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_brick_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_brick_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_brick_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:tuff_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": false,
@@ -3031,7 +5813,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3041,7 +5823,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3051,7 +5833,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3061,7 +5843,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -3071,7 +5853,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3081,7 +5863,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -3091,7 +5873,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": true,
@@ -3101,7 +5883,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3111,7 +5893,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3121,7 +5903,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": false,
 				"laggy": true,
@@ -3131,7 +5913,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3141,7 +5923,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3151,7 +5933,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3161,7 +5943,7 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3171,17 +5953,127 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:white_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:white_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:white_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:white_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:white_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:white_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3191,7 +6083,27 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3201,17 +6113,190 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:white_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Name": "adorn:white_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:white_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:white_wood_stairs",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_bench",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
 				"Name": "adorn:yellow_candlelit_lantern",
 				"full": false
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_chair",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_coffee_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:yellow_drawer",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_kitchen_counter",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:yellow_kitchen_cupboard",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "adorn:yellow_kitchen_sink",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_planks",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_platform",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_post",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": false,
+				"laggy": true,
+				"float": false,
+				"Name": "adorn:yellow_shelf",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
@@ -3221,12 +6306,95 @@
 			}
 		},
 		{
-			"weight": 0.3,
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_step",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_table",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
 			"key": {
 				"top": true,
 				"laggy": false,
 				"float": true,
 				"Name": "adorn:yellow_table_lamp",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Properties": {
+					"face": "floor"
+				},
+				"Name": "adorn:yellow_wood_button",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_wood_fence",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_wood_fence_gate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "adorn:yellow_wood_pressure_plate",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_wood_slab",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "adorn:yellow_wood_stairs",
 				"full": false
 			}
 		}
