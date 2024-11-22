@@ -634,7 +634,7 @@ hash = "f0aad9a23e950ac507e787bca72cee2917f159a37b20545eccfd37314ea0464b"
 
 [[files]]
 file = "config/infinity/modular/adorn/blocks/blocks.json"
-hash = "3b6d43e8b2a5e9b9932cf15c2779f7a64386b56d03304690172488e1898baa6c"
+hash = "fe3aaddfab6298b8d93fe737ecbbc5d5feecd5fbbdae118427ce877854191ab0"
 
 [[files]]
 file = "config/infinity/modular/adorn/extra/color_presets.json"
@@ -654,7 +654,7 @@ hash = "797dabcfe1d4415b36b63aac128a29cb49caa32542ba126e75b44805c61867bb"
 
 [[files]]
 file = "config/infinity/modular/amendments/blocks/blocks.json"
-hash = "1980b2ffad83d01749f134e2d92daf5c7494a4d09299f4aba3b1de8d068444e2"
+hash = "427d39842ce9b2bb36f0ad6c03d0ccc5f40a0ff09ce7bc6a234d66e91bfb27e0"
 
 [[files]]
 file = "config/infinity/modular/amendments/misc/items.json"
@@ -705,6 +705,10 @@ file = "config/infinity/modular/infinity/blocks/fluids.json"
 hash = "c4cf89a165103562e4b2d7852da37fa5e29565a1949e770b109979caa971f0ca"
 
 [[files]]
+file = "config/infinity/modular/infinity/extra/effects.json"
+hash = "ee409b5d082a3aecd4d630946beb7e204c9ee47c48a59c1a4221b97570a1afb1"
+
+[[files]]
 file = "config/infinity/modular/infinity/extra/mobs.json"
 hash = "52e8b4956de7d6db24aa1fb53b942183c01ba625c8abf201ee3bef6608bd41f0"
 
@@ -718,7 +722,7 @@ hash = "b9c884383cc9080ed363c7cd2c35287c648dda205427e26bf8dcbcbda5c28636"
 
 [[files]]
 file = "config/infinity/modular/invocation.lock"
-hash = "5d23e9a175581167764d9065ef1345d872db2d68a0f9cf352703fc4e6cb777bf"
+hash = "d090c4de5d4b417bb65e83cc5d4a0a7ca2ad4d2a010b0f317b3ffb0890fb695a"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/airs.json"
@@ -726,7 +730,7 @@ hash = "60bab53bd225a3e64247e4f94316579dbee41183ed542a4584c567ef0894f959"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/blocks.json"
-hash = "60b636dcb6a56d58fb05f4682c1f8af3b49e46af2bf69deae85f5c0e0a82364c"
+hash = "4b04a381c18b0bcc14399595da796d6968214413beb6d97533e2df24675989f1"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/flowers.json"
@@ -862,7 +866,7 @@ hash = "706b2c2ff22b1a1c36f6c1db350f46fc7eafdad3d6bbaf880ffaf21e616ffda0"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/default.json"
-hash = "9ea33eea83cb4fb0436a443037d0582dd9ff7af94e43d21e896448444859011b"
+hash = "9a95cb8f503f1641cb243aa85de92bbd01a18f1ccded40328d6d41f894f9c925"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/default_overworld.json"

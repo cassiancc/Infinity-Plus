@@ -236,6 +236,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "amendments:skull_candle",
 				"full": false
 			}
@@ -246,6 +249,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "amendments:skull_candle_soul",
 				"full": false
 			}
@@ -256,6 +262,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "amendments:skull_candle_soul_wall",
 				"full": false
 			}
@@ -266,6 +275,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "amendments:skull_candle_wall",
 				"full": false
 			}
@@ -296,6 +308,9 @@
 				"top": false,
 				"laggy": true,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "amendments:wall_lantern",
 				"full": false
 			}

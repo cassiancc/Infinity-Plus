@@ -844,6 +844,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:black_candle",
 				"full": false
 			}
@@ -854,6 +857,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:black_candle_cake",
 				"full": false
 			}
@@ -1004,6 +1010,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:blast_furnace",
 				"full": true
 			}
@@ -1034,6 +1043,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:blue_candle",
 				"full": false
 			}
@@ -1044,6 +1056,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:blue_candle_cake",
 				"full": false
 			}
@@ -1274,6 +1289,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:brown_candle",
 				"full": false
 			}
@@ -1284,6 +1302,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:brown_candle_cake",
 				"full": false
 			}
@@ -1474,6 +1495,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:campfire",
 				"full": false
 			}
@@ -1484,6 +1508,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:candle",
 				"full": false
 			}
@@ -1494,6 +1521,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:candle_cake",
 				"full": false
 			}
@@ -2100,6 +2130,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:copper_bulb",
 				"full": true
 			}
@@ -2533,6 +2566,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:cyan_candle",
 				"full": false
 			}
@@ -2543,6 +2579,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:cyan_candle_cake",
 				"full": false
 			}
@@ -3079,6 +3118,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:deepslate_redstone_ore",
 				"full": true
 			}
@@ -3439,6 +3481,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:exposed_copper_bulb",
 				"full": true
 			}
@@ -3612,6 +3657,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:furnace",
 				"full": true
 			}
@@ -3772,6 +3820,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:gray_candle",
 				"full": false
 			}
@@ -3782,6 +3833,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:gray_candle_cake",
 				"full": false
 			}
@@ -3912,6 +3966,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:green_candle",
 				"full": false
 			}
@@ -3922,6 +3979,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:green_candle_cake",
 				"full": false
 			}
@@ -4584,6 +4644,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:light_blue_candle",
 				"full": false
 			}
@@ -4594,6 +4657,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:light_blue_candle_cake",
 				"full": false
 			}
@@ -4724,6 +4790,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:light_gray_candle",
 				"full": false
 			}
@@ -4734,6 +4803,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:light_gray_candle_cake",
 				"full": false
 			}
@@ -4914,6 +4986,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:lime_candle",
 				"full": false
 			}
@@ -4924,6 +4999,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:lime_candle_cake",
 				"full": false
 			}
@@ -5074,6 +5152,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:magenta_candle",
 				"full": false
 			}
@@ -5084,6 +5165,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:magenta_candle_cake",
 				"full": false
 			}
@@ -5976,6 +6060,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:orange_candle",
 				"full": false
 			}
@@ -5986,6 +6073,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:orange_candle_cake",
 				"full": false
 			}
@@ -6136,6 +6226,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:oxidized_copper_bulb",
 				"full": true
 			}
@@ -6296,6 +6389,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:pink_candle",
 				"full": false
 			}
@@ -6306,6 +6402,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:pink_candle_cake",
 				"full": false
 			}
@@ -7299,6 +7398,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:purple_candle",
 				"full": false
 			}
@@ -7309,6 +7411,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:purple_candle_cake",
 				"full": false
 			}
@@ -7569,6 +7674,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:red_candle",
 				"full": false
 			}
@@ -7579,6 +7687,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:red_candle_cake",
 				"full": false
 			}
@@ -7819,6 +7930,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:redstone_lamp",
 				"full": true
 			}
@@ -7829,6 +7943,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:redstone_ore",
 				"full": true
 			}
@@ -7839,6 +7956,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:redstone_torch",
 				"full": false
 			}
@@ -7849,6 +7969,9 @@
 				"top": false,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:redstone_wall_torch",
 				"full": false
 			}
@@ -8139,6 +8262,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:smoker",
 				"full": true
 			}
@@ -8299,6 +8425,9 @@
 				"top": true,
 				"laggy": true,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:soul_campfire",
 				"full": false
 			}
@@ -9481,6 +9610,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:waxed_copper_bulb",
 				"full": true
 			}
@@ -9571,6 +9703,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:waxed_exposed_copper_bulb",
 				"full": true
 			}
@@ -9661,6 +9796,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:waxed_oxidized_copper_bulb",
 				"full": true
 			}
@@ -9751,6 +9889,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:waxed_weathered_copper_bulb",
 				"full": true
 			}
@@ -9841,6 +9982,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:weathered_copper_bulb",
 				"full": true
 			}
@@ -9971,6 +10115,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:white_candle",
 				"full": false
 			}
@@ -9981,6 +10128,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:white_candle_cake",
 				"full": false
 			}
@@ -10151,6 +10301,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:yellow_candle",
 				"full": false
 			}
@@ -10161,6 +10314,9 @@
 				"top": true,
 				"laggy": false,
 				"float": false,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "minecraft:yellow_candle_cake",
 				"full": false
 			}
