@@ -1,13 +1,13 @@
 name = "Amber"
-filename = "amber-fabric-1.21.1-1.2.0-beta.5.jar"
+filename = "amber-fabric-1.21.1-1.2.1-beta.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/5CW2yF1i/amber-fabric-1.21.1-1.2.0-beta.5.jar"
+url = "https://cdn.modrinth.com/data/vjGZJDu5/versions/AKUA4gok/amber-fabric-1.21.1-1.2.1-beta.1.jar"
 hash-format = "sha1"
-hash = "8549e5bc6648e1253a84a36d3e903e97061f9795"
+hash = "b7a2fb9088dee36a88d94e639383340d72f24808"
 
 [update]
 [update.modrinth]
 mod-id = "vjGZJDu5"
-version = "5CW2yF1i"
+version = "AKUA4gok"

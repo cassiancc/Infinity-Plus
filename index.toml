@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amber.pw.toml"
-hash = "ccb32db4963efbc52dc6d7fff4a895b6315ed2d42e25a6ae32b0709b2850cc0d"
+hash = "678d7997511566f02d5971ce147548758facad22e9de76f31149bbd23be8e6eb"
 metafile = true
 
 [[files]]
@@ -1359,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "f6d606e71b14c9c292c7328ee61306fa5fe966516302d46a1325f4c9e8cf23e7"
+hash = "4c5b78458dd01dee997e5787352b9f53eb792fea982fd2a8c9adfd949b8b7c96"
 metafile = true
 
 [[files]]
@@ -1489,7 +1489,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "76c5a32b71de1e907431a13c5939154972b8469bdfec567ae24084771baf97fd"
+hash = "5d92fde7034b0a3cf0d56eabf73e48a5e1907c5faf6d7b2dce0abbef39ac0fa5"
 metafile = true
 
 [[files]]
