@@ -606,6 +606,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:black_table_lamp",
 				"full": false
 			}
@@ -859,6 +862,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:blue_table_lamp",
 				"full": false
 			}
@@ -1132,6 +1138,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:brown_table_lamp",
 				"full": false
 			}
@@ -1775,6 +1784,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:cyan_table_lamp",
 				"full": false
 			}
@@ -2338,6 +2350,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:gray_table_lamp",
 				"full": false
 			}
@@ -2561,6 +2576,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:green_table_lamp",
 				"full": false
 			}
@@ -2924,6 +2942,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:light_blue_table_lamp",
 				"full": false
 			}
@@ -3147,6 +3168,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:light_gray_table_lamp",
 				"full": false
 			}
@@ -3380,6 +3404,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:lime_table_lamp",
 				"full": false
 			}
@@ -3603,6 +3630,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:magenta_table_lamp",
 				"full": false
 			}
@@ -4206,6 +4236,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:orange_table_lamp",
 				"full": false
 			}
@@ -4429,6 +4462,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:pink_table_lamp",
 				"full": false
 			}
@@ -4952,6 +4988,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:purple_table_lamp",
 				"full": false
 			}
@@ -5305,6 +5344,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:red_table_lamp",
 				"full": false
 			}
@@ -6108,6 +6150,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:white_table_lamp",
 				"full": false
 			}
@@ -6331,6 +6376,9 @@
 				"top": true,
 				"laggy": false,
 				"float": true,
+				"Properties": {
+					"lit": "false"
+				},
 				"Name": "adorn:yellow_table_lamp",
 				"full": false
 			}
