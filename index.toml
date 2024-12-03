@@ -1562,11 +1562,6 @@ hash = "f632bb72523d51ef1b318399c5172ec397c9327daaa9608917689c210dd5d09f"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-content-mod.pw.toml"
-hash = "f52a973a9cd795acfb12d2a2e4db986a34caa4df76abc1392cc77bf4549605cc"
-metafile = true
-
-[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "354ddfd42231c097fa46f932d4813fcaeb4ce2b19b32be50eae403d5619aa2f1"
 metafile = true
