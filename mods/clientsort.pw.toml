@@ -1,13 +1,13 @@
 name = "Client Sort"
-filename = "clientsort-fabric-1.0.1+1.21.jar"
+filename = "clientsort-fabric-1.1.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K0AkAin6/versions/cZisjL7s/clientsort-fabric-1.0.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/tdAU91bg/clientsort-fabric-1.1.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "aa490f48f6f2658d7f8ae8f0b3632ecb6cdb4228"
+hash = "dc5646331cdc2521155b0386c29d00ff87f43bfd"
 
 [update]
 [update.modrinth]
 mod-id = "K0AkAin6"
-version = "cZisjL7s"
+version = "tdAU91bg"

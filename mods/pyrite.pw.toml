@@ -1,13 +1,13 @@
 name = "Pyrite"
-filename = "pyrite-0.15.0+1.21.1.jar"
+filename = "pyrite-0.15.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/vfPYn1uE/pyrite-0.15.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/KeVHWno1/pyrite-0.15.3%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "e7151480feae8af37d5ece23da3430f3a2fd1097"
+hash = "d74ba1bffaa5b59f0c9a6ca893b93292572faa6f"
 
 [update]
 [update.modrinth]
 mod-id = "qO4ozPoe"
-version = "vfPYn1uE"
+version = "KeVHWno1"
