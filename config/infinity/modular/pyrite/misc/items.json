@@ -34,6 +34,26 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:andesite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:andesite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:andesite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:andesite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:andesite_bricks"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:andesite_wall_gate"
 		},
 		{
@@ -495,6 +515,26 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:buttercup"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:calcite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:calcite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:calcite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:calcite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:calcite_bricks"
 		},
 		{
 			"weight": 1.0,
@@ -978,6 +1018,26 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:diorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diorite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:diorite_bricks"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:diorite_wall_gate"
 		},
 		{
@@ -1359,6 +1419,26 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:gold_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:granite_bricks"
 		},
 		{
 			"weight": 1.0,
@@ -2302,6 +2382,46 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:mossy_andesite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_andesite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_andesite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_andesite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_andesite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_calcite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_calcite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_calcite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_calcite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_calcite_bricks"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:mossy_cobblestone_brick_slab"
 		},
 		{
@@ -2326,7 +2446,107 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:mossy_deepslate_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_deepslate_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_deepslate_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_deepslate_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_deepslate_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_diorite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_diorite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_diorite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_diorite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_diorite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_granite_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_granite_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_granite_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_granite_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_smooth_stone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_smooth_stone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_smooth_stone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_smooth_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_smooth_stone_bricks"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:mossy_stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_tuff_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_tuff_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_tuff_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_tuff_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_tuff_bricks"
 		},
 		{
 			"weight": 1.0,
@@ -3595,6 +3815,26 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:rose_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_brick_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_brick_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_brick_wall"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:sandstone_bricks"
 		},
 		{
 			"weight": 1.0,

@@ -44,6 +44,16 @@
 			"weight": 1.0,
 			"key": {
 				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "infinity:biome_bottle",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
 				"laggy": false,
 				"float": true,
 				"Name": "infinity:book_box",
@@ -57,6 +67,26 @@
 				"laggy": false,
 				"float": true,
 				"Name": "infinity:cursor",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": false,
+				"Name": "infinity:iridescent_carpet",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:iridescent_wool",
 				"full": true
 			}
 		},

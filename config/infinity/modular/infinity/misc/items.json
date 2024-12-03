@@ -10,6 +10,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:biome_bottle"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:black_matter"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:book_box"
 		},
 		{
@@ -46,6 +54,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "infinity:iridescent_carpet"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:iridescent_wool"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:key"
 		},
 		{
@@ -59,6 +75,10 @@
 		{
 			"weight": 1.0,
 			"key": "infinity:timebomb"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:white_matter"
 		}
 	]
 }
