@@ -2,11 +2,11 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "minecraft:cave_air"
+			"key": "aether:purple_flower"
 		},
 		{
 			"weight": 1.0,
-			"key": "minecraft:void_air"
+			"key": "aether:white_flower"
 		}
 	]
 }

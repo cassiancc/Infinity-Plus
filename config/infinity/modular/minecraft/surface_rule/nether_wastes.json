@@ -17,7 +17,7 @@
 					"type": "minecraft:condition",
 					"if_true": {
 						"min_threshold": -0.012,
-						"max_threshold": 2048.0,
+						"max_threshold": 2.0E7,
 						"noise": "minecraft:soul_sand_layer",
 						"type": "minecraft:noise_threshold"
 					},
@@ -110,7 +110,7 @@
 							"type": "minecraft:condition",
 							"if_true": {
 								"min_threshold": -0.012,
-								"max_threshold": 2048.0,
+								"max_threshold": 2.0E7,
 								"noise": "minecraft:gravel_layer",
 								"type": "minecraft:noise_threshold"
 							},

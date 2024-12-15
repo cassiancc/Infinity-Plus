@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "#enchancement:buriable"
+		},
+		{
+			"weight": 1.0,
+			"key": "#enchancement:nether_ores"
+		},
+		{
+			"weight": 1.0,
+			"key": "#enchancement:smelts_self"
+		},
+		{
+			"weight": 1.0,
+			"key": "#enchancement:unstickable"
+		}
+	]
+}

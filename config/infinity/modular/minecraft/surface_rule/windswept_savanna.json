@@ -27,7 +27,7 @@
 								"type": "minecraft:condition",
 								"if_true": {
 									"min_threshold": 0.21212122,
-									"max_threshold": 2048.0,
+									"max_threshold": 2.0E7,
 									"noise": "minecraft:surface",
 									"type": "minecraft:noise_threshold"
 								},
@@ -42,7 +42,7 @@
 								"type": "minecraft:condition",
 								"if_true": {
 									"min_threshold": -0.060606062,
-									"max_threshold": 2048.0,
+									"max_threshold": 2.0E7,
 									"noise": "minecraft:surface",
 									"type": "minecraft:noise_threshold"
 								},
@@ -79,7 +79,7 @@
 						"type": "minecraft:condition",
 						"if_true": {
 							"min_threshold": 0.21212122,
-							"max_threshold": 2048.0,
+							"max_threshold": 2.0E7,
 							"noise": "minecraft:surface",
 							"type": "minecraft:noise_threshold"
 						},

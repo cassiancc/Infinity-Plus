@@ -5,6 +5,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_black",
 				"full": false
@@ -15,6 +16,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_blue",
 				"full": false
@@ -25,6 +27,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_brown",
 				"full": false
@@ -35,6 +38,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_cyan",
 				"full": false
@@ -45,6 +49,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_gray",
 				"full": false
@@ -55,6 +60,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_green",
 				"full": false
@@ -65,6 +71,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_light_blue",
 				"full": false
@@ -75,6 +82,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_light_gray",
 				"full": false
@@ -85,6 +93,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_lime",
 				"full": false
@@ -95,6 +104,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_magenta",
 				"full": false
@@ -105,6 +115,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_orange",
 				"full": false
@@ -115,6 +126,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_pink",
 				"full": false
@@ -125,6 +137,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_purple",
 				"full": false
@@ -135,6 +148,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_red",
 				"full": false
@@ -145,6 +159,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_white",
 				"full": false
@@ -155,6 +170,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:hammock_yellow",
 				"full": false
@@ -163,8 +179,20 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"top": false,
+				"laggy": false,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": false,
+				"Name": "comforts:rope_and_nail",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_black",
 				"full": false
@@ -175,6 +203,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_blue",
 				"full": false
@@ -185,6 +214,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_brown",
 				"full": false
@@ -195,6 +225,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_cyan",
 				"full": false
@@ -205,6 +236,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_gray",
 				"full": false
@@ -215,6 +247,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_green",
 				"full": false
@@ -225,6 +258,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_light_blue",
 				"full": false
@@ -235,6 +269,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_light_gray",
 				"full": false
@@ -245,6 +280,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_lime",
 				"full": false
@@ -255,6 +291,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_magenta",
 				"full": false
@@ -265,6 +302,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_orange",
 				"full": false
@@ -275,6 +313,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_pink",
 				"full": false
@@ -285,6 +324,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_purple",
 				"full": false
@@ -295,6 +335,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_red",
 				"full": false
@@ -305,6 +346,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_white",
 				"full": false
@@ -315,6 +357,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "comforts:sleeping_bag_yellow",
 				"full": false

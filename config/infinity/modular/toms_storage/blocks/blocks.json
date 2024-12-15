@@ -5,6 +5,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:basic_inventory_hopper",
 				"full": false
@@ -15,6 +16,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:crafting_terminal",
 				"full": false
@@ -25,6 +27,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:filing_cabinet",
 				"full": true
@@ -35,6 +38,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_cable",
 				"full": false
@@ -45,6 +49,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_cable_connector",
 				"full": false
@@ -55,6 +60,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_cable_connector_framed",
 				"full": true
@@ -65,6 +71,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_cable_framed",
 				"full": true
@@ -75,6 +82,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_connector",
 				"full": true
@@ -85,6 +93,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_interface",
 				"full": true
@@ -95,6 +104,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:inventory_proxy",
 				"full": true
@@ -105,6 +115,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:level_emitter",
 				"full": false
@@ -115,6 +126,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:open_crate",
 				"full": true
@@ -125,6 +137,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:painted_trim",
 				"full": true
@@ -135,6 +148,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:storage_terminal",
 				"full": false
@@ -145,6 +159,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "toms_storage:trim",
 				"full": true

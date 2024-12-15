@@ -5,6 +5,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:altar",
 				"full": false
@@ -15,6 +16,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:altar_cosmic",
 				"full": true
@@ -25,6 +27,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:altar_lit",
 				"full": false
@@ -35,6 +38,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:ant",
 				"full": true
@@ -45,6 +49,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:biome_bottle",
 				"full": false
@@ -55,6 +60,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:book_box",
 				"full": true
@@ -65,6 +71,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:cursor",
 				"full": true
@@ -75,6 +82,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "infinity:iridescent_carpet",
 				"full": false
@@ -85,6 +93,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:iridescent_wool",
 				"full": true
@@ -95,6 +104,7 @@
 			"key": {
 				"top": true,
 				"laggy": true,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:neither_portal",
 				"full": false
@@ -105,6 +115,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:netherite_slab",
 				"full": false
@@ -115,6 +126,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:netherite_stairs",
 				"full": false
@@ -125,6 +137,7 @@
 			"key": {
 				"top": true,
 				"laggy": false,
+				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "infinity:timebomb",
 				"full": false

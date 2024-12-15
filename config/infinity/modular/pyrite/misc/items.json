@@ -6,6 +6,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:aerogel_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:amethyst_bars"
 		},
 		{
@@ -55,6 +59,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:andesite_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:angelic_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -595,6 +603,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:calcite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:carved_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -1762,6 +1774,18 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:hellfire_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:holystone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:holystone_wall_gate"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:honey_brick_slab"
 		},
 		{
@@ -1903,6 +1927,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:honey_wool"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:icestone_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -2563,6 +2591,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:mossy_granite_bricks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:mossy_holystone_wall_gate"
 		},
 		{
 			"weight": 1.0,
@@ -3899,6 +3931,10 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:sandstone_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:skyroot_crafting_table"
 		},
 		{
 			"weight": 1.0,

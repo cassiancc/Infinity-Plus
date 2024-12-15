@@ -1,0 +1,20 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "aether:skyroot_forest"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether:skyroot_grove"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether:skyroot_meadow"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether:skyroot_woodland"
+		}
+	]
+}

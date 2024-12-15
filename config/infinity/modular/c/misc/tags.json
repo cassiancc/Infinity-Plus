@@ -158,6 +158,14 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "#c:fence_gates/wooden"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:fences/wooden"
+		},
+		{
+			"weight": 1.0,
 			"key": "#c:glass_blocks"
 		},
 		{
@@ -207,6 +215,10 @@
 		{
 			"weight": 1.0,
 			"key": "#c:obsidians/normal"
+		},
+		{
+			"weight": 1.0,
+			"key": "#c:ore_rates/singular"
 		},
 		{
 			"weight": 1.0,

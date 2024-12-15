@@ -1,0 +1,186 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:acacia"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:azalea_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:birch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:cherry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_fungus",
+				"Name": "minecraft:crimson_fungus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_fungus",
+				"Name": "minecraft:crimson_fungus_planted"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:dark_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:fabric-azalea_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:fancy_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_brown_mushroom",
+				"Name": "minecraft:huge_brown_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_red_mushroom",
+				"Name": "minecraft:huge_red_mushroom"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:jungle_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:jungle_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:jungle_tree_no_vine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:mangrove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:mega_jungle_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:mega_pine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:mega_spruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:neoforge-azalea_tree"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:pine"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:spruce"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:swamp_oak"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "tree",
+				"Name": "minecraft:tall_mangrove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_fungus",
+				"Name": "minecraft:warped_fungus"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "huge_fungus",
+				"Name": "minecraft:warped_fungus_planted"
+			}
+		}
+	]
+}

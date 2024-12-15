@@ -1,0 +1,96 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:black_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:blue_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:brown_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:chiller"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:crop_season_tester"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:cyan_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:gray_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:green_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:heater"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:light_blue_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:light_gray_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:lime_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:magenta_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:orange_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:pink_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:purple_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:red_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:season_calendar"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:season_detector"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:seasonal_compendium"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:tinted_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:white_greenhouse_glass"
+		},
+		{
+			"weight": 1.0,
+			"key": "seasonsextras:yellow_greenhouse_glass"
+		}
+	]
+}
