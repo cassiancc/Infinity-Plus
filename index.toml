@@ -1355,6 +1355,11 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "6b14f368ddb6825f3eac3802755f34394faa14928cc006294b0d4dc4683fac20"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "7922d24ccb10655ecc8c8d732bca15f0dec682b5c3d567db3f69f1404b85fbf5"
 metafile = true
