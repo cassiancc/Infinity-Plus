@@ -1,6 +1,6 @@
 name = "Infinity Plus"
 author = "cassiancc"
-version = "2.3.3"
+version = "2.3.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
