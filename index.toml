@@ -677,6 +677,14 @@ file = "config/infinity/modular/amendments/misc/tags.json"
 hash = "8c88ab6f975ac5bc18c3c9d11659a659795e0a26f7104017fe01c24f80204b75"
 
 [[files]]
+file = "config/infinity/modular/blahaj/blocks/blocks.json"
+hash = "cc31342336edb40d6cdab9a13bac7d96da6d8a870d0ddbe7e5b14b9ee85d4bf8"
+
+[[files]]
+file = "config/infinity/modular/blahaj/misc/items.json"
+hash = "0c319fee3c1940556231de0ece176294c94fa9f433cd17c805d1eedbf791f6e8"
+
+[[files]]
 file = "config/infinity/modular/c/misc/tags.json"
 hash = "227bdd8b6b235a611c311c1707ad23bd4d10f922e3c6ee95f7ea7c6cc093fdc4"
 
@@ -1030,7 +1038,7 @@ hash = "9f914cc1e330c707606084b4f44f9a3d0b684f2e510913fa11da65287810e47d"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/blocks.json"
-hash = "7d30c3f267d57fd60578010eb6464f5f0f7a6d7b32d06fc442ddbc820649d4fa"
+hash = "40bc040a56ac87477f9870ff73dc63ccaff3955c900619e95666d2c6820ee138"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/flowers.json"
@@ -1042,7 +1050,7 @@ hash = "2b7c5e9509abdc85922e75d2cd959efee7bd570f17362da9867985a3c3f3c1d5"
 
 [[files]]
 file = "config/infinity/modular/pyrite/misc/items.json"
-hash = "1bb262cf616fb60de47bb873db8271f44b5c9173ecaefd9d46f093a829afed4f"
+hash = "d1c7a0e613f3b5e16af1efab07203181897fa6ed5464d2de8478ad58013f53e4"
 
 [[files]]
 file = "config/infinity/modular/pyrite/misc/tags.json"
@@ -1194,11 +1202,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "de06e51c9da3f88717b0366dedb3c5d59b07211b77091ee5cd7f5a2641690aec"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "c1a13f826d54876a008baacac359761312a465f57de02575ce263f33a5d4f9fb"
 metafile = true
 
 [[files]]
@@ -1589,11 +1592,6 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "e03b87b6828389aefd76104c9effcc1eb8a5ee0661c36811e020dcf9e83f40e9"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "dfba6367a29c57cd6e99e2a24eeb4e4aa44d0058800f5b0a1cb88685c6bdf84e"
 metafile = true
 
 [[files]]

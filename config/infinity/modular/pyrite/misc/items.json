@@ -58,6 +58,66 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "pyrite:azalea_button"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_crafting_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_door"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_fence"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_fence_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_hanging_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_ladder"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_planks"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_pressure_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_sign"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_slab"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_stairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_trapdoor"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:azalea_wood"
+		},
+		{
+			"weight": 1.0,
 			"key": "pyrite:bamboo_crafting_table"
 		},
 		{
@@ -4263,6 +4323,14 @@
 		{
 			"weight": 1.0,
 			"key": "pyrite:stone_brick_wall_gate"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:stripped_azalea_log"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:stripped_azalea_wood"
 		},
 		{
 			"weight": 1.0,

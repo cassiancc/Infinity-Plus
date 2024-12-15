@@ -1,0 +1,301 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:ace_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:agender_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:aro_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:aroace_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:bi_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:blue_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:blue_whale",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:bread",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:brown_bear",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:demi_r_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:demi_s_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:demiboy_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:demigirl_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:enby_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:gay_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:genderfluid_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:genderqueer_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:gray_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:grey_r_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:grey_s_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:greyrose_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:intersex_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:lesbian_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:pan_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:poly_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:pride_shark",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007b95a916ec48@716cfcaf]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
+				"float": true,
+				"Name": "blahaj:trans_shark",
+				"full": false
+			}
+		}
+	]
+}

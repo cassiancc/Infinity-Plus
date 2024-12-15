@@ -1,0 +1,112 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "blahaj:ace_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:agender_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:aro_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:aroace_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:bi_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:blue_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:blue_whale"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:bread"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:brown_bear"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:demi_r_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:demi_s_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:demiboy_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:demigirl_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:enby_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:gay_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:genderfluid_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:genderqueer_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:gray_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:grey_r_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:grey_s_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:greyrose_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:intersex_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:lesbian_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:pan_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:poly_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:pride_shark"
+		},
+		{
+			"weight": 1.0,
+			"key": "blahaj:trans_shark"
+		}
+	]
+}
