@@ -1,0 +1,13 @@
+name = "Enchancement"
+filename = "enchancement-1.21-r14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/YeiApIhe/enchancement-1.21-r14.jar"
+hash-format = "sha1"
+hash = "4897e03b725d3391a70e990099f116d72e5d544d"
+
+[update]
+[update.modrinth]
+mod-id = "6hN1V6wJ"
+version = "YeiApIhe"
