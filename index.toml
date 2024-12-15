@@ -1190,6 +1190,11 @@ hash = "73ebcbd7b54f74f1593d2968fd90252f81c839ebc64392d8d10e5b16f0632d82"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "958a5b4bb79832ccb2cbf4f5588ef8ae58cd3b661833030be4f9abb0d2d2f9a1"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
 metafile = true
