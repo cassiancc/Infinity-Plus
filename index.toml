@@ -1416,7 +1416,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "6cd46452ebde8c10d10ccca99e12790501262fdeebe3a128c4bb47b9bf1ab82a"
+hash = "f0b74b696f72cc83b7d77d81672784700f75b56e9cd7eab6f4fa58f2ed6e1637"
 metafile = true
 
 [[files]]
@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "52e8fa404c22641dcb0116b6b3ccb453561eff9af08f8e0ec89bdc84ffaa5b40"
+hash = "d02567d9ab66665c37225806b007007bc2b40568caae005942dced81fb1e0f04"
 metafile = true
 
 [[files]]
@@ -1611,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "106c8bb5533a1ddaf4d6d443b196bcbc673a67fe0d84cfe32b05072a88119374"
+hash = "2e7442afde91b3d55ffb6aecc51c0c3151c7c05feae87c77d08121e9e5ec6c3d"
 metafile = true
 
 [[files]]
