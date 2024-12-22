@@ -642,7 +642,7 @@ hash = "941d7a13f5fcd1c1747e1bf7b74f33ac12877a897d35f0fa26b59c589ed1a359"
 
 [[files]]
 file = "config/infinity/modular/adorn/blocks/blocks.json"
-hash = "fe3aaddfab6298b8d93fe737ecbbc5d5feecd5fbbdae118427ce877854191ab0"
+hash = "9643a020e159409461726abec986ee872f9a1243fa88f40c8a4fb58cd7202c3b"
 
 [[files]]
 file = "config/infinity/modular/adorn/extra/color_presets.json"
@@ -661,8 +661,56 @@ file = "config/infinity/modular/adorn/misc/tags.json"
 hash = "797dabcfe1d4415b36b63aac128a29cb49caa32542ba126e75b44805c61867bb"
 
 [[files]]
+file = "config/infinity/modular/aether/blocks/blocks.json"
+hash = "0d3af10bddbc5abbdcbffd101de99a092076e1b510b8fa92c90c65223a77ddaf"
+
+[[files]]
+file = "config/infinity/modular/aether/blocks/flowers.json"
+hash = "add06db0af7d0d6cd663fd6e1dc4f6b991979c4d8f666256b91cd87930ca178c"
+
+[[files]]
+file = "config/infinity/modular/aether/extra/effects.json"
+hash = "08929b5908ec097aede8531de09ee7915cf0899770531782bec26304b1f96e3f"
+
+[[files]]
+file = "config/infinity/modular/aether/extra/mobs.json"
+hash = "91840983aa90589a310876914086733c7d1e9b1ba62beee9394b3ae5c518782b"
+
+[[files]]
+file = "config/infinity/modular/aether/extra/structures.json"
+hash = "cd3a3f3c869ab7c98b5ec8eaea45c3ca366630bd8eaa0451c4bb6aab2cf7c629"
+
+[[files]]
+file = "config/infinity/modular/aether/extra/trees.json"
+hash = "afdae542b8ff6a0955f0cf7189d3551bb1031e81401570da3678d5ef13650ef1"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/biomes.json"
+hash = "5c8cbad3d42324e5f5eed49085ad261491a4525a64fc7783dad1cdcb12f005e5"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/items.json"
+hash = "8aa3b1e0ee8fba31fe7836d458ffe420ef88f599cdb7f560e8aa2270bb48cecf"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/music.json"
+hash = "23867db0d04ab9d2da4b319333bdddc470900587447821ccefdffce3ee3a5a31"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/particles.json"
+hash = "fc98039c957909044424a21f0b62215f0d4d0df0f9707b99d0be11eedf43be1a"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/sounds.json"
+hash = "3ea0917b303d322c7414bd0f2a51fdd353526bb5e42dc93c202bd6af0d721d20"
+
+[[files]]
+file = "config/infinity/modular/aether/misc/tags.json"
+hash = "6190020a18badd815ecff98f8d52c2e3e87b5bd6d481e4c73de97311ebc98bd5"
+
+[[files]]
 file = "config/infinity/modular/amendments/blocks/blocks.json"
-hash = "427d39842ce9b2bb36f0ad6c03d0ccc5f40a0ff09ce7bc6a234d66e91bfb27e0"
+hash = "25cd6ff63ee105d1379cb7c3627a53a137252e5b09018048f8b1f3e713f8a227"
 
 [[files]]
 file = "config/infinity/modular/amendments/misc/items.json"
@@ -678,7 +726,7 @@ hash = "8c88ab6f975ac5bc18c3c9d11659a659795e0a26f7104017fe01c24f80204b75"
 
 [[files]]
 file = "config/infinity/modular/blahaj/blocks/blocks.json"
-hash = "cc31342336edb40d6cdab9a13bac7d96da6d8a870d0ddbe7e5b14b9ee85d4bf8"
+hash = "2f3fd5f8534548a47ac5203aedcd0bc2fa699ec3bac270688a0394e9ab1f5d15"
 
 [[files]]
 file = "config/infinity/modular/blahaj/misc/items.json"
@@ -686,11 +734,11 @@ hash = "0c319fee3c1940556231de0ece176294c94fa9f433cd17c805d1eedbf791f6e8"
 
 [[files]]
 file = "config/infinity/modular/c/misc/tags.json"
-hash = "227bdd8b6b235a611c311c1707ad23bd4d10f922e3c6ee95f7ea7c6cc093fdc4"
+hash = "52749a6692086b9c98c35509a56a262f5f6408fe64d6567bc511c35a4b76d85d"
 
 [[files]]
 file = "config/infinity/modular/comforts/blocks/blocks.json"
-hash = "c1937a9e3706c6702555997477a18359033fd5bc61e4ae63fff086d11591bd97"
+hash = "5cd9118803c5723725e5a1f2596d72be25ca572ee54ae7de32123656a780a48c"
 
 [[files]]
 file = "config/infinity/modular/comforts/misc/items.json"
@@ -701,8 +749,20 @@ file = "config/infinity/modular/comforts/misc/tags.json"
 hash = "bb3d770746ac62f36ffa7975a8bfcf8eabf4d0d9548fa3c995712b1e54daa90b"
 
 [[files]]
+file = "config/infinity/modular/enchancement/misc/particles.json"
+hash = "ae918ff6001a8221454e91f184d675ff03b09aad76a65371ee8fc74b33ffa550"
+
+[[files]]
+file = "config/infinity/modular/enchancement/misc/sounds.json"
+hash = "5e8eafa548b2beef450481b54692f71f9adfa39f4ba655e034adf6a464536f5d"
+
+[[files]]
+file = "config/infinity/modular/enchancement/misc/tags.json"
+hash = "068645d858973579d2fb3670b7dac1301cd8c28b66281d1e5a7ebf2c69cf4f48"
+
+[[files]]
 file = "config/infinity/modular/fwaystones/blocks/blocks.json"
-hash = "c760241878d16bd34dce999b72114ba830bfb00c4c07388100c9ad335bf08a5f"
+hash = "e205ced8527b8ca0975ca1f6cf52e2467ea1c1ea964a421c0b815bca9b03bacf"
 
 [[files]]
 file = "config/infinity/modular/fwaystones/misc/items.json"
@@ -714,7 +774,7 @@ hash = "89db21138cf4e0be0170a3651be5d45d05f888b0876cdb486089c37b17256801"
 
 [[files]]
 file = "config/infinity/modular/infinity/blocks/blocks.json"
-hash = "88fdaebe2fd422eb01967c327b2df3e5ad689dd97023645f89c5edfbc24cb0e9"
+hash = "3ee126801a21e87bde58d0010701d595375741f49936f0d56ddd3c80249995e7"
 
 [[files]]
 file = "config/infinity/modular/infinity/blocks/fluids.json"
@@ -730,7 +790,11 @@ hash = "52e8b4956de7d6db24aa1fb53b942183c01ba625c8abf201ee3bef6608bd41f0"
 
 [[files]]
 file = "config/infinity/modular/infinity/extra/structures.json"
-hash = "c8ce92660085e404e7cba26808ea2559f9cc1ba127e29f1bc614bf0692fad0b1"
+hash = "affcb0992beab6384a05ee48258d70737109fe5523f6171df3c2de7508284914"
+
+[[files]]
+file = "config/infinity/modular/infinity/extra/trees.json"
+hash = "98e616341f734204b248f65c179dad50924de21cd3e73a05bc8b58d8817c0005"
 
 [[files]]
 file = "config/infinity/modular/infinity/misc/items.json"
@@ -742,15 +806,15 @@ hash = "b9c884383cc9080ed363c7cd2c35287c648dda205427e26bf8dcbcbda5c28636"
 
 [[files]]
 file = "config/infinity/modular/invocation.lock"
-hash = "e10f1fd7c7d41106826bd2b4310470abdd3ce7c8c4dae1c3847adebdd1178e8e"
+hash = "9b39a9814d3e7ca3ca9a0f6a30033572397911987bfaf2fa872978db0638e85b"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/airs.json"
-hash = "60bab53bd225a3e64247e4f94316579dbee41183ed542a4584c567ef0894f959"
+hash = "1a1b8a238c338c1ed8b9e33792f985e622152e018e8dcb52e0395e7326900e54"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/blocks.json"
-hash = "4b04a381c18b0bcc14399595da796d6968214413beb6d97533e2df24675989f1"
+hash = "68caea653eb63b70015a8f8ca8b7a00116555e8a1481632c8e8dc54a56fe1a4e"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/flowers.json"
@@ -758,7 +822,7 @@ hash = "983ce36cd08946bd112a46958db052bacc7e697c719afa1a164bb1e1701a05d3"
 
 [[files]]
 file = "config/infinity/modular/minecraft/blocks/fluids.json"
-hash = "f6761dbd57bece5778cbf33972a56a85bcfac3ae542b2a354eb7ef576ad8cb40"
+hash = "aacbe0a1f65c338a091595ca2d293fd2529e74684629ddb000cbffcc1ec10dab"
 
 [[files]]
 file = "config/infinity/modular/minecraft/extra/color_presets.json"
@@ -786,7 +850,11 @@ hash = "5f40fb8b3aca5018fe86f38e22aa52e86601e512a3a15dfea19f236a8fb3b95f"
 
 [[files]]
 file = "config/infinity/modular/minecraft/extra/structures.json"
-hash = "5e24a9f9bf9885b4d9a78e0842606c9da388daad433da67ca3245dcf7a9a151a"
+hash = "41e77cae7965a911abe9dc25e79d9f49ee4f5ec22c5030be94fc3e934288f95b"
+
+[[files]]
+file = "config/infinity/modular/minecraft/extra/trees.json"
+hash = "2646b25db8c11ac5a7852b6264632c0b2a0057d4c168f0e2855edef4ea6056c0"
 
 [[files]]
 file = "config/infinity/modular/minecraft/features/fluidsprings.json"
@@ -866,7 +934,7 @@ hash = "12712e02bd9d31936c5d2a99013f5afbfe2b8ba3cf3c2eefa1d0299592413b4c"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/basalt_deltas.json"
-hash = "382354046754a2f487de62ba0c25573b19075bf53f4e569ad00d096851d403e4"
+hash = "94ef24192541e6bfc5f29fc14ef46c0f589182941a7dd16302e1e699be2d7c3b"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/beach.json"
@@ -874,7 +942,7 @@ hash = "5eeb623dad40829df34ae7cbd37d83af4c8f2924438aad06fc7639091648d112"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/crimson_forest.json"
-hash = "a95c9a0738a0db159320f5919ef62392e36e056d60757f839da27b7cb47e9df6"
+hash = "c354f4fb5182a5abbd75ac4f19736956287e224af4efa08a5dec08519eb15ab2"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/deep_frozen_ocean.json"
@@ -886,7 +954,7 @@ hash = "706b2c2ff22b1a1c36f6c1db350f46fc7eafdad3d6bbaf880ffaf21e616ffda0"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/default.json"
-hash = "9a95cb8f503f1641cb243aa85de92bbd01a18f1ccded40328d6d41f894f9c925"
+hash = "3b110cf138263764e0bc76236aeff085fbfd46897e0d18db18068c073bb4f633"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/default_overworld.json"
@@ -934,7 +1002,7 @@ hash = "327556008b9e17dad0c45ee8247830c4ac793ce6dea5db23972e085e7b2caa4a"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/mangrove_swamp.json"
-hash = "5ad1443e1607b992fd5af0a791a456a8839da368e7aa77b328e0a89dd101f028"
+hash = "c4c363679e76f8f57f332c97c55a98e7d9e7b5e1af217fa45eccb0517b20a2c7"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/mushroom_fields.json"
@@ -942,15 +1010,15 @@ hash = "a0edf0c6ff3c95a8ae0db138e673c306010b38d4a89bbd37db1512c83ce6093f"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/nether_wastes.json"
-hash = "75e095b18dc81cb50302aad39112315976ca54f48d1e93e9595d835b21ecbeac"
+hash = "d28ba508dd9954b71af68b7aab45ad3f9ae85d5b1e9c03ba2ed76c83e2a42fa3"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/old_growth_pine_taiga.json"
-hash = "cca6f995f3805b53aa3f268123ef60f92717d4cce82d6176229099be3ac0ee9c"
+hash = "bd274b3ba6c738315831398f4d4d45629e897b69bb8b1a1cfbb66d14d057ffb9"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/old_growth_spruce_taiga.json"
-hash = "4bf1a65155b07d40b189e872b6cb8f61c9661b3a8249ae992869cc8a9d5f100a"
+hash = "b03a9766b4449d859355186549955d6bc13df8ee9243eb4d34564013710f6ce6"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/snowy_beach.json"
@@ -962,7 +1030,7 @@ hash = "fca1e22b4dee6b353fc0a7177769945ac60df82fd098fd3e4c84d67e2cba390a"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/soul_sand_valley.json"
-hash = "455d17151305632cfeff5ba59a1c2dc162d317087c8d5f66ff9484d21f9193ad"
+hash = "14de10de3455fddacb6385ca1d56694d024daa1ffb46bc47e46d07e834b9745e"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/stony_peaks.json"
@@ -974,7 +1042,7 @@ hash = "54360074d06d42a2d12c414733284279da87172737a0667c8f210b40a8a2efb7"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/swamp.json"
-hash = "5836d63e03feee6ec0ff0c18634253f8d451d81277949d19fde6d0d2c0d1a889"
+hash = "589f3dbc7723ce4e5afa13ed055f10c3d7f30f9081a81f7ba687f9c9922d5b22"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/warm_ocean.json"
@@ -982,19 +1050,19 @@ hash = "6ddb6039908133d38eb99a84b12042189302312eb972042d94bf756c07d56351"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/warped_forest.json"
-hash = "eb623656f5bbb700d3a1204d50e5bac7485a9b180ffd6fd8f1b1035ffac07010"
+hash = "42c3b48c5a27e24ef8ce24134004eb91df6a20c0fb94da5c9fce30ebeaafeadc"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_gravelly_hills.json"
-hash = "ae5215027165550e30f3f322aa9900114e94c4d013f0b2591ae9ef9123a283ea"
+hash = "efdeeae3cfe59829d7a39970751e10f60d9be099b21ba4384285a1a12e400561"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_hills.json"
-hash = "3a87dda6dcb06017b18a7ad94276657e19d68d4085e9f8c75d0d10df30b2458a"
+hash = "0ae1f3a886de58eecd75f2be355e3ef5fec8c31f078bafe78bd143ab06fafac6"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/windswept_savanna.json"
-hash = "f7afbbc3b9cdd9c37f711466412a8d0ab721491698a94084394d5d6c2273711b"
+hash = "00a37831b0532cc52b55f5dfc572209061e25986dfd041ab0a16485b7375f5bb"
 
 [[files]]
 file = "config/infinity/modular/minecraft/surface_rule/wooded_badlands.json"
@@ -1038,7 +1106,7 @@ hash = "9f914cc1e330c707606084b4f44f9a3d0b684f2e510913fa11da65287810e47d"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/blocks.json"
-hash = "40bc040a56ac87477f9870ff73dc63ccaff3955c900619e95666d2c6820ee138"
+hash = "582d62354c1ed1f3af151b4d6cb63566807c4194507e07144f4f8e3b2d57131f"
 
 [[files]]
 file = "config/infinity/modular/pyrite/blocks/flowers.json"
@@ -1050,7 +1118,7 @@ hash = "2b7c5e9509abdc85922e75d2cd959efee7bd570f17362da9867985a3c3f3c1d5"
 
 [[files]]
 file = "config/infinity/modular/pyrite/misc/items.json"
-hash = "d1c7a0e613f3b5e16af1efab07203181897fa6ed5464d2de8478ad58013f53e4"
+hash = "9b75de08211c084816950e380c63eba4224d98aebc6baad3bf3e7e998d9fdfd6"
 
 [[files]]
 file = "config/infinity/modular/pyrite/misc/tags.json"
@@ -1065,8 +1133,16 @@ file = "config/infinity/modular/rightclickharvest/misc/tags.json"
 hash = "ed693df99a75c1be25aae2699aa837c72ad9d8e83befc3e216e0af619070246c"
 
 [[files]]
+file = "config/infinity/modular/seasonsextras/blocks/blocks.json"
+hash = "a4727c9eca5426a2e24e47efb19ed70b66faa1bb0e8b00a2a0db0403b120e2b1"
+
+[[files]]
+file = "config/infinity/modular/seasonsextras/misc/items.json"
+hash = "0d65abec988744335011a3e7ed3153614e706aed230bdc8890b1e510ed2b4914"
+
+[[files]]
 file = "config/infinity/modular/stoneworks/blocks/blocks.json"
-hash = "5a94635a87082052ff714d50edff1b24475d4c048d6d58ab1ce07f4a1af46072"
+hash = "275eb212416e0b940ef140f3ef143d7a64c0355c6ca2e6f2bb016dbfcf718250"
 
 [[files]]
 file = "config/infinity/modular/stoneworks/misc/items.json"
@@ -1082,7 +1158,7 @@ hash = "a8acf8a2abc26bab22c464e7dddc8045115b2207b9fe050c6f37566e2d435778"
 
 [[files]]
 file = "config/infinity/modular/toms_storage/blocks/blocks.json"
-hash = "c09d0863e681083911f9d0b06a66bf9c56342390aa2245eb92fe90c333226254"
+hash = "17e7f0f56599f9bdb45db28c98e0b2173f58d5dd7d403545fc514caadb821734"
 
 [[files]]
 file = "config/infinity/modular/toms_storage/misc/items.json"
@@ -1095,6 +1171,10 @@ hash = "9992d4200dcb4e307c7e21272ef83eff732a9235e8282ce5b012d446459d1259"
 [[files]]
 file = "config/infinity/modular/towelette/misc/tags.json"
 hash = "870069704cbef1be23bf57fd6cd7cd870398a88a2127d7bf143cf3cc755aa9b1"
+
+[[files]]
+file = "config/infinity/modular/trowel/misc/items.json"
+hash = "945c8d101ea98079af5c6ab9e93c21bfb09869033fdb23d6c83fbf0d79ae9fcd"
 
 [[files]]
 file = "config/infinity/modular/universalbonemeal/misc/tags.json"
@@ -1325,11 +1405,6 @@ hash = "28cd28a5a82f002baa6eb4f97e4ae90964e912d8ab8bff671bc0aee0a5943b1f"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "3f9069eeeb80add825475fd7b05bf2d18f57a7e8ef8973391ddb5a603b87992b"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
 metafile = true
@@ -1416,7 +1491,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "f0b74b696f72cc83b7d77d81672784700f75b56e9cd7eab6f4fa58f2ed6e1637"
+hash = "d4f66b28a2ac3ce184a95b8cf3d11e54a0f1b6c14460142226e3464ae1164e67"
 metafile = true
 
 [[files]]
@@ -1431,7 +1506,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d02567d9ab66665c37225806b007007bc2b40568caae005942dced81fb1e0f04"
+hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
 metafile = true
 
 [[files]]
@@ -1461,7 +1536,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "5a1fa007c9f5fa3ea403cc33c7de3c71690d2ccaff3a4405480597fd36785541"
+hash = "8e1a7b8d1647b0071b03f54a215613d550eada0de4845de4d5233bdc5e636484"
 metafile = true
 
 [[files]]
@@ -1481,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "77061cc62ee6004aa5f8b5b7b7f3cff34a4e68eae2e2c8fcb0864137c68c96b8"
+hash = "e63a78790a02341fcd86dbe4622401a832fda8a8e7c43e4187492ab9f0df2644"
 metafile = true
 
 [[files]]
@@ -1551,12 +1626,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "96b8fade2a824e801e228205da7bdcca91c87716c7e61a09278c5e5c5e09631a"
+hash = "6384738e3dc61bf6222883b9582d7060e051387748b814045823a2e1426bef43"
 metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "515f826c513e7d2fd01f53391557346a9e976dc8209a8d5b9994d2b79d93dac3"
+hash = "74eabfbd5ac17c95ed09b7539ea1c0cd439568801256f7685d01ee8bea8f7a67"
 metafile = true
 
 [[files]]
@@ -1596,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4710b9a24c336f731852ef91076933e91505acbfc9e84900ecc1a6033bc9d77c"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
@@ -1616,7 +1691,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "f632bb72523d51ef1b318399c5172ec397c9327daaa9608917689c210dd5d09f"
+hash = "993298cbff66eda33b6a8af857fd50165d293ec745a04537760d42ea8f884a6e"
 metafile = true
 
 [[files]]
@@ -1631,7 +1706,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72c57bfc98a43865d187378265affc9a59e022494e404baafbb06bd85dd3f772"
+hash = "81736542ab6986f6af3cdaa90cc030a7c1c2085655c42095b2f981397e5bc8d6"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Infinite Dimensions"
-filename = "infinite-dimensions-2.3.7+1.21.1.jar"
+filename = "infinite-dimensions-2.3.8+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/uU8xYFJg/infinite-dimensions-2.3.7%2B1.21.1.jar"
-hash-format = "sha1"
-hash = "a377df695337aa31e4a2494967971fb53992ddea"
+url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/NU7qtSEa/infinite-dimensions-2.3.8%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "bcf841a5d78de1df7d8d12ec6b269666d4709c296fa55a3c2db18cd53a2ad0b5a99ec5b6974bf81f56cbca5d4aa941df232d45a5b032e3725a967d0467e15200"
 
 [update]
 [update.modrinth]
 mod-id = "KgKqTqPj"
-version = "uU8xYFJg"
+version = "NU7qtSEa"
