@@ -1265,11 +1265,6 @@ file = "config/yosbr/options.txt"
 hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "73ebcbd7b54f74f1593d2968fd90252f81c839ebc64392d8d10e5b16f0632d82"
-metafile = true
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "958a5b4bb79832ccb2cbf4f5588ef8ae58cd3b661833030be4f9abb0d2d2f9a1"
 metafile = true
@@ -1455,11 +1450,6 @@ hash = "53ccc9d7c59705abc3e5848c6b7edae88e23d72897519f69b49b77168abebdbb"
 metafile = true
 
 [[files]]
-file = "mods/female-gender.pw.toml"
-hash = "5a89fd19e9963494ea0bf54f733805f04ee97f44e1e042776750c14ba8510aaf"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
@@ -1472,6 +1462,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "353a74911a8353fd8b2e3469f80962c47fcc1405809390cb4d03b341769e184c"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "df3559d7b38e3dd9003e5f4bdbede4a2636ad8a7a5e3adfcd021c8acb4ebafc8"
 metafile = true
 
 [[files]]
@@ -1632,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/pyrite.pw.toml"
 hash = "74eabfbd5ac17c95ed09b7539ea1c0cd439568801256f7685d01ee8bea8f7a67"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "62bc1d0108fe9e13d45d3534bb70edc36b7af98e8a68439a75e4c692adca2a50"
 metafile = true
 
 [[files]]

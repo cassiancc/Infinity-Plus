@@ -1,0 +1,13 @@
+name = "Resourceful Lib"
+filename = "resourcefullib-fabric-1.21-3.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/qhDtAMev/resourcefullib-fabric-1.21-3.0.11.jar"
+hash-format = "sha512"
+hash = "d8456ad1fee455cb66e736a09e38a15888b7c863932d15241b6a9b01ab52842e4f3bd42ef28cc85f1ef515d42f60e077e331c7a4b4659d8bc37c3610ec4cf331"
+
+[update]
+[update.modrinth]
+mod-id = "G1hIVOrD"
+version = "qhDtAMev"
