@@ -130,6 +130,10 @@
 		},
 		{
 			"weight": 1.0,
+			"key": "#pyrite:stained_glass"
+		},
+		{
+			"weight": 1.0,
 			"key": "#pyrite:terracotta_bricks"
 		},
 		{

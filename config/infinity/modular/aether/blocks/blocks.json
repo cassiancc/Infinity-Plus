@@ -5,7 +5,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aerogel",
 				"full": true
@@ -16,7 +15,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aerogel_slab",
 				"full": false
@@ -27,7 +25,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aerogel_stairs",
 				"full": false
@@ -38,7 +35,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aerogel_wall",
 				"full": false
@@ -49,7 +45,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aether_dirt",
 				"full": true
@@ -60,7 +55,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aether_dirt_path",
 				"full": false
@@ -71,7 +65,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aether_farmland",
 				"full": false
@@ -82,7 +75,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aether_grass_block",
 				"full": true
@@ -93,7 +85,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:aether_portal",
 				"full": false
@@ -104,7 +95,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"lit": "false"
@@ -118,7 +108,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:ambrosium_block",
 				"full": true
@@ -129,7 +118,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:ambrosium_ore",
 				"full": true
@@ -140,7 +128,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:ambrosium_torch",
 				"full": false
@@ -151,7 +138,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:ambrosium_wall_torch",
 				"full": false
@@ -162,7 +148,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:angelic_slab",
 				"full": false
@@ -173,7 +158,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:angelic_stairs",
 				"full": false
@@ -184,7 +168,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:angelic_stone",
 				"full": true
@@ -195,7 +178,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:angelic_wall",
 				"full": false
@@ -206,7 +188,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:berry_bush",
 				"full": true
@@ -217,7 +198,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:berry_bush_stem",
 				"full": false
@@ -228,7 +208,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:blue_aercloud",
 				"full": false
@@ -239,7 +218,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_angelic_stone",
 				"full": true
@@ -250,7 +228,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_carved_stone",
 				"full": true
@@ -261,7 +238,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_hellfire_stone",
 				"full": true
@@ -272,7 +248,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_light_angelic_stone",
 				"full": true
@@ -283,7 +258,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_light_hellfire_stone",
 				"full": true
@@ -294,7 +268,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:boss_doorway_sentry_stone",
 				"full": true
@@ -305,7 +278,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:carved_slab",
 				"full": false
@@ -316,7 +288,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:carved_stairs",
 				"full": false
@@ -327,7 +298,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:carved_stone",
 				"full": true
@@ -338,7 +308,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:carved_wall",
 				"full": false
@@ -349,7 +318,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:chest_mimic",
 				"full": false
@@ -360,7 +328,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:cold_aercloud",
 				"full": false
@@ -371,7 +338,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -385,7 +351,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -399,7 +364,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -413,7 +377,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:enchanted_aether_grass_block",
 				"full": true
@@ -424,7 +387,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:enchanted_gravitite",
 				"full": true
@@ -435,7 +397,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"lit": "false"
@@ -449,7 +410,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:frosted_ice",
 				"full": true
@@ -460,7 +420,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:golden_aercloud",
 				"full": false
@@ -471,7 +430,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -485,7 +443,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:golden_oak_log",
 				"full": true
@@ -496,7 +453,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:golden_oak_sapling",
 				"full": false
@@ -507,7 +463,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:golden_oak_wood",
 				"full": true
@@ -518,7 +473,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:gravitite_ore",
 				"full": true
@@ -529,7 +483,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:hellfire_slab",
 				"full": false
@@ -540,7 +493,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:hellfire_stairs",
 				"full": false
@@ -551,7 +503,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:hellfire_stone",
 				"full": true
@@ -562,7 +513,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:hellfire_wall",
 				"full": false
@@ -573,7 +523,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -587,7 +536,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone",
 				"full": true
@@ -598,7 +546,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_brick_slab",
 				"full": false
@@ -609,7 +556,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_brick_stairs",
 				"full": false
@@ -620,7 +566,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_brick_wall",
 				"full": false
@@ -631,7 +576,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_bricks",
 				"full": true
@@ -642,7 +586,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Properties": {
 					"face": "floor"
@@ -656,7 +599,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:holystone_pressure_plate",
 				"full": false
@@ -667,7 +609,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_slab",
 				"full": false
@@ -678,7 +619,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_stairs",
 				"full": false
@@ -689,7 +629,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:holystone_wall",
 				"full": false
@@ -700,7 +639,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:icestone",
 				"full": true
@@ -711,7 +649,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:icestone_slab",
 				"full": false
@@ -722,7 +659,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:icestone_stairs",
 				"full": false
@@ -733,7 +669,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:icestone_wall",
 				"full": false
@@ -744,7 +679,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"lit": "false"
@@ -758,7 +692,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:light_angelic_stone",
 				"full": true
@@ -769,7 +702,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:light_hellfire_stone",
 				"full": true
@@ -780,7 +712,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_angelic_stone",
 				"full": true
@@ -791,7 +722,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_carved_stone",
 				"full": true
@@ -802,7 +732,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_hellfire_stone",
 				"full": true
@@ -813,7 +742,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_light_angelic_stone",
 				"full": true
@@ -824,7 +752,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_light_hellfire_stone",
 				"full": true
@@ -835,7 +762,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:locked_sentry_stone",
 				"full": true
@@ -846,7 +772,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:mossy_holystone",
 				"full": true
@@ -857,7 +782,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:mossy_holystone_slab",
 				"full": false
@@ -868,7 +792,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:mossy_holystone_stairs",
 				"full": false
@@ -879,7 +802,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:mossy_holystone_wall",
 				"full": false
@@ -890,7 +812,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:pillar",
 				"full": true
@@ -901,7 +822,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:pillar_top",
 				"full": true
@@ -912,7 +832,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_berry_bush",
 				"full": false
@@ -923,7 +842,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_berry_bush_stem",
 				"full": false
@@ -934,7 +852,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_golden_oak_sapling",
 				"full": false
@@ -945,7 +862,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_purple_flower",
 				"full": false
@@ -956,7 +872,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_skyroot_sapling",
 				"full": false
@@ -967,7 +882,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:potted_white_flower",
 				"full": false
@@ -978,7 +892,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:present",
 				"full": true
@@ -989,7 +902,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:purple_flower",
 				"full": false
@@ -1000,7 +912,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:quicksoil",
 				"full": true
@@ -1011,7 +922,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:quicksoil_glass",
 				"full": true
@@ -1022,7 +932,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[translucent:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93af178@d6340a8]], translucent_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, translucent_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:quicksoil_glass_pane",
 				"full": false
@@ -1033,7 +942,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:sentry_stone",
 				"full": true
@@ -1044,7 +952,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_bed",
 				"full": false
@@ -1055,7 +962,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_bookshelf",
 				"full": true
@@ -1066,7 +972,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Properties": {
 					"face": "floor"
@@ -1080,7 +985,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_door",
 				"full": false
@@ -1091,7 +995,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_fence",
 				"full": false
@@ -1102,7 +1005,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_fence_gate",
 				"full": false
@@ -1113,7 +1015,6 @@
 			"key": {
 				"top": false,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_hanging_sign",
 				"full": false
@@ -1124,7 +1025,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout_mipped:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aed48@7e136eeb]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Properties": {
 					"persistent": "true"
@@ -1138,7 +1038,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_log",
 				"full": true
@@ -1149,7 +1048,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_planks",
 				"full": true
@@ -1160,7 +1058,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_pressure_plate",
 				"full": false
@@ -1171,7 +1068,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_sapling",
 				"full": false
@@ -1182,7 +1078,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_sign",
 				"full": false
@@ -1193,7 +1088,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_slab",
 				"full": false
@@ -1204,7 +1098,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_stairs",
 				"full": false
@@ -1215,7 +1108,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_trapdoor",
 				"full": false
@@ -1226,7 +1118,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_wall_hanging_sign",
 				"full": false
@@ -1237,7 +1128,6 @@
 			"key": {
 				"top": false,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:skyroot_wall_sign",
 				"full": false
@@ -1248,7 +1138,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:skyroot_wood",
 				"full": true
@@ -1259,7 +1148,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:stripped_skyroot_log",
 				"full": true
@@ -1270,7 +1158,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:stripped_skyroot_wood",
 				"full": true
@@ -1281,7 +1168,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:sun_altar",
 				"full": true
@@ -1292,7 +1178,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_angelic_stone",
 				"full": true
@@ -1303,7 +1188,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_carved_stone",
 				"full": true
@@ -1314,7 +1198,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_hellfire_stone",
 				"full": true
@@ -1325,7 +1208,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_light_angelic_stone",
 				"full": true
@@ -1336,7 +1218,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_light_hellfire_stone",
 				"full": true
@@ -1347,7 +1228,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:trapped_sentry_stone",
 				"full": true
@@ -1358,7 +1238,6 @@
 			"key": {
 				"top": true,
 				"laggy": true,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_chest",
 				"full": false
@@ -1369,7 +1248,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_angelic_stone",
 				"full": true
@@ -1380,7 +1258,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_carved_stone",
 				"full": true
@@ -1391,7 +1268,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_hellfire_stone",
 				"full": true
@@ -1402,7 +1278,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_light_angelic_stone",
 				"full": true
@@ -1413,7 +1288,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_light_hellfire_stone",
 				"full": true
@@ -1424,7 +1298,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:treasure_doorway_sentry_stone",
 				"full": true
@@ -1435,7 +1308,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:unstable_obsidian",
 				"full": true
@@ -1446,7 +1318,6 @@
 			"key": {
 				"top": false,
 				"laggy": false,
-				"rendertype": "RenderType[cutout:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=false)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aef60@5091e5e8]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": false,
 				"Name": "aether:white_flower",
 				"full": false
@@ -1457,7 +1328,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:zanite_block",
 				"full": true
@@ -1468,7 +1338,6 @@
 			"key": {
 				"top": true,
 				"laggy": false,
-				"rendertype": "RenderType[solid:CompositeState[[texture[Optional[minecraft:textures/atlas/blocks.png](blur=false, mipmap=true)], shader[Optional[net.minecraft.class_4668$$Lambda/0x00007cefd93aeb30@38ce37f2]], no_transparency, depth_test[<=], cull[true], lightmap[true], overlay[false], no_layering, main_target, default_texturing, write_mask_state[writeColor=true, writeDepth=true], no_color_logic, line_width[1.0]], outlineProperty=affects_outline]]",
 				"float": true,
 				"Name": "aether:zanite_ore",
 				"full": true

@@ -462,10 +462,6 @@
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:non_flammable_wood"
-		},
-		{
-			"weight": 1.0,
 			"key": "#minecraft:nylium"
 		},
 		{

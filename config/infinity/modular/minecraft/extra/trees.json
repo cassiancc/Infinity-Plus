@@ -53,13 +53,6 @@
 			"weight": 1.0,
 			"key": {
 				"Type": "tree",
-				"Name": "minecraft:fabric-azalea_tree"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"Type": "tree",
 				"Name": "minecraft:fancy_oak"
 			}
 		},
@@ -124,13 +117,6 @@
 			"key": {
 				"Type": "tree",
 				"Name": "minecraft:mega_spruce"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"Type": "tree",
-				"Name": "minecraft:neoforge-azalea_tree"
 			}
 		},
 		{
