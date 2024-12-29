@@ -1,0 +1,13 @@
+name = "Accessories"
+filename = "accessories-fabric-1.1.0-beta.19+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/APxXYS5i/accessories-fabric-1.1.0-beta.19%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "1f54132d585d8d45425c5dd9df797246df7e5177"
+
+[update]
+[update.modrinth]
+mod-id = "jtmvUHXj"
+version = "APxXYS5i"

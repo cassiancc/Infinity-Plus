@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "2af6da57b84d25082989cb3c62328da216bc1c457b5676591346c62f64879cbe"
 
@@ -59,10 +63,6 @@ hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "b9a9956e2ad94100a2150b4467f144aae5311766761cbab67733896d7f29e92a"
-
-[[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "19137f23b04fcc5a1e7d96cf11e2a8fbd0a462924f99dc0f1f46ac1e19ca9b03"
 
 [[files]]
 file = "config/fabrication/block_logo.ini"
@@ -1213,6 +1213,16 @@ file = "config/yosbr/options.txt"
 hash = "a61aba9df41f5e3a0a8c741890eb8edfa255006b4268f7cc3dad70b90f654ead"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "2ce89cc3e5f8dd8ac29928d0a26baecd96896b01c82b10058de7b0781b4abadc"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "062e474719889b4e70e4aa4c8acd51bbc7d895282846bdbba11c80fd87654102"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "958a5b4bb79832ccb2cbf4f5588ef8ae58cd3b661833030be4f9abb0d2d2f9a1"
 metafile = true
@@ -1244,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "966f995d81b792ae424ece87b1c1697bd976616f3580e4bb3f6c328de836b7e2"
+hash = "193e44b82210b584c98de33c7d47532a128e03b962e3866c7657fe67f79eb154"
 metafile = true
 
 [[files]]
@@ -1289,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "36a2d1e7cbf15c70c1c658ffed9780aece92d1d11df978ba6c4dd56f0cf69c09"
+hash = "728398cd815c4b183cda64d9b302c795ba1ba4984e29518c6288c6a16740da4c"
 metafile = true
 
 [[files]]
@@ -1350,6 +1360,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "bd02cc1b0ee4feea5c920bc2b3858ddb3c3d98ece259507169956fdabb54b759"
+metafile = true
+
+[[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "00f0b02e9b2e6a72019d33783209e73a04c2c368275c100b3d59593de51eb2af"
 metafile = true
 
 [[files]]
@@ -1458,6 +1473,11 @@ hash = "bc82781b3f48234ae131e2160f2b72d4cc0801603a0c3e2eb9a88fd1b474de02"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "f1ccb05cc7302259e2a972bc762357198920e5d610de232e054d4758e15567ed"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "2c7ad26f8416aee6c43dbe20397a1bd52b333028a0c592c59ff5c4e1f1af63a2"
 metafile = true
@@ -1514,7 +1534,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bf3f45fa11582c586c0711439bf46d586017f9de009a8c34db2542f738d8afa7"
+hash = "87a1755422226eee3e68fa8842e1a52362451656994fb81d4ac5dca3a1ea9c7f"
 metafile = true
 
 [[files]]
@@ -1544,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "1c9ed038adfafbf4374dee39d3243de62185405f298b2ae120d2ef3e4ca6ce07"
+hash = "f42c022d08469d7385521eeb247abfe0c6c28377910abf302e97193ea5008f51"
 metafile = true
 
 [[files]]
@@ -1574,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/pyrite.pw.toml"
-hash = "74eabfbd5ac17c95ed09b7539ea1c0cd439568801256f7685d01ee8bea8f7a67"
+hash = "2fcada39d84127f6a1b54db503f6845d2af78a903facca5bb8832edd1256521f"
 metafile = true
 
 [[files]]
@@ -1703,7 +1723,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cf8a4be539816ce1e8f589fd0a8bfd16267ae30a191d2bb32cd86de722920caf"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
 metafile = true
 
 [[files]]
