@@ -65,6 +65,10 @@ file = "config/drippyloadingscreen/config.cfg"
 hash = "b9a9956e2ad94100a2150b4467f144aae5311766761cbab67733896d7f29e92a"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "392fb61d3e9b72189e8c6ebdadfe51f45c99903fb15b7a64a106ad4427a86e8e"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
