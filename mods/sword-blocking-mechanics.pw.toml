@@ -1,13 +1,13 @@
 name = "Sword Blocking Mechanics"
-filename = "SwordBlockingMechanics-v21.1.0-1.21.1-Fabric.jar"
+filename = "SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4v5Na7b9/versions/d9rx5Ses/SwordBlockingMechanics-v21.1.0-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/4v5Na7b9/versions/Ju7tR6NH/SwordBlockingMechanics-v21.1.1-1.21.1-Fabric.jar"
 hash-format = "sha1"
-hash = "dcdc7dc7924a871ff5ed2affb1d559573cb55bea"
+hash = "0a6b32ebb1616aaa4977f24dd5b2b8205e9ad7cd"
 
 [update]
 [update.modrinth]
 mod-id = "4v5Na7b9"
-version = "d9rx5Ses"
+version = "Ju7tR6NH"

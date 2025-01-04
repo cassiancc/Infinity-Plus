@@ -1228,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "958a5b4bb79832ccb2cbf4f5588ef8ae58cd3b661833030be4f9abb0d2d2f9a1"
+hash = "19669859d50e4d9d91eeef53884b5a2ae1e13753a7a7bfbad6a23186f49effac"
 metafile = true
 
 [[files]]
@@ -1243,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "de06e51c9da3f88717b0366dedb3c5d59b07211b77091ee5cd7f5a2641690aec"
+hash = "c89e251403a286fb4a2f6088934ae64de4315b660d1cfcbbfe5d4b2ea045eba7"
 metafile = true
 
 [[files]]
@@ -1263,7 +1263,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "162bfbd5446a2f5b4c6db952b66aacb34ec72af00be2e20f2e32bdf979884d6b"
+hash = "f444cc7ce6308679825318d380b85dd08307eb429361ff5fb604dae0608fb656"
 metafile = true
 
 [[files]]
@@ -1388,7 +1388,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e79e16e442ac4b3da94c1515e8d9ac5baaeab7c9589f0ff0ebebf1574d77255"
+hash = "4ff77087be80284d990116d289b8cbfd4d974d40b385293ea553a273bc12e127"
 metafile = true
 
 [[files]]
@@ -1503,12 +1503,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "8e1a7b8d1647b0071b03f54a215613d550eada0de4845de4d5233bdc5e636484"
+hash = "889f968af4d8026ac80a8c6027193b1060b5880e8d8f3ff5eb72793cd4496c1c"
 metafile = true
 
 [[files]]
 file = "mods/liteminer.pw.toml"
-hash = "7a40e09e8021d72dea991f3cc8edebc51cbf3aabf382c0bfe10d3028ee60040d"
+hash = "7fce8fd9890c3d0a78618b8f1a705855b135771e2d740b0b707e56b8c0a6318e"
 metafile = true
 
 [[files]]
@@ -1523,7 +1523,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e63a78790a02341fcd86dbe4622401a832fda8a8e7c43e4187492ab9f0df2644"
+hash = "696bb70cc17d4bbb945ead95de023bd9e7776d8f5b70b0e9217381d8270278a9"
 metafile = true
 
 [[files]]
@@ -1653,7 +1653,7 @@ metafile = true
 
 [[files]]
 file = "mods/sword-blocking-mechanics.pw.toml"
-hash = "16799ab06084148c85be1ea1f2ffc6b1f93211d84bdbaa4d8117183952c230c7"
+hash = "bce3afe8ba6bfe5b96336ffbad29c684502d28b47bdd34567897c5f0626d7de8"
 metafile = true
 
 [[files]]
