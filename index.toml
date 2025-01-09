@@ -1223,12 +1223,12 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "062e474719889b4e70e4aa4c8acd51bbc7d895282846bdbba11c80fd87654102"
+hash = "88b83a4bcc9dcffc830a6c45c1f8c3cb5a164d0b0acbd08c0f5fa99a53e54e16"
 metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "19669859d50e4d9d91eeef53884b5a2ae1e13753a7a7bfbad6a23186f49effac"
+hash = "b57178d09b0b74becdc182b215d65ae249b381203628f8a894c8d2c2e3f3f690"
 metafile = true
 
 [[files]]
