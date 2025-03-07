@@ -1,0 +1,32 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether:skyroot_forest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether:skyroot_grove"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether:skyroot_meadow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Color": 11665355,
+				"Name": "aether:skyroot_woodland"
+			}
+		}
+	]
+}

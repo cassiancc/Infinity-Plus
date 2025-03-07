@@ -2,19 +2,19 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#supplementaries:beams"
+			"key": "supplementaries:beams"
 		},
 		{
 			"weight": 1.0,
-			"key": "#supplementaries:palisades"
+			"key": "supplementaries:palisades"
 		},
 		{
 			"weight": 1.0,
-			"key": "#supplementaries:posts"
+			"key": "supplementaries:posts"
 		},
 		{
 			"weight": 1.0,
-			"key": "#supplementaries:walls"
+			"key": "supplementaries:walls"
 		}
 	]
 }

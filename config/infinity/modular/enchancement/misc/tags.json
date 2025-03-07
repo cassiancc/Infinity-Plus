@@ -2,19 +2,19 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#enchancement:buriable"
+			"key": "enchancement:buriable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#enchancement:nether_ores"
+			"key": "enchancement:nether_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#enchancement:smelts_self"
+			"key": "enchancement:smelts_self"
 		},
 		{
 			"weight": 1.0,
-			"key": "#enchancement:unstickable"
+			"key": "enchancement:unstickable"
 		}
 	]
 }

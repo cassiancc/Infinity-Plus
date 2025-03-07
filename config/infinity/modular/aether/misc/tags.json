@@ -2,143 +2,147 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#aether:aechor_plant_spawnable_deterrent"
+			"key": "aether:aechor_plant_spawnable_deterrent"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aechor_plant_spawnable_on"
+			"key": "aether:aechor_plant_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aerclouds"
+			"key": "aether:aerclouds"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aerogel"
+			"key": "aether:aerogel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aether_animals_spawnable_on"
+			"key": "aether:aether_animals_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aether_dirt"
+			"key": "aether:aether_dirt"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aether_island_blocks"
+			"key": "aether:aether_island_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aether_portal_blacklist"
+			"key": "aether:aether_portal_blacklist"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:aether_portal_blocks"
+			"key": "aether:aether_portal_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:allowed_bucket_pickup"
+			"key": "aether:allowed_bucket_pickup"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:allowed_flammables"
+			"key": "aether:allowed_flammables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:angelic_blocks"
+			"key": "aether:angelic_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:boss_doorway_dungeon_blocks"
+			"key": "aether:boss_doorway_dungeon_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:dungeon_blocks"
+			"key": "aether:dungeon_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:enchanted_grass"
+			"key": "aether:enchanted_grass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:golden_oak_logs"
+			"key": "aether:golden_oak_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:gravitite_ability_blacklist"
+			"key": "aether:gravitite_ability_blacklist"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:hellfire_blocks"
+			"key": "aether:hellfire_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:holystone"
+			"key": "aether:holystone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:infiniburn"
+			"key": "aether:infiniburn"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:locked_dungeon_blocks"
+			"key": "aether:locked_dungeon_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:non_bronze_dungeon_spawnable"
+			"key": "aether:non_bronze_dungeon_spawnable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:non_ruined_portal_spawnable"
+			"key": "aether:non_ruined_portal_spawnable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:non_tunnel_replaceable"
+			"key": "aether:non_tunnel_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:ruined_portal_ground_replaceable"
+			"key": "aether:ores_in_ground/holystone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:sentry_blocks"
+			"key": "aether:ruined_portal_ground_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:skyroot_logs"
+			"key": "aether:sentry_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:slider_unbreakable"
+			"key": "aether:skyroot_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:swet_spawnable_on"
+			"key": "aether:slider_unbreakable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:trapped_dungeon_blocks"
+			"key": "aether:swet_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:treasure_doorway_dungeon_blocks"
+			"key": "aether:trapped_dungeon_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:treated_as_aether_block"
+			"key": "aether:treasure_doorway_dungeon_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:treated_as_vanilla_block"
+			"key": "aether:treated_as_aether_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:valkyrie_queen_unbreakable"
+			"key": "aether:treated_as_vanilla_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#aether:valkyrie_teleportable_on"
+			"key": "aether:valkyrie_queen_unbreakable"
+		},
+		{
+			"weight": 1.0,
+			"key": "aether:valkyrie_teleportable_on"
 		}
 	]
 }

@@ -1,0 +1,60 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "malilib:all_banners_fix"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:all_signs_fix"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:concrete_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:concrete_powder_fix"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:coral_fans_fix"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:glass_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:glass_panes"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:glazed_terracotta_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:gravity_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:immovable_blocks"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:leaves_fix"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:needs_shears"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:needs_silk_touch"
+		},
+		{
+			"weight": 1.0,
+			"key": "malilib:wool_blocks_fix"
+		}
+	]
+}

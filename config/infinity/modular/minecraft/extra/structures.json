@@ -13,111 +13,11 @@
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "minecraft:trail_ruins"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_ocean"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:village_plains"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_box",
-				"spawn_overrides": {
-					"water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"underground_water_creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"axolotls": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"creature": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"water_ambient": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"misc": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					},
-					"monster": {
-						"bounding_box": "full",
-						"spawns": [
-						]
-					}
-				},
-				"step": "underground_decoration",
-				"id": "minecraft:ancient_city"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:village_desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
 				"id": "minecraft:end_city"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:village_snowy"
 			}
 		},
 		{
@@ -137,6 +37,56 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
+				"id": "minecraft:ruined_portal_ocean"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:bastion_remnant"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:igloo"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:ruined_portal_swamp"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:village_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
 				"id": "minecraft:ocean_ruin_cold"
 			}
 		},
@@ -147,7 +97,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:shipwreck"
+				"id": "minecraft:ocean_ruin_warm"
 			}
 		},
 		{
@@ -158,6 +108,26 @@
 				},
 				"step": "surface_structures",
 				"id": "minecraft:village_taiga"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "minecraft:mineshaft"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:village_snowy"
 			}
 		},
 		{
@@ -197,100 +167,44 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:ruined_portal"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "underground_structures",
-				"id": "minecraft:mineshaft"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "bury",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:stronghold"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_nether"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:igloo"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "beard_thin",
-				"spawn_overrides": {
 					"monster": {
-						"bounding_box": "full",
+						"bounding_box": "piece",
 						"spawns": [
 							{
-								"weight": 1,
-								"minCount": 1,
-								"type": "minecraft:pillager",
-								"maxCount": 1
+								"weight": 10,
+								"minCount": 2,
+								"type": "minecraft:blaze",
+								"maxCount": 3
+							},
+							{
+								"weight": 5,
+								"minCount": 4,
+								"type": "minecraft:zombified_piglin",
+								"maxCount": 4
+							},
+							{
+								"weight": 8,
+								"minCount": 5,
+								"type": "minecraft:wither_skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 2,
+								"minCount": 5,
+								"type": "minecraft:skeleton",
+								"maxCount": 5
+							},
+							{
+								"weight": 3,
+								"minCount": 4,
+								"type": "minecraft:magma_cube",
+								"maxCount": 4
 							}
 						]
 					}
 				},
-				"step": "surface_structures",
-				"id": "minecraft:pillager_outpost"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:mansion"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_desert"
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"terrain_adaptation": "none",
-				"spawn_overrides": {
-				},
-				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_jungle"
+				"step": "underground_decoration",
+				"id": "minecraft:fortress"
 			}
 		},
 		{
@@ -346,11 +260,21 @@
 		{
 			"weight": 1.0,
 			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:mansion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
 				"terrain_adaptation": "beard_thin",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:village_savanna"
+				"id": "minecraft:village_plains"
 			}
 		},
 		{
@@ -360,27 +284,27 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:bastion_remnant"
+				"id": "minecraft:ruined_portal_jungle"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:desert_pyramid"
+				"id": "minecraft:stronghold"
 			}
 		},
 		{
 			"weight": 1.0,
 			"key": {
-				"terrain_adaptation": "none",
+				"terrain_adaptation": "bury",
 				"spawn_overrides": {
 				},
-				"step": "surface_structures",
-				"id": "minecraft:ocean_ruin_warm"
+				"step": "underground_structures",
+				"id": "minecraft:trail_ruins"
 			}
 		},
 		{
@@ -391,6 +315,47 @@
 				},
 				"step": "underground_structures",
 				"id": "minecraft:buried_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
+							{
+								"weight": 1,
+								"minCount": 1,
+								"type": "minecraft:pillager",
+								"maxCount": 1
+							}
+						]
+					}
+				},
+				"step": "surface_structures",
+				"id": "minecraft:pillager_outpost"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:ruined_portal_desert"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:ruined_portal_mountain"
 			}
 		},
 		{
@@ -429,44 +394,69 @@
 			"key": {
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
-					"monster": {
-						"bounding_box": "piece",
+				},
+				"step": "surface_structures",
+				"id": "minecraft:ruined_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "none",
+				"spawn_overrides": {
+				},
+				"step": "underground_structures",
+				"id": "minecraft:mineshaft_mesa"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_box",
+				"spawn_overrides": {
+					"water_creature": {
+						"bounding_box": "full",
 						"spawns": [
-							{
-								"weight": 10,
-								"minCount": 2,
-								"type": "minecraft:blaze",
-								"maxCount": 3
-							},
-							{
-								"weight": 5,
-								"minCount": 4,
-								"type": "minecraft:zombified_piglin",
-								"maxCount": 4
-							},
-							{
-								"weight": 8,
-								"minCount": 5,
-								"type": "minecraft:wither_skeleton",
-								"maxCount": 5
-							},
-							{
-								"weight": 2,
-								"minCount": 5,
-								"type": "minecraft:skeleton",
-								"maxCount": 5
-							},
-							{
-								"weight": 3,
-								"minCount": 4,
-								"type": "minecraft:magma_cube",
-								"maxCount": 4
-							}
+						]
+					},
+					"underground_water_creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"axolotls": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"creature": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"water_ambient": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"misc": {
+						"bounding_box": "full",
+						"spawns": [
+						]
+					},
+					"monster": {
+						"bounding_box": "full",
+						"spawns": [
 						]
 					}
 				},
 				"step": "underground_decoration",
-				"id": "minecraft:fortress"
+				"id": "minecraft:ancient_city"
 			}
 		},
 		{
@@ -476,7 +466,17 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_mountain"
+				"id": "minecraft:ruined_portal_nether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"terrain_adaptation": "beard_thin",
+				"spawn_overrides": {
+				},
+				"step": "surface_structures",
+				"id": "minecraft:village_savanna"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 				"spawn_overrides": {
 				},
 				"step": "surface_structures",
-				"id": "minecraft:ruined_portal_swamp"
+				"id": "minecraft:desert_pyramid"
 			}
 		},
 		{
@@ -505,8 +505,8 @@
 				"terrain_adaptation": "none",
 				"spawn_overrides": {
 				},
-				"step": "underground_structures",
-				"id": "minecraft:mineshaft_mesa"
+				"step": "surface_structures",
+				"id": "minecraft:shipwreck"
 			}
 		}
 	]

@@ -2,7 +2,7 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#moonlight:non_recolorable"
+			"key": "moonlight:non_recolorable"
 		}
 	]
 }

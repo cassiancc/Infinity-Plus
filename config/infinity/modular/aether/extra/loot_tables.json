@@ -1,0 +1,1341 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "advancement_reward",
+				"Name": "aether:advancements/enter_aether"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aerogel"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aerogel_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aerogel_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aerogel_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aether_dirt"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aether_dirt_path"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aether_farmland"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aether_grass_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/aether_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/altar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/ambrosium_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/ambrosium_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/ambrosium_torch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/ambrosium_wall_torch"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/angelic_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/angelic_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/angelic_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/berry_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/berry_bush_stem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/blue_aercloud"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_carved_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_light_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_light_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/boss_doorway_sentry_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/carved_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/carved_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/carved_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/carved_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/chest_mimic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/cold_aercloud"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/crystal_fruit_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/crystal_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/decorated_holiday_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/enchanted_aether_grass_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/enchanted_gravitite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/freezer"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/frosted_ice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/golden_aercloud"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/golden_oak_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/golden_oak_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/golden_oak_sapling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/golden_oak_wood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/gravitite_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/hellfire_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/hellfire_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/hellfire_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holiday_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_brick_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_brick_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_brick_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_bricks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_button"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_pressure_plate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/holystone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/icestone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/icestone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/icestone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/icestone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/incubator"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/light_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/light_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_carved_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_light_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_light_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/locked_sentry_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/mossy_holystone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/mossy_holystone_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/mossy_holystone_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/mossy_holystone_wall"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/pillar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/pillar_top"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_berry_bush"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_berry_bush_stem"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_golden_oak_sapling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_purple_flower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_skyroot_sapling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/potted_white_flower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/present"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/purple_flower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/quicksoil"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/quicksoil_glass"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/quicksoil_glass_pane"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/sentry_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_bed"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_bookshelf"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_button"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_door"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_fence"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_fence_gate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_hanging_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_leaves"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_planks"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_pressure_plate"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_sapling"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_slab"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_stairs"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_trapdoor"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_wall_hanging_sign"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/skyroot_wood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/stripped_skyroot_log"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/stripped_skyroot_wood"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/sun_altar"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_carved_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_light_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_light_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/trapped_sentry_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_chest"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_carved_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_light_angelic_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_light_hellfire_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/treasure_doorway_sentry_stone"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/unstable_obsidian"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/white_flower"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/zanite_block"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "block",
+				"Name": "aether:blocks/zanite_ore"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_disc"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_gummies"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_loot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_neptune"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_trash"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/bronze/bronze_dungeon_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/gold/gold_dungeon_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/gold/gold_dungeon_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_cape_config"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_disc"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_gravitite"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_gummies"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_loot"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_reward"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_trash"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_treasure"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/dungeon/silver/silver_dungeon_valkyrie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "chest",
+				"Name": "aether:chests/ruined_portal"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/aechor_plant"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/aerbunny"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/aerwhale"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/blue_swet"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/cockatrice"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/evil_whirlwind"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/fire_minion"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/flying_cow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/golden_swet"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/mimic"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/moa"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/phyg"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sentry"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/black"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/brown"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/cyan"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/gray"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/green"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/light_blue"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/light_gray"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/lime"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/magenta"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/orange"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/pink"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/purple"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/red"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/white"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sheepuff/yellow"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/slider"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/sun_spirit"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/valkyrie"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/valkyrie_queen"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/whirlwind"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "entity",
+				"Name": "aether:entities/zephyr"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "selector",
+				"Name": "aether:selectors/evil_whirlwind_junk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "selector",
+				"Name": "aether:selectors/whirlwind_junk"
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"Type": "generic",
+				"Name": "aether:stripping/strip_golden_oak"
+			}
+		}
+	]
+}

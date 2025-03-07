@@ -4,6 +4,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
 				"Name": "xaeroworldmap:no_cave_maps"
 			}
 		},
@@ -11,6 +13,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
 				"Name": "xaeroworldmap:no_cave_maps_harmful"
 			}
 		},
@@ -18,6 +22,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": -16777216,
+				"Instant": false,
 				"Name": "xaeroworldmap:no_world_map"
 			}
 		},
@@ -25,6 +31,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": -16777216,
+				"Instant": false,
 				"Name": "xaeroworldmap:no_world_map_harmful"
 			}
 		}

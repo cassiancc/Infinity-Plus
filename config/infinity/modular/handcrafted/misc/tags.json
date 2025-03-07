@@ -1,0 +1,124 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "handcrafted:benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bowls"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:chairs"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:corner_trims"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:couches"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:counters"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crockery"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crockery_combos"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cupboards"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cups"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cushions"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:desks"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dining_benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:drawers"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:fancy_beds"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:hanging_trophies"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:metal_benches"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:nightstands"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pillar_trims"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:plates"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pots"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:shelves"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:side_tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:statue_trophies"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:table_connectable"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:tables"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:trims"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:trophies"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wall_trophies"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wooden_benches"
+		}
+	]
+}

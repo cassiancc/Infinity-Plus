@@ -1,0 +1,57 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": [
+				{
+					"Name": "handcrafted:white_cushion"
+				},
+				{
+					"Name": "handcrafted:light_gray_cushion"
+				},
+				{
+					"Name": "handcrafted:gray_cushion"
+				},
+				{
+					"Name": "handcrafted:black_cushion"
+				},
+				{
+					"Name": "handcrafted:brown_cushion"
+				},
+				{
+					"Name": "handcrafted:red_cushion"
+				},
+				{
+					"Name": "handcrafted:orange_cushion"
+				},
+				{
+					"Name": "handcrafted:yellow_cushion"
+				},
+				{
+					"Name": "handcrafted:lime_cushion"
+				},
+				{
+					"Name": "handcrafted:green_cushion"
+				},
+				{
+					"Name": "handcrafted:light_blue_cushion"
+				},
+				{
+					"Name": "handcrafted:blue_cushion"
+				},
+				{
+					"Name": "handcrafted:cyan_cushion"
+				},
+				{
+					"Name": "handcrafted:purple_cushion"
+				},
+				{
+					"Name": "handcrafted:magenta_cushion"
+				},
+				{
+					"Name": "handcrafted:pink_cushion"
+				}
+			]
+		}
+	]
+}

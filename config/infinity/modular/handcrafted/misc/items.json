@@ -1,0 +1,1144 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:acacia_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:andesite_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:andesite_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bamboo_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bear_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:berry_jam_jar"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:birch_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:black_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:black_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blackstone_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blackstone_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blaze_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_crockery_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_glazed_medium_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_glazed_thick_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_glazed_thin_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_glazed_wide_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:blue_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bricks_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:bricks_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:brown_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:brown_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:calcite_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:calcite_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cherry_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:creeper_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:crimson_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cyan_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:cyan_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dark_oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:deepslate_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:deepslate_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:diorite_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:diorite_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dripstone_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:dripstone_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:evoker_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:fancy_painting"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:fox_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:frozen_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:goat_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:golden_medium_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:golden_thick_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:golden_thin_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:golden_wide_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:granite_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:granite_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:gray_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:gray_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:green_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:green_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:hammer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:jungle_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:kitchen_hood"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:kitchen_hood_pipe"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:light_blue_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:light_blue_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:light_gray_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:light_gray_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:lime_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:lime_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:magenta_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:magenta_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:mangrove_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oak_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:orange_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:orange_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:oven"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:phantom_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pillager_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pink_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pink_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:pufferfish_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:purple_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:purple_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:quartz_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:quartz_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:red_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:red_sandstone_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:red_sandstone_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:red_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:salmon_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:sandstone_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:sandstone_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:silverfish_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:skeleton_horse_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:skeleton_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spider_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:spruce_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:stackable_book"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:stone_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:stone_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_crockery_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_medium_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_thick_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_thin_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:terracotta_wide_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:tropical_fish_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:vindicator_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_chair"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_corner_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_couch"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_counter"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_cupboard"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_desk"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_dining_bench"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_drawer"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_fancy_bed"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_nightstand"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_pillar_trim"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_shelf"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_side_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:warped_table"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_crockery_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_glazed_medium_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_glazed_thick_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_glazed_thin_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_glazed_wide_pot"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:white_sheet"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:witch_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wither_skeleton_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wolf_trophy"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wood_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wood_crockery_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wood_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:wood_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_bowl"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_crockery_combo"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_cup"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_cushion"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_plate"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:yellow_sheet"
+		}
+	]
+}

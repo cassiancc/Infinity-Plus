@@ -1,0 +1,288 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "infinity:a_familiar_room"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aerie"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aether1"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aether2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aether3"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aether4"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aether5"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:alpha"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:an_ordinary_day"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ancestry"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:aria_math"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:axolotl"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:ballad_of_the_cats"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:beginning_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:biome_fest"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:blind_spots"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:boss"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:bromeliad"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:challenger"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:chrysopoeia"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:clark"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:comforting_memories"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:concrete_halls"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:crescent_dunes"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:danny"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dead_voxel"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:deeper"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dragon_fish"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dreiton"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:dry_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:echo_in_the_wind"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:eld_unknown"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:endless"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:featherfall"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:firebugs"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:floating_dream"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:floating_trees"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:haggstrom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:haunt_muskie"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:hope_instilled"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:infinite_amethyst"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:key"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:komorebi"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:labyrinthine"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:left_to_bloom"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:living_mice"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:menu"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:mice_on_venus"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:minecraft"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:moog_city_2"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:mutation"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:one_more_day"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:oxygene"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:pokopoko"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:puzzlebox"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:rubedo"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:shuniji"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:slider_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:so_below"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:stand_tall"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:subwoofer_lullaby"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:sun_spirit_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:sweden"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:taswell"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:the_end"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:valkyrie_queen_fight"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:warmth"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:watcher"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:wending"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:wet_hands"
+		},
+		{
+			"weight": 1.0,
+			"key": "infinity:yakusoku"
+		}
+	]
+}

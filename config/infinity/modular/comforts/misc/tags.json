@@ -2,11 +2,11 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#comforts:hammocks"
+			"key": "comforts:hammocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#comforts:sleeping_bags"
+			"key": "comforts:sleeping_bags"
 		}
 	]
 }

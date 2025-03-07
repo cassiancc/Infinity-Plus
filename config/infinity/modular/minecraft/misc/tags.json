@@ -2,747 +2,747 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#minecraft:acacia_logs"
+			"key": "minecraft:acacia_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:air"
+			"key": "minecraft:air"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:all_hanging_signs"
+			"key": "minecraft:all_hanging_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:all_signs"
+			"key": "minecraft:all_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:ancient_city_replaceable"
+			"key": "minecraft:ancient_city_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:animals_spawnable_on"
+			"key": "minecraft:animals_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:anvil"
+			"key": "minecraft:anvil"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:armadillo_spawnable_on"
+			"key": "minecraft:armadillo_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:axolotls_spawnable_on"
+			"key": "minecraft:axolotls_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:azalea_grows_on"
+			"key": "minecraft:azalea_grows_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:azalea_root_replaceable"
+			"key": "minecraft:azalea_root_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:badlands_terracotta"
+			"key": "minecraft:badlands_terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:bamboo_blocks"
+			"key": "minecraft:bamboo_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:bamboo_plantable_on"
+			"key": "minecraft:bamboo_plantable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:banners"
+			"key": "minecraft:banners"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:base_stone_nether"
+			"key": "minecraft:base_stone_nether"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:base_stone_overworld"
+			"key": "minecraft:base_stone_overworld"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:beacon_base_blocks"
+			"key": "minecraft:beacon_base_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:beds"
+			"key": "minecraft:beds"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:bee_growables"
+			"key": "minecraft:bee_growables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:beehives"
+			"key": "minecraft:beehives"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:big_dripleaf_placeable"
+			"key": "minecraft:big_dripleaf_placeable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:birch_logs"
+			"key": "minecraft:birch_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:blocks_wind_charge_explosions"
+			"key": "minecraft:blocks_wind_charge_explosions"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:buttons"
+			"key": "minecraft:buttons"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:camel_sand_step_sound_blocks"
+			"key": "minecraft:camel_sand_step_sound_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:campfires"
+			"key": "minecraft:campfires"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:candle_cakes"
+			"key": "minecraft:candle_cakes"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:candles"
+			"key": "minecraft:candles"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:cauldrons"
+			"key": "minecraft:cauldrons"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:cave_vines"
+			"key": "minecraft:cave_vines"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:ceiling_hanging_signs"
+			"key": "minecraft:ceiling_hanging_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:cherry_logs"
+			"key": "minecraft:cherry_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:climbable"
+			"key": "minecraft:climbable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:coal_ores"
+			"key": "minecraft:coal_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:combination_step_sound_blocks"
+			"key": "minecraft:combination_step_sound_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:completes_find_tree_tutorial"
+			"key": "minecraft:completes_find_tree_tutorial"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:concrete_powder"
+			"key": "minecraft:concrete_powder"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:convertable_to_mud"
+			"key": "minecraft:convertable_to_mud"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:copper_ores"
+			"key": "minecraft:copper_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:coral_blocks"
+			"key": "minecraft:coral_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:coral_plants"
+			"key": "minecraft:coral_plants"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:corals"
+			"key": "minecraft:corals"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:crimson_stems"
+			"key": "minecraft:crimson_stems"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:crops"
+			"key": "minecraft:crops"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:crystal_sound_blocks"
+			"key": "minecraft:crystal_sound_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dampens_vibrations"
+			"key": "minecraft:dampens_vibrations"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dark_oak_logs"
+			"key": "minecraft:dark_oak_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dead_bush_may_place_on"
+			"key": "minecraft:dead_bush_may_place_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:deepslate_ore_replaceables"
+			"key": "minecraft:deepslate_ore_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:diamond_ores"
+			"key": "minecraft:diamond_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dirt"
+			"key": "minecraft:dirt"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:does_not_block_hoppers"
+			"key": "minecraft:does_not_block_hoppers"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:doors"
+			"key": "minecraft:doors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dragon_immune"
+			"key": "minecraft:dragon_immune"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dragon_transparent"
+			"key": "minecraft:dragon_transparent"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:dripstone_replaceable_blocks"
+			"key": "minecraft:dripstone_replaceable_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:emerald_ores"
+			"key": "minecraft:emerald_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:enchantment_power_provider"
+			"key": "minecraft:enchantment_power_provider"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:enchantment_power_transmitter"
+			"key": "minecraft:enchantment_power_transmitter"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:enderman_holdable"
+			"key": "minecraft:enderman_holdable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:fall_damage_resetting"
+			"key": "minecraft:fall_damage_resetting"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:features_cannot_replace"
+			"key": "minecraft:features_cannot_replace"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:fence_gates"
+			"key": "minecraft:fence_gates"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:fences"
+			"key": "minecraft:fences"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:fire"
+			"key": "minecraft:fire"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:flower_pots"
+			"key": "minecraft:flower_pots"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:flowers"
+			"key": "minecraft:flowers"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:foxes_spawnable_on"
+			"key": "minecraft:foxes_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:frog_prefer_jump_to"
+			"key": "minecraft:frog_prefer_jump_to"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:frogs_spawnable_on"
+			"key": "minecraft:frogs_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:geode_invalid_blocks"
+			"key": "minecraft:geode_invalid_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:goats_spawnable_on"
+			"key": "minecraft:goats_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:gold_ores"
+			"key": "minecraft:gold_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:guarded_by_piglins"
+			"key": "minecraft:guarded_by_piglins"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:hoglin_repellents"
+			"key": "minecraft:hoglin_repellents"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:ice"
+			"key": "minecraft:ice"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:impermeable"
+			"key": "minecraft:impermeable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_diamond_tool"
+			"key": "minecraft:incorrect_for_diamond_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_gold_tool"
+			"key": "minecraft:incorrect_for_gold_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_iron_tool"
+			"key": "minecraft:incorrect_for_iron_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_netherite_tool"
+			"key": "minecraft:incorrect_for_netherite_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_stone_tool"
+			"key": "minecraft:incorrect_for_stone_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:incorrect_for_wooden_tool"
+			"key": "minecraft:incorrect_for_wooden_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:infiniburn_end"
+			"key": "minecraft:infiniburn_end"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:infiniburn_nether"
+			"key": "minecraft:infiniburn_nether"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:infiniburn_overworld"
+			"key": "minecraft:infiniburn_overworld"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:inside_step_sound_blocks"
+			"key": "minecraft:inside_step_sound_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:invalid_spawn_inside"
+			"key": "minecraft:invalid_spawn_inside"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:iron_ores"
+			"key": "minecraft:iron_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:jungle_logs"
+			"key": "minecraft:jungle_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:lapis_ores"
+			"key": "minecraft:lapis_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:lava_pool_stone_cannot_replace"
+			"key": "minecraft:lava_pool_stone_cannot_replace"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:leaves"
+			"key": "minecraft:leaves"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:logs"
+			"key": "minecraft:logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:logs_that_burn"
+			"key": "minecraft:logs_that_burn"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:lush_ground_replaceable"
+			"key": "minecraft:lush_ground_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:maintains_farmland"
+			"key": "minecraft:maintains_farmland"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mangrove_logs"
+			"key": "minecraft:mangrove_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mangrove_logs_can_grow_through"
+			"key": "minecraft:mangrove_logs_can_grow_through"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mangrove_roots_can_grow_through"
+			"key": "minecraft:mangrove_roots_can_grow_through"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mineable/axe"
+			"key": "minecraft:mineable/axe"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mineable/hoe"
+			"key": "minecraft:mineable/hoe"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mineable/pickaxe"
+			"key": "minecraft:mineable/pickaxe"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mineable/shear"
+			"key": "minecraft:mineable/shear"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mineable/shovel"
+			"key": "minecraft:mineable/shovel"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mob_interactable_doors"
+			"key": "minecraft:mob_interactable_doors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mooshrooms_spawnable_on"
+			"key": "minecraft:mooshrooms_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:moss_replaceable"
+			"key": "minecraft:moss_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:mushroom_grow_block"
+			"key": "minecraft:mushroom_grow_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:needs_diamond_tool"
+			"key": "minecraft:needs_diamond_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:needs_iron_tool"
+			"key": "minecraft:needs_iron_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:needs_stone_tool"
+			"key": "minecraft:needs_stone_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:needs_wood_tool"
+			"key": "minecraft:needs_wood_tool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:nether_carver_replaceables"
+			"key": "minecraft:nether_carver_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:nylium"
+			"key": "minecraft:nylium"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:oak_logs"
+			"key": "minecraft:oak_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:occludes_vibration_signals"
+			"key": "minecraft:occludes_vibration_signals"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:overworld_carver_replaceables"
+			"key": "minecraft:overworld_carver_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:overworld_natural_logs"
+			"key": "minecraft:overworld_natural_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:parrots_spawnable_on"
+			"key": "minecraft:parrots_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:piglin_repellents"
+			"key": "minecraft:piglin_repellents"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:planks"
+			"key": "minecraft:planks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:polar_bears_spawnable_on_alternate"
+			"key": "minecraft:polar_bears_spawnable_on_alternate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:portals"
+			"key": "minecraft:portals"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:pressure_plates"
+			"key": "minecraft:pressure_plates"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:prevent_mob_spawning_inside"
+			"key": "minecraft:prevent_mob_spawning_inside"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:rabbits_spawnable_on"
+			"key": "minecraft:rabbits_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:rails"
+			"key": "minecraft:rails"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:redstone_ores"
+			"key": "minecraft:redstone_ores"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:replaceable"
+			"key": "minecraft:replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:replaceable_by_trees"
+			"key": "minecraft:replaceable_by_trees"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sand"
+			"key": "minecraft:sand"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:saplings"
+			"key": "minecraft:saplings"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sculk_replaceable"
+			"key": "minecraft:sculk_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sculk_replaceable_world_gen"
+			"key": "minecraft:sculk_replaceable_world_gen"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:shulker_boxes"
+			"key": "minecraft:shulker_boxes"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:signs"
+			"key": "minecraft:signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:slabs"
+			"key": "minecraft:slabs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:small_dripleaf_placeable"
+			"key": "minecraft:small_dripleaf_placeable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:small_flowers"
+			"key": "minecraft:small_flowers"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:smelts_to_glass"
+			"key": "minecraft:smelts_to_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:snaps_goat_horn"
+			"key": "minecraft:snaps_goat_horn"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sniffer_diggable_block"
+			"key": "minecraft:sniffer_diggable_block"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sniffer_egg_hatch_boost"
+			"key": "minecraft:sniffer_egg_hatch_boost"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:snow"
+			"key": "minecraft:snow"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:snow_layer_can_survive_on"
+			"key": "minecraft:snow_layer_can_survive_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:snow_layer_cannot_survive_on"
+			"key": "minecraft:snow_layer_cannot_survive_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:soul_fire_base_blocks"
+			"key": "minecraft:soul_fire_base_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:soul_speed_blocks"
+			"key": "minecraft:soul_speed_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:spruce_logs"
+			"key": "minecraft:spruce_logs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:stairs"
+			"key": "minecraft:stairs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:standing_signs"
+			"key": "minecraft:standing_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:stone_bricks"
+			"key": "minecraft:stone_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:stone_buttons"
+			"key": "minecraft:stone_buttons"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:stone_ore_replaceables"
+			"key": "minecraft:stone_ore_replaceables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:stone_pressure_plates"
+			"key": "minecraft:stone_pressure_plates"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:strider_warm_blocks"
+			"key": "minecraft:strider_warm_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:sword_efficient"
+			"key": "minecraft:sword_efficient"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:tall_flowers"
+			"key": "minecraft:tall_flowers"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:terracotta"
+			"key": "minecraft:terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:trail_ruins_replaceable"
+			"key": "minecraft:trail_ruins_replaceable"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:trapdoors"
+			"key": "minecraft:trapdoors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:underwater_bonemeals"
+			"key": "minecraft:underwater_bonemeals"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:unstable_bottom_center"
+			"key": "minecraft:unstable_bottom_center"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:valid_spawn"
+			"key": "minecraft:valid_spawn"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:vibration_resonators"
+			"key": "minecraft:vibration_resonators"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wall_corals"
+			"key": "minecraft:wall_corals"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wall_hanging_signs"
+			"key": "minecraft:wall_hanging_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wall_post_override"
+			"key": "minecraft:wall_post_override"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wall_signs"
+			"key": "minecraft:wall_signs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:walls"
+			"key": "minecraft:walls"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:warped_stems"
+			"key": "minecraft:warped_stems"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wart_blocks"
+			"key": "minecraft:wart_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wither_immune"
+			"key": "minecraft:wither_immune"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wither_summon_base_blocks"
+			"key": "minecraft:wither_summon_base_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wolves_spawnable_on"
+			"key": "minecraft:wolves_spawnable_on"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_buttons"
+			"key": "minecraft:wooden_buttons"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_doors"
+			"key": "minecraft:wooden_doors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_fences"
+			"key": "minecraft:wooden_fences"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_pressure_plates"
+			"key": "minecraft:wooden_pressure_plates"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_slabs"
+			"key": "minecraft:wooden_slabs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_stairs"
+			"key": "minecraft:wooden_stairs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wooden_trapdoors"
+			"key": "minecraft:wooden_trapdoors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wool"
+			"key": "minecraft:wool"
 		},
 		{
 			"weight": 1.0,
-			"key": "#minecraft:wool_carpets"
+			"key": "minecraft:wool_carpets"
 		}
 	]
 }

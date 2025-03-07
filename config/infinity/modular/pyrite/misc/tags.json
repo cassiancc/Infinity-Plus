@@ -2,159 +2,163 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#pyrite:amethyst"
+			"key": "pyrite:amethyst"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:brick_slabs"
+			"key": "pyrite:brick_slabs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:brick_stairs"
+			"key": "pyrite:brick_stairs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:brick_walls"
+			"key": "pyrite:brick_walls"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:bricks"
+			"key": "pyrite:bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:carpet"
+			"key": "pyrite:carpet"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:concrete_slabs"
+			"key": "pyrite:concrete_slabs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:concrete_stairs"
+			"key": "pyrite:concrete_stairs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:copper"
+			"key": "pyrite:copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:crafting_tables"
+			"key": "pyrite:crafting_tables"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:cut_blocks"
+			"key": "pyrite:cut_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:diamond"
+			"key": "pyrite:diamond"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:dyed_bricks"
+			"key": "pyrite:dyed_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:emerald"
+			"key": "pyrite:emerald"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:exposed_copper"
+			"key": "pyrite:exposed_copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:fences"
+			"key": "pyrite:fences"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:gold"
+			"key": "pyrite:gold"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:iron"
+			"key": "pyrite:iron"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:ladders"
+			"key": "pyrite:ladders"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:lamps"
+			"key": "pyrite:lamps"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:lapis"
+			"key": "pyrite:lapis"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:metal_bars"
+			"key": "pyrite:metal_bars"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:metal_buttons"
+			"key": "pyrite:metal_buttons"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:metal_trapdoors"
+			"key": "pyrite:metal_trapdoors"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:mushroom_stem"
+			"key": "pyrite:mushroom_stem"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:netherite"
+			"key": "pyrite:netherite"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:obsidian"
+			"key": "pyrite:obsidian"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:oxidized_copper"
+			"key": "pyrite:oxidized_copper"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:quartz"
+			"key": "pyrite:quartz"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:redstone"
+			"key": "pyrite:redstone"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:smooth_blocks"
+			"key": "pyrite:smooth_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:stained_framed_glass"
+			"key": "pyrite:stained_framed_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:stained_glass"
+			"key": "pyrite:stained_glass"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:terracotta_bricks"
+			"key": "pyrite:terracotta"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:turf_blocks"
+			"key": "pyrite:terracotta_bricks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:turf_slabs"
+			"key": "pyrite:turf_blocks"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:turf_stairs"
+			"key": "pyrite:turf_slabs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:wall_gates"
+			"key": "pyrite:turf_stairs"
 		},
 		{
 			"weight": 1.0,
-			"key": "#pyrite:weathered_copper"
+			"key": "pyrite:wall_gates"
+		},
+		{
+			"weight": 1.0,
+			"key": "pyrite:weathered_copper"
 		}
 	]
 }

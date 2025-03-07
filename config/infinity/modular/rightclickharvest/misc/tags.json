@@ -2,15 +2,15 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#rightclickharvest:blacklist"
+			"key": "rightclickharvest:blacklist"
 		},
 		{
 			"weight": 1.0,
-			"key": "#rightclickharvest:hoe_never_required"
+			"key": "rightclickharvest:hoe_never_required"
 		},
 		{
 			"weight": 1.0,
-			"key": "#rightclickharvest:radius_harvest_blacklist"
+			"key": "rightclickharvest:radius_harvest_blacklist"
 		}
 	]
 }

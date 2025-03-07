@@ -14,26 +14,6 @@
 			"weight": 1.0,
 			"key": {
 				"top": true,
-				"laggy": true,
-				"float": true,
-				"Name": "infinity:altar_cosmic",
-				"full": true
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
-				"laggy": true,
-				"float": true,
-				"Name": "infinity:altar_lit",
-				"full": false
-			}
-		},
-		{
-			"weight": 1.0,
-			"key": {
-				"top": true,
 				"laggy": false,
 				"float": true,
 				"Name": "infinity:ant",
@@ -64,10 +44,50 @@
 			"weight": 1.0,
 			"key": {
 				"top": true,
+				"laggy": true,
+				"float": false,
+				"Name": "infinity:chromatic_carpet",
+				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "infinity:chromatic_wool",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": true,
+				"float": true,
+				"Name": "infinity:cosmic_altar",
+				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
 				"laggy": false,
 				"float": true,
 				"Name": "infinity:cursor",
 				"full": true
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:haunted_air",
+				"full": false
 			}
 		},
 		{
@@ -138,6 +158,16 @@
 				"float": true,
 				"Name": "infinity:netherite_stairs",
 				"full": false
+			}
+		},
+		{
+			"weight": 1.0,
+			"key": {
+				"top": true,
+				"laggy": false,
+				"float": true,
+				"Name": "infinity:notes_block",
+				"full": true
 			}
 		},
 		{

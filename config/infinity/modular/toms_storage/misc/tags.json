@@ -2,19 +2,19 @@
 	"elements": [
 		{
 			"weight": 1.0,
-			"key": "#toms_storage:inventory_configurator_skip"
+			"key": "toms_storage:inventory_configurator_skip"
 		},
 		{
 			"weight": 1.0,
-			"key": "#toms_storage:inventory_connector_skip"
+			"key": "toms_storage:inventory_connector_skip"
 		},
 		{
 			"weight": 1.0,
-			"key": "#toms_storage:remote_activate"
+			"key": "toms_storage:remote_activate"
 		},
 		{
 			"weight": 1.0,
-			"key": "#toms_storage:trims"
+			"key": "toms_storage:trims"
 		}
 	]
 }

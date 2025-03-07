@@ -2,6 +2,10 @@
 	"elements": [
 		{
 			"weight": 1.0,
+			"key": "infinity:music.c418.classic"
+		},
+		{
+			"weight": 1.0,
 			"key": "infinity:music.ivory.challenger"
 		},
 		{

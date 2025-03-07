@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "handcrafted:hammer_stone"
+		},
+		{
+			"weight": 1.0,
+			"key": "handcrafted:hammer_wood"
+		}
+	]
+}

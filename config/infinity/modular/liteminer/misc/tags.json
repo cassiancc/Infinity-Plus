@@ -1,0 +1,12 @@
+{
+	"elements": [
+		{
+			"weight": 1.0,
+			"key": "liteminer:block_whitelist"
+		},
+		{
+			"weight": 1.0,
+			"key": "liteminer:excluded_blocks"
+		}
+	]
+}

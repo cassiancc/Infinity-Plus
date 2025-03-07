@@ -4,6 +4,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 2445989,
+				"Instant": false,
 				"Name": "minecraft:absorption"
 			}
 		},
@@ -11,6 +13,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": 745784,
+				"Instant": false,
 				"Name": "minecraft:bad_omen"
 			}
 		},
@@ -18,6 +22,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 2039587,
+				"Instant": false,
 				"Name": "minecraft:blindness"
 			}
 		},
@@ -25,6 +31,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 1950417,
+				"Instant": false,
 				"Name": "minecraft:conduit_power"
 			}
 		},
@@ -32,6 +40,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 2696993,
+				"Instant": false,
 				"Name": "minecraft:darkness"
 			}
 		},
@@ -39,6 +49,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 8954814,
+				"Instant": false,
 				"Name": "minecraft:dolphins_grace"
 			}
 		},
@@ -46,6 +58,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16750848,
+				"Instant": false,
 				"Name": "minecraft:fire_resistance"
 			}
 		},
@@ -53,6 +67,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": 9740385,
+				"Instant": false,
 				"Name": "minecraft:glowing"
 			}
 		},
@@ -60,6 +76,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 14270531,
+				"Instant": false,
 				"Name": "minecraft:haste"
 			}
 		},
@@ -67,6 +85,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16284963,
+				"Instant": false,
 				"Name": "minecraft:health_boost"
 			}
 		},
@@ -74,6 +94,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 4521796,
+				"Instant": false,
 				"Name": "minecraft:hero_of_the_village"
 			}
 		},
@@ -81,6 +103,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 5797459,
+				"Instant": false,
 				"Name": "minecraft:hunger"
 			}
 		},
@@ -88,6 +112,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 9214860,
+				"Instant": false,
 				"Name": "minecraft:infested"
 			}
 		},
@@ -95,6 +121,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 11101546,
+				"Instant": true,
 				"Name": "minecraft:instant_damage"
 			}
 		},
@@ -102,6 +130,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16262179,
+				"Instant": true,
 				"Name": "minecraft:instant_health"
 			}
 		},
@@ -109,6 +139,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16185078,
+				"Instant": false,
 				"Name": "minecraft:invisibility"
 			}
 		},
@@ -116,6 +148,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16646020,
+				"Instant": false,
 				"Name": "minecraft:jump_boost"
 			}
 		},
@@ -123,6 +157,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 13565951,
+				"Instant": false,
 				"Name": "minecraft:levitation"
 			}
 		},
@@ -130,6 +166,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 5882118,
+				"Instant": false,
 				"Name": "minecraft:luck"
 			}
 		},
@@ -137,6 +175,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 4866583,
+				"Instant": false,
 				"Name": "minecraft:mining_fatigue"
 			}
 		},
@@ -144,6 +184,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 5578058,
+				"Instant": false,
 				"Name": "minecraft:nausea"
 			}
 		},
@@ -151,6 +193,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 12779366,
+				"Instant": false,
 				"Name": "minecraft:night_vision"
 			}
 		},
@@ -158,6 +202,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 10092451,
+				"Instant": false,
 				"Name": "minecraft:oozing"
 			}
 		},
@@ -165,6 +211,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 8889187,
+				"Instant": false,
 				"Name": "minecraft:poison"
 			}
 		},
@@ -172,6 +220,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": 14565464,
+				"Instant": false,
 				"Name": "minecraft:raid_omen"
 			}
 		},
@@ -179,6 +229,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 13458603,
+				"Instant": false,
 				"Name": "minecraft:regeneration"
 			}
 		},
@@ -186,6 +238,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 9520880,
+				"Instant": false,
 				"Name": "minecraft:resistance"
 			}
 		},
@@ -193,6 +247,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16262179,
+				"Instant": true,
 				"Name": "minecraft:saturation"
 			}
 		},
@@ -200,6 +256,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 15978425,
+				"Instant": false,
 				"Name": "minecraft:slow_falling"
 			}
 		},
@@ -207,6 +265,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 9154528,
+				"Instant": false,
 				"Name": "minecraft:slowness"
 			}
 		},
@@ -214,6 +274,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 3402751,
+				"Instant": false,
 				"Name": "minecraft:speed"
 			}
 		},
@@ -221,6 +283,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 16762624,
+				"Instant": false,
 				"Name": "minecraft:strength"
 			}
 		},
@@ -228,6 +292,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "neutral",
+				"Color": 1484454,
+				"Instant": false,
 				"Name": "minecraft:trial_omen"
 			}
 		},
@@ -235,6 +301,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 12624973,
+				"Instant": false,
 				"Name": "minecraft:unluck"
 			}
 		},
@@ -242,6 +310,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "beneficial",
+				"Color": 10017472,
+				"Instant": false,
 				"Name": "minecraft:water_breathing"
 			}
 		},
@@ -249,6 +319,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 4738376,
+				"Instant": false,
 				"Name": "minecraft:weakness"
 			}
 		},
@@ -256,6 +328,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 7891290,
+				"Instant": false,
 				"Name": "minecraft:weaving"
 			}
 		},
@@ -263,6 +337,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 12438015,
+				"Instant": false,
 				"Name": "minecraft:wind_charged"
 			}
 		},
@@ -270,6 +346,8 @@
 			"weight": 1.0,
 			"key": {
 				"Category": "harmful",
+				"Color": 7561558,
+				"Instant": false,
 				"Name": "minecraft:wither"
 			}
 		}
